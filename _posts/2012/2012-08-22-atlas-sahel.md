@@ -6,8 +6,8 @@ categories: atlas
 source: 'UNEP, Nairobi'
 
 date: 2012-08-22
-doiurl: 'http://www.unep.org/dewa/Portals/67/pdf/Sahel_Atlas_lowres.pdf'
+doiurl: 'https://www.unenvironment.org/resources/report/sahel-atlas-changing-landscapes-tracing-trends-and-variations-vegetation-cover-and'
 
 ---
 
-[Vågen, T and T. Gumbricht (2012). Sahel Atlas of Changing Landscapes: Tracing trends and variations in vegetation cover and soil condition. Nairobi: UNEP.](http://www.unep.org/dewa/Portals/67/pdf/Sahel_Atlas_lowres.pdf)
+[Vågen, T and T. Gumbricht (2012). Sahel Atlas of Changing Landscapes: Tracing trends and variations in vegetation cover and soil condition. Nairobi: UNEP.](https://www.unenvironment.org/resources/report/sahel-atlas-changing-landscapes-tracing-trends-and-variations-vegetation-cover-and)
