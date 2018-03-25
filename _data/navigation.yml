@@ -2,14 +2,23 @@
 - title: "Home"
   url: /
 
+- title: "CV"
+  url: /cv/
+
+- title: "Projects"
+  url: /projects/
+
 - title: "Publications"
   url: /publications/
 
 - title: "Teaching"
   url: /teaching/
 
-- title: "CV"
-  url: /cv/
+- title: "Talks/posters"
+  url: /talks/
+
+- title: "Supplement"
+  url: /supplement/
 
 - title: "Blog"
   url: /blog/

@@ -4,7 +4,6 @@ title: Teaching material
 excerpt: "An archive of teaching material"
 search_omit: true
 share: true
-
 ---
 
 I do not really like powerpoint (or keynote as I am a mac user). I prefer blackboard (the old type) both as a teacher and when in the audience.

@@ -1,17 +1,25 @@
 ---
-title: "The topography of the Okavango Delta, Botswana, and its tectonic and sedimentological implications."
+title: "Remote sensing to detect sub-surface peat fires and peat fire scars in the Okavango Delta, Botswana."
 authors: "Gumbricht, T. et al."
 layout: publication
 categories: journal
-source: '<i>South African J of Geology</i>, 104(3), 243–264'
+source: '<i>South African J of Science</i>, 98(7 & 8), 351–358'
 
-date: 2001-09-01
-doiurl: 'http://doi.org/10.2113/1040243'
-
+date: 2002-07-01
+doiurl: 'https://journals.co.za/content/sajsci/98/7-8/EJC97510'
+projectid: okavango
+project: Okavango
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
+access: 'closed'
 ---
 
-[Gumbricht, T., McCarthy, T. S., & Merry, C. L. (2001). The topography of the Okavango Delta, Botswana, and its tectonic and sedimentological implications. South African Journal of Geology, 104(3), 243–264.](http://doi.org/10.2113/1040243)
+[Gumbricht, T., McCarthy, T. S., Mccarthy, J., Roy, D. P., Frost, P. E., & Wessels, K. (2002). Remote sensing to detect sub-surface peat fires and peat fire scars in the Okavango Delta, Botswana. South African Journal of Science, 98(7 & 8), 351–358.](https://journals.co.za/content/sajsci/98/7-8/EJC97510)
 
 <h1 class='foot-description'>Abstract</h1>
 
-A topographic map of the Okavango Delta and environs has been constructed using a combination of elevation data including trigonometric beacons and spot heights from the government of Botswana, surveys of the navigable channels, U. S. Department of Defense data and measurements made during a geophysical survey of the region. The topography provides insight into the local tectonic and sedimentary history. Local tectonics are dominated by uplift and horst formation associated with the Ghanzi Ridge, and an arch to the north of the Panhandle, which appear to represent the tips of incipient rifts which are propagating from the northeast. The Delta has formed in the resulting depression between these arches. The Panhandle has developed along a fault, and may be largely an erosional feature incised into the northern uplift zone. The Delta itself is an alluvial fan of remarkably uniform gradient. There is no evidence of regional tilting of the fan surface. Local highs and lows are developed on the fan, but channel location is relatively insensitive to this local topography. Moreover, marked elevation differences exist between adjacent channels, creating hydrologically unstable conditions. These unusual features of the local hydrology arise because of the confining effect of channel-flanking vegetation. Sedimentation in the Delta appears to be causing crustal sagging of the central Delta, which has: tilted the major palaeo-shoreline of the Mababe Depression to the west; formed a local depression within the Ghanzi Ridge facing the Delta; and detached a sliver of the ridge along the Thamalakane fault. It is suggested that local seismicity also results mainly from sediment loading. The Selinda spillway occupies a marked local depression, which is a graben between the Gumare fault and an extension of the Linyanti fault. It is probable that southwesterly propagation of the uplift zone associated with the incipient rift will ultimately deflect the Okavango River into the Chobe-Zambezi river system via this graben.
+As a consequence of the constantly shifting water distribution in the Okavango Delta, Botswana, peat accumulated in former wetlands adjacent to receding channels is consumed by fire in successive layers as the peat desiccates. Burning peat has been recorded around the dying Thaoge channel since themid-19th century. In this study, five different remote sensors were used to detect peat fires in and around the Okavango Delta. ATSR data were used to study the annual cycle from 1999 to 2000, AVHRR data and MODIS data were used to monitor the 2000 fire season, and the MODIS Airborne Simulator and Landsat ETM data were employed for high-resolution studies of single fire events. Peat fires were detected using absolute thresholds in the mid-infrared spectrum, the difference between mid and thermal infrared brightness temperatures, and a threshold in the visible to near-infrared spectrum. Lower thresholds than normally used had to be adopted to detect the fires, which led to an overestimation of fires over other areas. The MODIS Airborne Simulator successfully identified the state of peat fires. Making use of a standard fixed threshold, active-fire detection algorithms, ATSR, AVHRR and MODIS data identified only intense surface fires. Peat fires were distinguished only by using a &lt;I&gt;priori&lt;/I&gt; knowledge of either spatial distributions or temporal history. Landsat ETM data could not be used to detect these fires. The peat fires have an annual cycle, with a maximum during the dry winter, coinciding with the surface fire season, and a dormant state during the wet summer. Night-time imagery was necessary to detect sub-surface fires. The present area of peat fires in the Okavango is approximately 100km<sup>2</sup>, which is expected to make negligible contributions to regional trace gas and particulate emissions.

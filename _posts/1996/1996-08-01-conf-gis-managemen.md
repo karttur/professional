@@ -6,6 +6,14 @@ categories: conference
 source: '<i>Geoinformatics</i> (pp. 262–267)'
 
 date: 1996-06-01
+projectid: phd
+project: "The water organized landscape"
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
 
 ---
 

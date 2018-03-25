@@ -6,6 +6,14 @@ categories: conference
 source: '<i>14th Salt Water Intrusion Meeting</i> (SWIM-96) (pp. 188–197)'
 
 date: 1996-06-01
+projectid:
+project: "The water organized landscape"
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
 
 ---
 

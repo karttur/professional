@@ -8,6 +8,17 @@ categories: refereechapter
 source: '<i>Multitemporal Remote Sensing</i> (pp. 233–253)'
 date: 2016-11-30
 doiurl: 'https://doi.org/10.1007/978-3-319-47037-5_12'
+projectid: swamp
+project: "Mapping and monitoring of global wetlands and peatlands"
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
+place:
+access: 'closed'
+okavango: true
 ---
 
 [Gumbricht, T. (2015). Soil Moisture Dynamics Estimated from MODIS Time Series Images. In Y. Ban (Ed.), Multitemporal Remote Sensing (pp. 233–253). Springer. DOI :10.1007/978-3-319- 47037-5_12.](https://doi.org/10.1007/978-3-319-47037-5_12)

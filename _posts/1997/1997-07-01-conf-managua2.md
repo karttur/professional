@@ -6,6 +6,14 @@ categories: conference
 source: '<i>Proceedings ScanGIS´97</i> (pp 209-215)'
 
 date: 1997-07-01
+projectid: kthinternational
+location: Nicaragua
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
 
 ---
 

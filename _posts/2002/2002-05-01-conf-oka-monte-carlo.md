@@ -6,6 +6,14 @@ categories: conference
 source: '<i>Environmental Monitoring of Tropical and Subtropical Wetlands</i> (pp. 4-8)'
 
 date: 2002-05-01
+projectid: okavango
+project: Okavango
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
 
 ---
 

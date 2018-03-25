@@ -1,133 +1,48 @@
 ---
 layout: publication
 title: Publications
-excerpt: "An archive of articles sorted by date."
+excerpt: "An archive of articles sorted by publication type and date."
 search_omit: true
 share: true
-
 ---
+Click on source icon to get online pdf versions (articles with no icon are not available online), or click the title to see abstract.
 
-<h1 class='foot-description'>Journal articles</h1>
-
+### Journal articles
 
 <ul class="post-list">
 {% for post in site.categories.journal %}
-  <li><article>
-  {% if post.authors %}
-    <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-  {% if post.source %}
-  {% if post.doiurl %}
-    <a href="{{ post.doiurl }}">
-    {{ post.source }}
-    </a>
-   {% else %}
-   {{ post.source }}
-   {% endif %}
-  {% endif %}
-  (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-  </span>
-  {% endif %}
-  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-  </article></li>
-  {% endfor %}
+    {% include publication.html post=post %}
+{% endfor %}  
 </ul>
 
-<h1 class='foot-description'></h1>
-<h1 class='foot-description'>Atlas</h1>
+### Atlas
 
 <ul class="post-list">
 {% for post in site.categories.atlas %}
-  <li><article>
-  {% if post.authors %}
-    <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-  {% if post.source %}
-  {% if post.doiurl %}
-    <a href="{{ post.doiurl }}">
-    {{ post.source }}
-    </a>
-   {% else %}
-   {{ post.source }}
-   {% endif %}
-  {% endif %}
-  (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-  </span>
-  {% endif %}
-  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-  </article></li>
-  {% endfor %}
+    {% include publication.html post=post %}
+{% endfor %}  
 </ul>
 
-<h1 class='foot-description'></h1>
-<h1 class='foot-description'>Refereed chapters</h1>
+### Book chapters
 
 <ul class="post-list">
 {% for post in site.categories.refereechapter %}
-  <li><article>
-  {% if post.authors %}
-    <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-  {% if post.source %}
-  {% if post.doiurl %}
-    <a href="{{ post.doiurl }}">
-    {{ post.source }}
-    </a>
-   {% else %}
-   {{ post.source }}
-   {% endif %}
-  {% endif %}
-  (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-  </span>
-  {% endif %}
-  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-  </article></li>
-  {% endfor %}
+    {% include publication.html post=post %}
+{% endfor %}  
 </ul>
 
-<h1 class='foot-description'></h1>
-<h1 class='foot-description'>Refereed scientific reports</h1>
+### Scientific reports
 
 <ul class="post-list">
 {% for post in site.categories.report %}
-  <li><article>
-  {% if post.authors %}
-    <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-  {% if post.source %}
-  {% if post.doiurl %}
-    <a href="{{ post.doiurl }}">
-    {{ post.source }}
-    </a>
-   {% else %}
-   {{ post.source }}
-   {% endif %}
-  {% endif %}
-  (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-  </span>
-  {% endif %}
-  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-  </article></li>
-  {% endfor %}
+    {% include publication.html post=post %}
+{% endfor %}  
 </ul>
 
-<h1 class='foot-description'></h1>
-<h1 class='foot-description'>Conference proceedings</h1>
+### Conference proceedings
 
 <ul class="post-list">
 {% for post in site.categories.conference %}
-  <li><article>
-  {% if post.authors %}
-    <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-  {% if post.source %}
-  {% if post.doiurl %}
-    <a href="{{ post.doiurl }}">
-    {{ post.source }}
-    </a>
-   {% else %}
-   {{ post.source }}
-   {% endif %}
-  {% endif %}
-  (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-  </span>
-  {% endif %}
-  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-  </article></li>
-  {% endfor %}
+    {% include publication.html post=post %}
+{% endfor %}  
 </ul>

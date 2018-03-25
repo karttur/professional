@@ -7,7 +7,16 @@ source: '<i>HydroGIS 96: Application of Geographic Information Systems in Hydrol
 
 date: 1996-06-01
 doiurl: 'http://hydrologie.org/redbooks/a235/iahs_235_0115.pdf'
-
+projectid: phd
+project: "Water organized landscapes"
+location:
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
+access: 'closed'
 ---
 
 [Gumbricht, T. (1996b). Landscape interfaces and transparency to hydrological functions. In K. Kovar & H. Nachtnebel (Eds.), HydroGIS 96: Application of Geographic Information Systems in Hydrology and Water Resources Management. (Vol. IAHS Publ, pp. 115–121). IAHS Press.](http://hydrologie.org/redbooks/a235/iahs_235_0115.pdf).

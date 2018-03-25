@@ -6,7 +6,17 @@ categories: report
 source: 'CIFOR, Bogor'
 
 date: 2012-08-22
-doiurl: 'http://academicpages.github.io/files/paper1.pdf'
+doiurl: 'https://www.cifor.org/library/4014/mapping-global-tropical-wetlands-from-earth-observing-satellite-imagery/'
+doi: 10.17528/cifor/004014
+projectid: swamp
+project: "Mapping and monitoring of global wetlands and peatlands"
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
+access: 'open'
 ---
 
 [Gumbricht, T. (2012). Mapping global tropical wetlands from earth observing satellite imagery (Working Paper 103)., CIFOR, Bogor.](http://www.cifor.org/publications/pdf_files/WPapers/WP103CIFOR.pdf)

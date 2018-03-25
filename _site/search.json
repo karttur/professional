@@ -2,9 +2,33 @@
 
   
     {
+      "title"			: "Optical remote sensing of wetlands and lakes, hybrid approaches",
+      "link"			: "http://localhost:4000/talk/NASA-wetlandmapping/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Monitoring peatland degradation: the case study of the Okavango River Delta, Botswana",
+      "link"			: "http://localhost:4000/talk/COP23-oka-change/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "An expert system model for mapping tropical wetlands and peatlands reveals South America as the largest contributor.",
       "link"			: "http://localhost:4000/journal/gbc-pantropical-wetlands/",
-      "excerpt"		: "Gumbricht, T., Roman-Cuesta, R. M., Verchot, L., Herold, M., Wittmann, F., Householder, E., Herold, N. and Murdiyarso, D. (2017), An expert system model for mapping tropical wetlands and peatlands reveals South America as the largest contributor. Global Change Biology, 23, 3581–3599."
+      "excerpt"		: "Gumbricht, T., Roman-Cuesta, R. M., Verchot, L., Herold, M., Wittmann, F., Householder, E., Herold, N. and Murdiyarso, D. (2017), An expert system model for mapping tropical wetlands and peatlands reveals South America as the largest contributor. Global Change Biology, 23, 3581–3599. "
+    }
+  
+
+  
+    ,{
+      "title"			: "An expert approach for identifying and mapping tropical wetlands and peatlands: areas, depths and volumes.",
+      "link"			: "http://localhost:4000/talk/gsoc17-wetlandmapping/",
+      "excerpt"		: ""
     }
   
 
@@ -34,6 +58,46 @@
 
   
     ,{
+      "title"			: "Orthogonal matrix transformed density mapping of vegetation features.",
+      "link"			: "http://localhost:4000/poster/poster-earsel-veg-class/",
+      "excerpt"		: "Orthogonal matrix transformed density mapping of vegetation features.  "
+    }
+  
+
+  
+    ,{
+      "title"			: "Mapping Water Bodies and Wetlands from Multi-Spectral Optical Satellite Images.",
+      "link"			: "http://localhost:4000/poster/mwbs-wetlandmap/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Hybrid mapping of tropical wetlands (movie)",
+      "link"			: "http://localhost:4000/talk/talk-movie-cifor-wetlandmapping/",
+      "excerpt"		: " Hybrid mapping of tropical wetlands "
+    }
+  
+
+  
+    ,{
+      "title"			: "Mapping extent, volume and carbon content of global tropical wetlands",
+      "link"			: "http://localhost:4000/talk/cifor-wetlandmapping/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Mapping global tropical wetlands",
+      "link"			: "http://localhost:4000/talk/FAO-wetland-mapping/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Mapping global tropical wetlands from earth observing satellite imagery.",
       "link"			: "http://localhost:4000/report/report-wetland-mapping/",
       "excerpt"		: "Gumbricht, T. (2012). Mapping global tropical wetlands from earth observing satellite imagery (Working Paper 103)., CIFOR, Bogor."
@@ -51,7 +115,7 @@
   
     ,{
       "title"			: "Do ecosystem services influence household wealth in rural Mali?",
-      "link"			: "http://localhost:4000/journal/ecolecon-rural-Mali/",
+      "link"			: "http://localhost:4000/journal/journal-ecolecon-rural-Mali/",
       "excerpt"		: "Liebenow, D. K., Cohen, M. J., Gumbricht, T., Shepherd, K. D., &amp; Shepherd, G. (2012). Do ecosystem services influence household wealth in rural Mali? Ecological Economics, 82, 33– 44."
     }
   
@@ -66,9 +130,169 @@
 
   
     ,{
+      "title"			: "Mapping carbon content of global tropical wetlands",
+      "link"			: "http://localhost:4000/talk/talk-cifor-wetlandmapping/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Sustainable Wetlands Adaptation and Mitigation Program (SWAMP)",
+      "link"			: "http://localhost:4000/project/project-swamp/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "ICRAF Geoinformatic unit",
+      "link"			: "http://localhost:4000/talk/talk-ICRAF-geoinfo-unit/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 10 – Importing , exporting and projecting layers.",
+      "link"			: "http://localhost:4000/training/training-laketanganyika-10/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 9 – Decision support for identifying landscape erosion risk.",
+      "link"			: "http://localhost:4000/training/training-laketanganyika-9/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 8 – Present and future climate scenario, and modeling species suitability.",
+      "link"			: "http://localhost:4000/training/training-laketanganyika-8/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 7 – Generating slope data.",
+      "link"			: "http://localhost:4000/training/training-laketanganyika-7/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 6 – Rain Normalized NDVI and land degradation hotspots.",
+      "link"			: "http://localhost:4000/training/training-laketanganyika-6/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 5 – Vegetation and time series data.",
+      "link"			: "http://localhost:4000/training/training-laketanganyika-5/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 4 – Grid/raster data.",
+      "link"			: "http://localhost:4000/training/training-laketanganyika-4/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 3 – Selecting features, labeling and designing maps.",
+      "link"			: "http://localhost:4000/training/training-laketanganyika-3/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 2 – Symbolization.",
+      "link"			: "http://localhost:4000/training/training-laketanganyika-2/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 1 – DIVA-GIS basics.",
+      "link"			: "http://localhost:4000/training/training-laketanganyika-1/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 0 – Install DIVA GIS.",
+      "link"			: "http://localhost:4000/training/training-laketanganyika-0/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Tanganyika Basin training DVD - Zambia.",
+      "link"			: "http://localhost:4000/dvd/dvd-zambia-laketanganyika/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Tanganyika Basin training DVD - Tanzania.",
+      "link"			: "http://localhost:4000/dvd/dvd-tanzania-laketanganyika/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Tanganyika Basin training DVD - DRC.",
+      "link"			: "http://localhost:4000/dvd/dvd-drc-laketanganyika/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Vegetation and land cover changes in the cocoa belt in Ivory Coast.",
+      "link"			: "http://localhost:4000/talk/talk-ICRAF-deforestation-ivory-coast/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa. Final Report.",
       "link"			: "http://localhost:4000/report/report-UNEP/",
       "excerpt"		: "Gumbricht, T. (2010). Final Report Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa with Emphasis on Pilot One UN Countries: Mozambique, Tanzania and Rwanda. Nairobi, World Agroforestry Center (ICRAF). 67 p."
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Tanganyika Basin Land cover change and degradation hotspots.",
+      "link"			: "http://localhost:4000/talk/icraf-laketanganyika/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Tanganyika Regional Integrated Management Project.",
+      "link"			: "http://localhost:4000/project/project-Tanganyka/",
+      "excerpt"		: ""
     }
   
 
@@ -82,24 +306,552 @@
 
   
     ,{
+      "title"			: "West Africa Sahel: Changing Landscapes (movie)",
+      "link"			: "http://localhost:4000/talk/talk-ICRAF-sahel-atlas_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Spatial statistics and interpolation",
+      "link"			: "http://localhost:4000/lecture-1n1654/1n1654-06-sam-geostats/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Uncertainty in geographic information",
+      "link"			: "http://localhost:4000/lecture-1n1654/1n1654-06-sam-uncertainty/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Analys as rasterdata (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1654/1n1654-06-sam-raster-data/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Introduktion till dataanalyis i GIS (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1654/1n1654-05-sam-data-analysis/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Geovisualisering (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1654/1n1654-04-sam-geovis/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Datainsamling (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1654/1n1654-03-sam-datainsamling/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Basic Analysis Tools",
+      "link"			: "http://localhost:4000/lecture-1n1654/1n1654-02-sam-basic-analysis/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Introduktion till GIS i samhällsbyggnad (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1654/1n1654-01-sam-introduction/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "West Africa Sahel: Changing Landscapes",
+      "link"			: "http://localhost:4000/talk/talk-ICRAF-sahel_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Okavango",
+      "link"			: "http://localhost:4000/talk/okavango-travellers-club_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Maps as decision tools",
+      "link"			: "http://localhost:4000/lecture-ag2412/ag2412-08-visualization-DSS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Virtual and Augmented Reality",
+      "link"			: "http://localhost:4000/lecture-ag2412/ag2412-07-visualization-3DVR/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 7 – Importing, exporting and projecting layers.",
+      "link"			: "http://localhost:4000/training/training-sahel-07-divagis/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson6 – Rain Normalized NDVI",
+      "link"			: "http://localhost:4000/training/training-sahel-06-divagis/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 5 – Vegetation and time series data.",
+      "link"			: "http://localhost:4000/training/training-sahel-05-divagis/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 4 – Grid/raster data",
+      "link"			: "http://localhost:4000/training/training-sahel-04-divagis/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 3 – Selecting features, labeling and designing maps.",
+      "link"			: "http://localhost:4000/training/training-sahel-03-divagis/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 2 – Symbolization.",
+      "link"			: "http://localhost:4000/training/training-sahel-02-divagis/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Thematic Mapping",
+      "link"			: "http://localhost:4000/lecture-ag2412/ag2412-06-visualization-thematic/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Exploratory Data Analysis",
+      "link"			: "http://localhost:4000/lecture-ag2412/ag2412-05-visualization-EDA/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Maps and the World Wide Web",
+      "link"			: "http://localhost:4000/lecture-ag2412/ag2412-04-visualization-web-mapping/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Graphic variables and map design",
+      "link"			: "http://localhost:4000/lecture-ag2412/ag2412-03-visualization-graphics/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Visual perception and map interpretation",
+      "link"			: "http://localhost:4000/lecture-ag2412/ag2412-02-visualization-perception/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Introduction to geovisualisation",
+      "link"			: "http://localhost:4000/lecture-ag2412/ag2412-01-visualization-introduction/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Sammanfattning (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1651/1n1651-09-GIS-summary/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "LESSON 7 – EXPORTING, IMPORTING AND PROJECTING DATA LAYERS.",
+      "link"			: "http://localhost:4000/training/training-7-ICRAF-kenya-FFS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "LESSON 6 – MODERATE RESOLUTION SATELLITE IMAGES AND RAIN USE EFFICIENCY.",
+      "link"			: "http://localhost:4000/training/training-6-ICRAF-kenya-FFS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "LESSON 5 – VEGETATION AND TIME SERIES DATA.",
+      "link"			: "http://localhost:4000/training/training-5-ICRAF-kenya-FFS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "LESSON 4 – GRID/RASTER DATA.",
+      "link"			: "http://localhost:4000/training/training-4-ICRAF-kenya-FFS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "LESSON 3 – SELECTING FEATURES, LABELING AND DESIGNING MAPS.",
+      "link"			: "http://localhost:4000/training/training-3-ICRAF-kenya-FFS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "LESSON 2 – SYMBOLIZATION.",
+      "link"			: "http://localhost:4000/training/training-2-ICRAF-kenya-FFS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "LESSON 1 – DIVA-GIS BASICS.",
+      "link"			: "http://localhost:4000/training/training-1-ICRAF-kenya-FFS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "LESSON 0 – INSTALL DIVA-GIS.",
+      "link"			: "http://localhost:4000/training/training-0-ICRAF-kenya-FFS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Understanding human-induced degradation of dryland agricultural and natural ecosystems.",
+      "link"			: "http://localhost:4000/report/report-ICRAF-kenya-FFS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "FFS traning DVD - Narok.",
+      "link"			: "http://localhost:4000/dvd/DVD-narok-ICRAF-kenya-FFS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "FFS traning DVD - Mwingi",
+      "link"			: "http://localhost:4000/dvd/DVD-mwingi-ICRAF-kenya-FFS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "FFS traning DVD - Mbeere",
+      "link"			: "http://localhost:4000/dvd/DVD-mbeere-ICRAF-kenya-FFS/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Kartografi (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1651/1n1651-07-GIS-kartografi/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "3D GIS (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1651/1n1651-07-GIS-3D/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Dataanalys (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1651/1n1651-06-GIS-data-analysis/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Projektioner (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1651/1n1651-05-GIS-projektioner/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "West African Drylands Project land degradation monitoring training DVD",
+      "link"			: "http://localhost:4000/dvd/DVD-sahel-ICRAF/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Databaser (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1651/1n1651-04-GIS-databases/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Datamodeller (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1651/1n1651-03-GIS-datamodels/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Datainsamling (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1651/1n1651-02-GIS-data-capture/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Introduktion till GIS (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1651/1n1651-01-GIS-introduction/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Understanding human-induced degradation of dryland agricultural and natural ecosystems.",
+      "link"			: "http://localhost:4000/talk/OASIS-land-degradation/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 1 – DIVA-GIS basics",
+      "link"			: "http://localhost:4000/training/training-sahel-01-divagis/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lesson 0 – Install DIVA-GIS.",
+      "link"			: "http://localhost:4000/training/training-sahel-00-divagis/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Kenya Farmer Field School",
+      "link"			: "http://localhost:4000/project/project-ICRAF-farmer-field-school/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Modelling of the flooding in the Okavango Delta, Botswana, using a hybrid reservoir-GIS model.",
-      "link"			: "http://localhost:4000/journal/joh-oka-hybrid-model/",
+      "link"			: "http://localhost:4000/journal/journal-joh-oka-hybrid-model/",
       "excerpt"		: "Wolski, P., Savenije, H. H. G., Murray-Hudson, M., &amp; Gumbricht, T. (2006). Modelling of the flooding in the Okavango Delta, Botswana, using a hybrid reservoir-GIS model. Journal of Hydrology, 331(1–2), 58–72."
     }
   
 
   
     ,{
+      "title"			: "Landcover changes in the Rwenzori Mountains: the glaciers retreat - updated",
+      "link"			: "http://localhost:4000/talk/talk-ICRAF-rewenzori-landcover_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Land Cover Changes in the Rwenzori Mountains 1973-2005.",
+      "link"			: "http://localhost:4000/training/training-FAO-rewenzori-glaciers_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Landcover changes in the Rwenzori Mountains: the glaciers retreat",
+      "link"			: "http://localhost:4000/talk/talk-FAO-rewenzori-landcover_gs-tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Glaciers in the Rwenzori Mountains: a reinterpretation",
+      "link"			: "http://localhost:4000/talk/talk-FAO-rewenzori-glaciers_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Rwenzori Mountains Uganda - commemorate centennial climb",
+      "link"			: "http://localhost:4000/project/project-rewenzori_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Rwenzori Mountains - Satellite Images",
+      "link"			: "http://localhost:4000/poster/poster-FAO-rewenzori-images_tg/",
+      "excerpt"		: "Slide the mouse over the image, right click and select &quot;Save Link As&quot; or click on the map to get a pop-up image that you can drag to your desktop. The full size image is a jpg file in A0 format (4.7 MB)."
+    }
+  
+
+  
+    ,{
+      "title"			: "Rwenzori Mountains - Glacier Retreat 1906 - 2005",
+      "link"			: "http://localhost:4000/poster/poster-FAO-rewenzori-glacier_tg/",
+      "excerpt"		: "Slide the mouse over the image, right click and select &quot;Save Link As&quot; or click on the map to get a pop-up image that you can drag to your desktop. The full size image is a jpg file in A0 format (4.7 MB)."
+    }
+  
+
+  
+    ,{
       "title"			: "A regional coupled surface water/groundwater model of the Okavango Delta, Botswana",
-      "link"			: "http://localhost:4000/journal/wrr-oka-delta-model/",
+      "link"			: "http://localhost:4000/journal/journal-wrr-oka-delta-model/",
       "excerpt"		: "Bauer, P., Gumbricht, T., &amp; Kinzelbach, W. (2006). A regional coupled surface water/groundwater model of the Okavango Delta, Botswana Water Resources Research, 42(4), 1–15."
     }
   
 
   
     ,{
+      "title"			: "Knowledge based classification of the Okavango Delta - Botswana",
+      "link"			: "http://localhost:4000/talk/ICRAF-rs-veg-5-oka-rules/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Remote sensing of vegetation: Part 1 theory",
+      "link"			: "http://localhost:4000/talk/ICRAF-rs-veg-4-pca_2006_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Vegetation dynamics of the Sahel, 1982-2004",
+      "link"			: "http://localhost:4000/talk/ICRAF-rs-veg-3-sahelchange/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Remote sensing of vegetation: Part 2 Sahel examples",
+      "link"			: "http://localhost:4000/talk/ICRAF-rs-veg-2-sahel/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Remote sensing of vegetation: Part 1 theory",
+      "link"			: "http://localhost:4000/talk/ICRAF-rs-veg-1-theory_2006_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Image processing",
+      "link"			: "http://localhost:4000/talk/ICRAF-rs-0-image-processing_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Land degradation surveillance",
+      "link"			: "http://localhost:4000/talk/ICRAF-land-degradation-surveillance/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Senior Lecturer, Geoinformatics (KTH).",
+      "link"			: "http://localhost:4000/project/project-KTH-geoinfo/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Ecoregion classification in the Okavango Delta, Botswana from multitemporal remote sensing.",
-      "link"			: "http://localhost:4000/journal/ijrs-oka-ecoregion/",
+      "link"			: "http://localhost:4000/journal/journal-ijrs-oka-ecoregion/",
       "excerpt"		: "McCarthy, J., Gumbricht, T., &amp; McCarthy, T. S. (2005). Ecoregion classification in the Okavango Delta, Botswana from multitemporal remote sensing. International Journal of Remote Sensing, 26(19), 4339–4357."
     }
   
@@ -108,14 +860,30 @@
     ,{
       "title"			: "Lake level and area variations 1960 to 2002 in Lake Kyoga, Uganda",
       "link"			: "http://localhost:4000/conference/conf-kyoga-levels/",
-      "excerpt"		: "Gumbricht, T. (2005), Lake level and area variations 1960 to 2002 in Lake Kyoga, Uganda. 11th World Lakes Conference, Nairobi, Proceeding vol. 2 (pp. 391-396). Eds (Eric O. Odada, Daniel O. Olago, Washington Ochola, Micheni Ntiba, Shem Wandiga, Nathan Gichuki and Helida Oyieke)."
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Farmer field school.",
+      "link"			: "http://localhost:4000/dvd/DVD-mbarara/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake level and area variations 1960 to 2002 in Lake Kyoga, Uganda.",
+      "link"			: "http://localhost:4000/talk/talk-lakeconf-kyoga/",
+      "excerpt"		: ""
     }
   
 
   
     ,{
       "title"			: "The micro-topography of the wetlands of the Okavango Delta, Botswana.",
-      "link"			: "http://localhost:4000/journal/espl-oka-microtopo/",
+      "link"			: "http://localhost:4000/journal/journal-espl-oka-microtopo/",
       "excerpt"		: "Gumbricht, T., McCarthy, T. S., &amp; Bauer, P. (2005). The micro-topography of the wetlands of the Okavango Delta, Botswana. Earth Surface Processes and Landforms, 30(1), 27–39."
     }
   
@@ -123,7 +891,7 @@
   
     ,{
       "title"			: "WASUBI: a GIS tool for subbasin identification in topographically complex waterscapes.",
-      "link"			: "http://localhost:4000/journal/envmodsoft-wasubi/",
+      "link"			: "http://localhost:4000/journal/journal-envmodsoft-wasubi/",
       "excerpt"		: "Gyllenhammar, A., &amp; Gumbricht, T. (2005). WASUBI: a GIS tool for subbasin identification in topographically complex waterscapes. Environmental Modelling &amp; Software, 20(6), 729–736."
     }
   
@@ -131,7 +899,7 @@
   
     ,{
       "title"			: "Forecasting the spatial extent of the annual flood in the Okavango delta, Botswana.",
-      "link"			: "http://localhost:4000/journal/joh-oka-flood-forecast/",
+      "link"			: "http://localhost:4000/journal/journal-joh-oka-flood-forecast/",
       "excerpt"		: "Gumbricht, T., Wolski, P., Frost, P., &amp; McCarthy, T. (2004). Forecasting the spatial extent of the annual flood in the Okavango delta, Botswana. Journal of Hydrology, 290(3–4), 178–191."
     }
   
@@ -146,8 +914,24 @@
 
   
     ,{
+      "title"			: "Interated management of Lake Kyoga natural resources.",
+      "link"			: "http://localhost:4000/poster/poster-kyoga-sat-images/",
+      "excerpt"		: "Slide the mouse over the image, right click and select &quot;Save Link As&quot; or click on the map to get a pop-up image that you can drag to your desktop. The full size image is a jpg file in A0 format (4.1 MB)."
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Kyoga FoodWeb Modelling.",
+      "link"			: "http://localhost:4000/poster/poster-kyoga-lakeweb/",
+      "excerpt"		: "Slide the mouse over the image, right click and select &quot;Save Link As&quot; or click on the map to get a pop-up image that you can drag to your desktop. The full size image is a jpg file in A0 format (3.3 MB)."
+    }
+  
+
+  
+    ,{
       "title"			: "Wastewater disposal at safari lodges in the Okavango Delta, Botswana.",
-      "link"			: "http://localhost:4000/journal/watersa-oka-wastewater/",
+      "link"			: "http://localhost:4000/journal/journal-watersa-oka-wastewater/",
       "excerpt"		: "McCarthy, T. S., Gumbricht, T., Stewart, R. G., Brandt, D., Hancox, P. J., McCarthy, J., &amp; Duse, A. G. (2004). Wastewater disposal at safari lodges in the Okavango Delta, Botswana. Water SA, 30(1), 121–128."
     }
   
@@ -155,7 +939,7 @@
   
     ,{
       "title"			: "Channels, wetlands and islands in the Okavango Delta, Botswana, and their relation to hydrological and sedimentological processes.",
-      "link"			: "http://localhost:4000/journal/espl-oka-channels-wetlands-islands/",
+      "link"			: "http://localhost:4000/journal/journal-espl-oka-channels-wetlands-islands/",
       "excerpt"		: "Gumbricht, T., McCarthy, J., &amp; McCarthy, T. S. (2004). Channels, wetlands and islands in the Okavango Delta, Botswana, and their relation to hydrological and sedimentological processes. Earth Surface Processes and Landforms, 29(1), 15–29."
     }
   
@@ -163,16 +947,56 @@
   
     ,{
       "title"			: "Water flow dynamics in the Okavango River Basin and Delta – a prerequisite for the ecosystems of the Delta.",
-      "link"			: "http://localhost:4000/journal/pce-oka-basin-delta-flow/",
+      "link"			: "http://localhost:4000/journal/journal-pce-oka-basin-delta-flow/",
       "excerpt"		: "Andersson, L., Gumbricht, T., Hughes, D., Kniveton, D., Ringrose, S., Savenije, H., … Wolski, P. (1993). Water flow dynamics in the Okavango River Basin and Delta––a prerequisite for the ecosystems of the Delta. Physics and Chemistry of the Earth, Parts A/B/C, 28(20–27), 1165–1172."
     }
   
 
   
     ,{
+      "title"			: "Remote sensing system perspective on the Okavango.",
+      "link"			: "http://localhost:4000/talk/talk-werrd-oka-windhoek/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Kyoga, Uganda.",
+      "link"			: "http://localhost:4000/talk/talk-FAO-kyoga/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Agro-ecological zoning and water availability in East and Central Africa.",
+      "link"			: "http://localhost:4000/talk/talk-ASARECA-agroecology/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Integrated management of Lake Kyoga natural resources.",
+      "link"			: "http://localhost:4000/project/project-kyoga/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Spatial patterns of islands and salt crusts in the Okavango Delta, Botswana.",
-      "link"			: "http://localhost:4000/journal/sagj-island-pattern/",
+      "link"			: "http://localhost:4000/journal/journal-sagj-island-pattern/",
       "excerpt"		: "Gumbricht, T., &amp; McCarthy, T. S. (2003). Spatial patterns of islands and salt crusts in the Okavango Delta, Botswana. South African Geographical Journal, 85(2), 164–169."
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Victoria, geoinformatics based maps and models for regional scale planning and management",
+      "link"			: "http://localhost:4000/talk/talk-ICRAF-lakevic/",
+      "excerpt"		: ""
     }
   
 
@@ -195,16 +1019,48 @@
   
     ,{
       "title"			: "Flooding Patterns of the Okavango Wetland in Botswana between 1972 and 2000.",
-      "link"			: "http://localhost:4000/journal/ambio-oka-flooding/",
+      "link"			: "http://localhost:4000/journal/journal-ambio-oka-flooding/",
       "excerpt"		: "McCarthy, J. M., Gumbricht, T., McCarthy, T., Frost, P., Wessels, K., &amp; Seidel, F. (2003). Flooding Patterns of the Okavango Wetland in Botswana between 1972 and 2000. AMBIO: A Journal of the Human Environment, 32(7), 453–457."
     }
   
 
   
     ,{
+      "title"			: "The Okavango Delta - Microtopography and hydrology.",
+      "link"			: "http://localhost:4000/talk/talk-ETH-oka-hydro/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Remote sensing to detect sub-surface peat fires and peat fire scars in the Okavango Delta, Botswana.",
-      "link"			: "http://localhost:4000/journal/sajg-oka-topography/",
+      "link"			: "http://localhost:4000/journal/sajs-oka-peat-fire/",
       "excerpt"		: "Gumbricht, T., McCarthy, T. S., Mccarthy, J., Roy, D. P., Frost, P. E., &amp; Wessels, K. (2002). Remote sensing to detect sub-surface peat fires and peat fire scars in the Okavango Delta, Botswana. South African Journal of Science, 98(7 &amp; 8), 351–358."
+    }
+  
+
+  
+    ,{
+      "title"			: "West African Drylands",
+      "link"			: "http://localhost:4000/project/project-sahel/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Spatial patterns of islands and salt crusts in the Okavango Delta, Botswana",
+      "link"			: "http://localhost:4000/talk/talk-IAS-oka-islands/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "The Okavango Delta Botswana, Water dynamics and land cover patterns",
+      "link"			: "http://localhost:4000/talk/talk-ICRAF-oka/",
+      "excerpt"		: ""
     }
   
 
@@ -242,14 +1098,6 @@
 
   
     ,{
-      "title"			: "The topography of the Okavango Delta, Botswana, and its tectonic and sedimentological implications.",
-      "link"			: "http://localhost:4000/journal/sajs-oka-peat-fire/",
-      "excerpt"		: "Gumbricht, T., McCarthy, T. S., &amp; Merry, C. L. (2001). The topography of the Okavango Delta, Botswana, and its tectonic and sedimentological implications. South African Journal of Geology, 104(3), 243–264."
-    }
-  
-
-  
-    ,{
       "title"			: "The Okavango Delta – semiarid alluvial-fan sedimentation related to incipient rifting.",
       "link"			: "http://localhost:4000/refereechapter/book-oka-rifting/",
       "excerpt"		: "McCarthy, T. S., Smith, N. D., Ellery, W. D., &amp; Gumbricht, T. (2002). The Okavango Delta – semiarid alluvial-fan sedimentation related to incipient rifting. In Sedimentation in Continental Rifts (pp. 179–193). SEPM (Society for Sedimentary geology)."
@@ -258,23 +1106,79 @@
 
   
     ,{
+      "title"			: "Topography of the Okavango Delta, Botswana.",
+      "link"			: "http://localhost:4000/supplement/supplement-oka-topography/",
+      "excerpt"		: "The creation of the Okavango Delta topographic map."
+    }
+  
+
+  
+    ,{
+      "title"			: "The topography of the Okavango Delta, Botswana, and its tectonic and sedimentological implications.",
+      "link"			: "http://localhost:4000/journal/journal-sajg-oka-topography/",
+      "excerpt"		: "Gumbricht, T., McCarthy, T. S., &amp; Merry, C. L. (2001). The topography of the Okavango Delta, Botswana, and its tectonic and sedimentological implications. South African Journal of Geology, 104(3), 243–264."
+    }
+  
+
+  
+    ,{
+      "title"			: "Portraying the geophysiology of the Okavango Delta, Botswana",
+      "link"			: "http://localhost:4000/poster/poster-oka-fire_2000_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Spatial data and applications for environmental studies in Africa.",
-      "link"			: "http://localhost:4000/conference/conf-gis-data_africa/",
+      "link"			: "http://localhost:4000/conference/conf-GISHARE_africa/",
       "excerpt"		: "Gumbricht, T. (2000b). Spatial data and applications for environmental studies in Africa. In U. Visser &amp; H. Pundt (Eds.), Information sharing: Methods and Applications. 14. International Symposium of Computer Science for Environmental Protection 4. – 6. October 2000 Bonn, Germany (pp. 17–24). Bonn: University of Bremen."
     }
   
 
   
     ,{
+      "title"			: "Portraying the geophysiology of the Okavango Delta, Botswana",
+      "link"			: "http://localhost:4000/poster/poster-oka-geophys_2000_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Portraying the geophysiology of the Okavango Delta, Botswana",
+      "link"			: "http://localhost:4000/talk/talk-UNIGIS-oka_2000_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Portraying the geophysiology of the Okavango Delta, Botswana",
+      "link"			: "http://localhost:4000/talk/conf-RSENV-oka-tg-etal/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Modeling with GIS: A Game of Chess.",
-      "link"			: "http://localhost:4000/conference/conf-gis-chess/",
+      "link"			: "http://localhost:4000/conference/conf-AGILE-chess/",
       "excerpt"		: "Gumbricht, T. (2000a). Modeling with GIS: A Game of Chess. In 3rd AGILE conference on Geographic Information Science (pp. 193–198). Helsingfors."
     }
   
 
   
     ,{
-      "title"			: "Portraying the geophysiology of the Okavango Delta , Botswana.",
+      "title"			: "Portraying the geophysiology of the Okavango Delta, Botswana.",
+      "link"			: "http://localhost:4000/supplement/supplement-oka-avhrr-movie/",
+      "excerpt"		: "Animations illustrating the annual flooding of the Okavango Delta interpreted from NOAA-AVHRR satellite images. The time-series is not continuous."
+    }
+  
+
+  
+    ,{
+      "title"			: "Portraying the geophysiology of the Okavango Delta, Botswana.",
       "link"			: "http://localhost:4000/conference/conf-oka-geophysiology/",
       "excerpt"		: "Gumbricht, T., Mccarthy, J., &amp; Mccarthy, T. (2000). Portraying the geophysiology of the Okavango Delta , Botswana. In 28th International Symposium on Remote Sensing of the Environment (CD publication). Cape Town."
     }
@@ -290,17 +1194,57 @@
 
   
     ,{
-      "title"			: "Rule based map generalisation for classification of groundwater vulnerability.",
-      "link"			: "http://localhost:4000/conference/conf-rule-class-geohydro/",
-      "excerpt"		: "Gumbricht, T., Maxe, L., &amp; Johansson, P.-O. (1998). Rule based map generalisation for classification of groundwater vulnerability. In J. Kajander (Ed.), Nordic Hydrological Conference (pp. 484–490). Helsinki: NHP-Report No. 44."
+      "title"			: "Okavango post-doc studies (still continuing).",
+      "link"			: "http://localhost:4000/project/project-okavango/",
+      "excerpt"		: ""
     }
   
 
   
     ,{
-      "title"			: "Integrated models of coastal patterns and processes.",
-      "link"			: "http://localhost:4000/conference/conf-rcoastal/",
-      "excerpt"		: "Stenström, P. and T. Gumbricht, 1998. Integrated models of coastal patterns and processes. In Kajander (Ed), Nordic Hydrological Conference, NHP-Report No. 44, pp. 41-46."
+      "title"			: "IDRISI GIS PROJECT - LOCATING SUITABLE WELL AREAS IN THE MANAGUA AQUIFER",
+      "link"			: "http://localhost:4000/trainingproj/training-proj-uu-managua/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "IDRISI GIS PROJECT - LOCATING SUITABLE WELL AREAS IN THE MANAGUA AQUIFER",
+      "link"			: "http://localhost:4000/trainingproj/training-proj-uu-eutrophication/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "MULTI CRITERIA EVALUATION OF SITES FOR ECOLOGICAL VILLAGES",
+      "link"			: "http://localhost:4000/trainingproj/training-proj-uu-ecovilla-mce/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "ACTUAL AND CRITICAL LOAD OF ACIDIFYING SUBSTANCES IN STOCKHOLM -LANDSCAPE MANAGEMENT UNDER UNCERTAINTY",
+      "link"			: "http://localhost:4000/trainingproj/training-proj-uu-acidification/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Head and Senior Lecturer, Geoinformatics, Department of Earch Sciences, Uppsala University",
+      "link"			: "http://localhost:4000/project/project-UU-geoinfo/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Rule based map generalisation for classification of groundwater vulnerability.",
+      "link"			: "http://localhost:4000/conference/conf-rule-class-geohydro/",
+      "excerpt"		: "Gumbricht, T., Maxe, L., &amp; Johansson, P.-O. (1998). Rule based map generalisation for classification of groundwater vulnerability. In J. Kajander (Ed.), Nordic Hydrological Conference (pp. 484–490). Helsinki: NHP-Report No. 44."
     }
   
 
@@ -314,8 +1258,16 @@
 
   
     ,{
+      "title"			: "Integrated models of coastal patterns and processes.",
+      "link"			: "http://localhost:4000/conference/conf-coastal/",
+      "excerpt"		: "Stenström, P. and T. Gumbricht, 1998. Integrated models of coastal patterns and processes. In Kajander (Ed), Nordic Hydrological Conference, NHP-Report No. 44, pp. 41-46."
+    }
+  
+
+  
+    ,{
       "title"			: "GIS Integrated Modelling of a Himalayan Landscape.",
-      "link"			: "http://localhost:4000/journal/ijwrd-himalaya/",
+      "link"			: "http://localhost:4000/journal/journal-ijwrd-himalaya/",
       "excerpt"		: "Gumbricht, T., Lindholm, H., Åkre, A., Szczepanek, R., Hessling, M., &amp; McCarthy, J. (1997). GIS Integrated Modelling of a Himalayan Landscape. Water Resources Development, 13(1), 67–78."
     }
   
@@ -346,17 +1298,17 @@
 
   
     ,{
-      "title"			: "GIS for catchment-scale modelling of erosion and reservoir sedimentation.",
-      "link"			: "http://localhost:4000/conference/conf-coastal/",
-      "excerpt"		: "Stenström, P. and T. Gumbricht, 1997. GIS for catchment-scale modelling of erosion and reservoir sedimentation. In. H. Hauska (Ed), Proceedings ScanGIS´97 The 6th Scandinavian research conference on Geographical Information Systems 1st to 3rd June 1997 Stockholm, pp 216-228."
+      "title"			: "3D Hydrogeological Modelling with an Expert GIS Interface.",
+      "link"			: "http://localhost:4000/journal/journal-nh-3dhydrogeo/",
+      "excerpt"		: "Gumbricht, T., &amp; Thunvik, R. (1997). 3D Hydrogeological Modelling with an Expert GIS Interface. Nordic Hydrology, 28(4–5), 329–338."
     }
   
 
   
     ,{
-      "title"			: "3D Hydrogeological Modelling with an Expert GIS Interface.",
-      "link"			: "http://localhost:4000/journal/nh-3dhydrogeo/",
-      "excerpt"		: "Gumbricht, T., &amp; Thunvik, R. (1997). 3D Hydrogeological Modelling with an Expert GIS Interface. Nordic Hydrology, 28(4–5), 329–338."
+      "title"			: "Catchment-scale modelling of erosion and reservoir sedimentation.",
+      "link"			: "http://localhost:4000/conference/conf-scangis-erosion/",
+      "excerpt"		: "Stenström, P. and T. Gumbricht, 1997. GIS for catchment-scale modelling of erosion and reservoir sedimentation. In. H. Hauska (Ed), Proceedings ScanGIS´97 The 6th Scandinavian research conference on Geographical Information Systems 1st to 3rd June 1997 Stockholm, pp 216-228."
     }
   
 
@@ -380,7 +1332,7 @@
     ,{
       "title"			: "Steps to a desirable future.",
       "link"			: "http://localhost:4000/conference/conf-steps-to-future/",
-      "excerpt"		: "Gumbricht, T. (1996). Steps to a desirable future. In The environment of the 21st century, Environment Long-Term Governability and Democracy (p. 9). Abbaye de Fontevraud."
+      "excerpt"		: ""
     }
   
 
@@ -410,14 +1362,6 @@
 
   
     ,{
-      "title"			: "Hydroclimatic processes and spatiotemporal landscape patterns.",
-      "link"			: "http://localhost:4000/conference/conf-hydroclimate/",
-      "excerpt"		: "Gumbricht, T. (1996). Hydroclimatic processes and spatiotemporal landscape patterns. In Sigurdsson (Ed.), Nordic Hydrological Conference (Vol. 40, pp. 360–368). Akureire: NHP."
-    }
-  
-
-  
-    ,{
       "title"			: "Hydrological modelling integrating landscape pattern - A case study of Cyprus.",
       "link"			: "http://localhost:4000/conference/conf-cyprus/",
       "excerpt"		: "Gumbricht, T. M. Hessling and J. McCarthy, 1996. Hydrological modelling integrating landscape pattern - A case study of Cyprus. In: O. Sigurdsson, K. Einarsson and H. Adalsteinsson (Eds), Nordic Hydrological Conference, NHP-Report No. 40, pp. 529-537."
@@ -426,8 +1370,16 @@
 
   
     ,{
+      "title"			: "Hydroclimatic processes and spatiotemporal landscape patterns.",
+      "link"			: "http://localhost:4000/conference/conf-NHK-hydroclimate/",
+      "excerpt"		: "Gumbricht, T. (1996). Hydroclimatic processes and spatiotemporal landscape patterns. In Sigurdsson (Ed.), Nordic Hydrological Conference (Vol. 40, pp. 360–368). Akureire: NHP."
+    }
+  
+
+  
+    ,{
       "title"			: "Digital interpretation and management of land cover — a case study of Cyprus.",
-      "link"			: "http://localhost:4000/journal/ee-cyprus/",
+      "link"			: "http://localhost:4000/journal/journal-ee-cyprus/",
       "excerpt"		: "Gumbricht, T., McCarthy, J., &amp; Mahlander, C. (1996). Digital interpretation and management of land cover — a case study of Cyprus. Ecological Engineering, 6(4), 273–279."
     }
   
@@ -467,7 +1419,7 @@
   
     ,{
       "title"			: "Application of GIS in Training for Environmental Management.",
-      "link"			: "http://localhost:4000/journal/jenvm-gis-didactics/",
+      "link"			: "http://localhost:4000/journal/journal-envm-gis-didactics/",
       "excerpt"		: "Gumbricht, T. (1996). Application of GIS in Training for Environmental Management. Journal of Environmental Management), 1165–1172."
     }
   
@@ -482,17 +1434,17 @@
 
   
     ,{
-      "title"			: "Identification of Potential Reforestation Sites Using Geographic Information System and Remote Sensing.",
-      "link"			: "http://localhost:4000/refereechapter/book-ecotechnics/",
-      "excerpt"		: "Gumbricht, T., Mahlander, C., &amp; Mccarthy, J. (1995). Identification of Potential Reforestation Sites Using Geographic Information System and Remote Sensing. In L. Thofelt &amp; A. Englund (Eds.), Ecotechnics for a sustainable society: proceedings from Ecotechnics 95 : international symposium on ecological engineering (pp. 267–281). Östersund: Mid Sweden University."
+      "title"			: "Watershed structure and symmetry with runoff and water quality.",
+      "link"			: "http://localhost:4000/conference/conf-watershed-symmetry-cracow/",
+      "excerpt"		: "Gumbricht, T. (1995). Watershed structure and symmetry with runoff and water quality. In B. Wiezik (Ed.), Hydrological processes in the catchment (pp. 37–48). Carcow: Cracow University of Technology."
     }
   
 
   
     ,{
-      "title"			: "Watershed structure and symmetry with runoff and water quality.",
-      "link"			: "http://localhost:4000/conference/conf-watershed-symmetry/",
-      "excerpt"		: "Gumbricht, T. (1995). Watershed structure and symmetry with runoff and water quality. In B. Wiezik (Ed.), Hydrological processes in the catchment (pp. 37–48). Carcow: Cracow University of Technology."
+      "title"			: "Identification of Potential Reforestation Sites Using Geographic Information System and Remote Sensing.",
+      "link"			: "http://localhost:4000/refereechapter/book-ecotechnics/",
+      "excerpt"		: "Gumbricht, T., Mahlander, C., &amp; Mccarthy, J. (1995). Identification of Potential Reforestation Sites Using Geographic Information System and Remote Sensing. In L. Thofelt &amp; A. Englund (Eds.), Ecotechnics for a sustainable society: proceedings from Ecotechnics 95 : international symposium on ecological engineering (pp. 267–281). Östersund: Mid Sweden University."
     }
   
 
@@ -507,7 +1459,7 @@
   
     ,{
       "title"			: "Nutrient removal capacity in submersed macrophyte pond systems in a temperature climate.",
-      "link"			: "http://localhost:4000/journal/ee-macrophyte/",
+      "link"			: "http://localhost:4000/journal/journal-ee-macrophyte/",
       "excerpt"		: "Gumbricht, T. (1993). Nutrient removal capacity in submersed macrophyte pond systems in a temperature climate. Ecological Engineering, 2(1), 49-61."
     }
   
@@ -515,8 +1467,16 @@
   
     ,{
       "title"			: "Nutrient removal processes in freshwater submersed macrophyte systems.",
-      "link"			: "http://localhost:4000/journal/ee-capacity/",
+      "link"			: "http://localhost:4000/journal/journal-ee-capacity/",
       "excerpt"		: "Gumbricht, T. (1993). Nutrient removal processes in freshwater submersed macrophyte systems. Ecological Engineering, 2(1), 1–30."
+    }
+  
+
+  
+    ,{
+      "title"			: "Modelling water and vegetation reciprocity (PhD).",
+      "link"			: "http://localhost:4000/project/project-phd/",
+      "excerpt"		: ""
     }
   
 
@@ -531,24 +1491,8 @@
   
     ,{
       "title"			: "Tertiary wastewater treatment using the root-zone method in temperate climates.",
-      "link"			: "http://localhost:4000/journal/ee-rootzone/",
+      "link"			: "http://localhost:4000/journal/journal-ee-rootzone/",
       "excerpt"		: "Gumbricht, T. (1992). Tertiary wastewater treatment using the root-zone method in temperate climates. Ecological Engineering, 1(3), 199–212."
-    }
-  
-
-  
-    ,{
-      "title"			: "Water resources management in Germany – with examples from Niedersachsen.",
-      "link"			: "http://localhost:4000/journal/vatten-tyskland/",
-      "excerpt"		: "Gumbricht, T., 1991. Vattenförvaltning i Tyskland - med exempel från Niedersachsen. Vatten, 47: 212-216. (Water resources management in Germany – with examples from Niedersachsen – with English summary)."
-    }
-  
-
-  
-    ,{
-      "title"			: "Reduction of nutrients by water plants. Final report, the Snogeroed project",
-      "link"			: "http://localhost:4000/journal/vatten-snogeroed/",
-      "excerpt"		: "Hörberg, I., L. Kylefors och T. Gumbricht, (1991). Närsaltrening med vattenväxter - slutrapport från Snogerödsprojektet. Vatten, 47: 310-314. (Reduction of nutrients by water plants – final report the Snogeröd project – with English summary)."
     }
   
 
@@ -560,7 +1504,55 @@
     }
   
 
+  
+    ,{
+      "title"			: "Water resources management in Germany – with examples from Niedersachsen.",
+      "link"			: "http://localhost:4000/journal/journal-vatten-tyskland/",
+      "excerpt"		: "Gumbricht, T., 1991. Vattenförvaltning i Tyskland - med exempel från Niedersachsen. Vatten, 47: 212-216. (Water resources management in Germany – with examples from Niedersachsen – with English summary)."
+    }
+  
 
+  
+    ,{
+      "title"			: "Reduction of nutrients by water plants. Final report, the Snogeroed project",
+      "link"			: "http://localhost:4000/journal/journal-vatten-snogeroed/",
+      "excerpt"		: "Hörberg, I., L. Kylefors och T. Gumbricht, (1991). Närsaltrening med vattenväxter - slutrapport från Snogerödsprojektet. Vatten, 47: 310-314. (Reduction of nutrients by water plants – final report the Snogeröd project – with English summary)."
+    }
+  
+
+  
+    ,{
+      "title"			: "Projects during my doctoral studies (KTH).",
+      "link"			: "http://localhost:4000/project/project-kthinternational/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Constructed wetlands for waste water treatment.",
+      "link"			: "http://localhost:4000/project/project-snogerod/",
+      "excerpt"		: ""
+    }
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
 
   
 
@@ -572,6 +1564,22 @@
       "link"			: "http://localhost:4000/about/",
       "excerpt"		: "Karttur is a private research company in Stockholm, Sweden"
     }
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
   
 
   

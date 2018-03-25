@@ -6,7 +6,14 @@ categories: refereechapter
 source: '<i>Ecological Engineering for Wastewater Treatment</i> (2nd ed., pp. 227–235)'
 
 date: 1997-01-01
-
+projectid: snogerod
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
+access: 'closed'
 ---
 
 Gumbricht, T. (1997). Submersed macrophytes for recovery of eutrophied waters - nutrient spiraling and removal efficiency. In C. Etnier & B. Guterstam (Eds.), Ecological Engineering for Wastewater Treatment (2nd ed., pp. 227–235). Boca Raton: CRC press.

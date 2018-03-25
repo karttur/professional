@@ -1,11 +1,19 @@
 ---
 title: "Rule based map generalisation for classification of groundwater vulnerability."
 authors: "Gumbricht, T., Maxe, L., & Johansson, P.-O."
-layout: publication
+layout: pdfpage
+pdf: grw-rule_NHK_helsinki_19970607_tg-etal.pdf
 categories: conference
 source: '<i>Nordic Hydrological Conference</i> (pp. 484–490)'
 
 date: 1998-08-01
+projectid:
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
 
 ---
 

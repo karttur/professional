@@ -7,6 +7,15 @@ source: '<i>Geoderma</i>, 263, 216–225'
 
 date: 2016-02-01
 doiurl: 'https://doi.org/10.1016/j.geoderma.2015.06.023'
+projectid: sahel
+project: "West African Drylands"
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
+access: 'open'
 ---
 
 [Vågen, T.-G., Winowiecki, L. A., Tondoh, J. E., Desta, L. T., & Gumbricht, T. (2016). Mapping of soil properties and land degradation risk in Africa using MODIS reflectance. Geoderma, 263, 216–225.](https://doi.org/10.1016/j.geoderma.2015.06.023)

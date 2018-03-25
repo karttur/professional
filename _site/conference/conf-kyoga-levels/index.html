@@ -6,16 +6,14 @@
 <head>
 <meta charset="utf-8">
 <title>Lake level and area variations 1960 to 2002 in Lake Kyoga, Uganda &#8211; Geo Imagine Developer</title>
-<meta name="description" content="Gumbricht, T. (2005), Lake level and area variations 1960 to 2002 in Lake Kyoga, Uganda. 11th World Lakes Conference, Nairobi, Proceeding vol. 2 (pp. 391-396). Eds (Eric O. Odada, Daniel O. Olago, Washington Ochola, Micheni Ntiba, Shem Wandiga, Nathan Gichuki and Helida Oyieke).
-
+<meta name="description" content="
 ">
 <meta name="keywords" content="">
 
 
 <!-- Twitter Cards -->
 <meta name="twitter:title" content="Lake level and area variations 1960 to 2002 in Lake Kyoga, Uganda">
-<meta name="twitter:description" content="Gumbricht, T. (2005), Lake level and area variations 1960 to 2002 in Lake Kyoga, Uganda. 11th World Lakes Conference, Nairobi, Proceeding vol. 2 (pp. 391-396). Eds (Eric O. Odada, Daniel O. Olago, Washington Ochola, Micheni Ntiba, Shem Wandiga, Nathan Gichuki and Helida Oyieke).
-
+<meta name="twitter:description" content="
 ">
 
 
@@ -27,8 +25,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Lake level and area variations 1960 to 2002 in Lake Kyoga, Uganda">
-<meta property="og:description" content="Gumbricht, T. (2005), Lake level and area variations 1960 to 2002 in Lake Kyoga, Uganda. 11th World Lakes Conference, Nairobi, Proceeding vol. 2 (pp. 391-396). Eds (Eric O. Odada, Daniel O. Olago, Washington Ochola, Micheni Ntiba, Shem Wandiga, Nathan Gichuki and Helida Oyieke).
-
+<meta property="og:description" content="
 ">
 <meta property="og:url" content="http://localhost:4000/conference/conf-kyoga-levels/">
 <meta property="og:site_name" content="Geo Imagine Developer">
@@ -48,6 +45,7 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="https://karttur.github.io/common/assets/css/main.css">
+
 <!-- Webfonts -->
 <script src="https://use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
 
@@ -61,6 +59,9 @@
 
 <!-- Modernizr -->
 <script src="https://karttur.github.io/common/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Toggle hide sow added by tg -->
+<script src="https://karttur.github.io/common/assets/js/karttur/togglediv.js"></script>
 
 
 <!-- MathJax -->
@@ -93,13 +94,22 @@
 		    <li><a href="http://localhost:4000/" >Home</a></li>
 		  
 		    
+		    <li><a href="http://localhost:4000/cv/" >CV</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/projects/" >Projects</a></li>
+		  
+		    
 		    <li><a href="http://localhost:4000/publications/" >Publications</a></li>
 		  
 		    
 		    <li><a href="http://localhost:4000/teaching/" >Teaching</a></li>
 		  
 		    
-		    <li><a href="http://localhost:4000/cv/" >CV</a></li>
+		    <li><a href="http://localhost:4000/talks/" >Talks/posters</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/supplement/" >Supplement</a></li>
 		  
 		    
 		    <li><a href="http://localhost:4000/blog/" >Blog</a></li>
@@ -140,9 +150,32 @@
         
       </footer>
       <div class="entry-content">
-        <p>Gumbricht, T. (2005), Lake level and area variations 1960 to 2002 in Lake Kyoga, Uganda. 11th World Lakes Conference, Nairobi, Proceeding vol. 2 (pp. 391-396). Eds (Eric O. Odada, Daniel O. Olago, Washington Ochola, Micheni Ntiba, Shem Wandiga, Nathan Gichuki and Helida Oyieke).</p>
+        <script>
+  function setIframeSrc() {
+    document.getElementById("pdfFrame").src = "http://docs.google.com/gview?url=https://karttur.github.io/common/pdf/lakelevels_conf_kyoga_20150610_tg.pdf&embedded=true";
+  }
+</script
 
-<h1 class="foot-description">Abstract</h1>
+<script src="https://karttur.github.io/common/assets/js/karttur/togglediv.js"></script>
+
+<p>Gumbricht, T. (2005), Lake level and area variations 1960 to 2002 in Lake Kyoga, Uganda. 11th World Lakes Conference, Nairobi, Proceeding vol. 2 (pp. 391-396). Eds (Eric O. Odada, Daniel O. Olago, Washington Ochola, Micheni Ntiba, Shem Wandiga, Nathan Gichuki and Helida Oyieke).</p>
+
+<p><button id="toggle-codelbtn" onclick="hiddencode('toggle-abstract')">Hide/Show Abstract</button></p>
+
+<div id="toggle-abstract" style="display:none">
+  Lake Kyoga is a shallow lake in central Uganda of 3 to 5 m depth forming part of the Equatorial lake system. The lake is around 3000 km2 and the local basin (57,000 km2) drains large parts of Uganda. However, more than 90 % of the inflow originates from the Victoria Nile. The 1997/98 El Niño flood displaced hundreds of families and dislocated sudds that formed a plug at the outlet which rose the lake level almost 2 meters. Subsequent high flood levels in 2000 destroyed several settlements and led to the drowning of many people. The increase of the lake surface has meant loss of substantial areas of fertile soil, but is also reported by the local communities to have led to higher fish production. In this study, time series of Landsat MSS and (E)TM satellite images has been used to trace recent changes in the area of Lake Kyoga, and compare the flooding data with water levels.
+</div>
+
+<p><a></a>
+<button onclick="setIframeSrc()"><span style="text-decoration:underline;">Load pdf in frame below</span></button> or
+<a style="text-decoration:underline;" href="https://karttur.github.io/common/pdf/lakelevels_conf_kyoga_20150610_tg.pdf">
+  go directly to the pdf.
+</a></p>
+
+<figure>
+  <iframe id="pdfFrame" style="width:720px; height:576px;" frameborder="1">
+  </iframe>
+</figure>
 
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->

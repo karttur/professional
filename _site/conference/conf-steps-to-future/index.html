@@ -6,16 +6,14 @@
 <head>
 <meta charset="utf-8">
 <title>Steps to a desirable future. &#8211; Geo Imagine Developer</title>
-<meta name="description" content="Gumbricht, T. (1996). Steps to a desirable future. In The environment of the 21st century, Environment Long-Term Governability and Democracy (p. 9). Abbaye de Fontevraud.
-
+<meta name="description" content="
 ">
 <meta name="keywords" content="">
 
 
 <!-- Twitter Cards -->
 <meta name="twitter:title" content="Steps to a desirable future.">
-<meta name="twitter:description" content="Gumbricht, T. (1996). Steps to a desirable future. In The environment of the 21st century, Environment Long-Term Governability and Democracy (p. 9). Abbaye de Fontevraud.
-
+<meta name="twitter:description" content="
 ">
 
 
@@ -27,8 +25,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Steps to a desirable future.">
-<meta property="og:description" content="Gumbricht, T. (1996). Steps to a desirable future. In The environment of the 21st century, Environment Long-Term Governability and Democracy (p. 9). Abbaye de Fontevraud.
-
+<meta property="og:description" content="
 ">
 <meta property="og:url" content="http://localhost:4000/conference/conf-steps-to-future/">
 <meta property="og:site_name" content="Geo Imagine Developer">
@@ -48,6 +45,7 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="https://karttur.github.io/common/assets/css/main.css">
+
 <!-- Webfonts -->
 <script src="https://use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
 
@@ -61,6 +59,9 @@
 
 <!-- Modernizr -->
 <script src="https://karttur.github.io/common/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Toggle hide sow added by tg -->
+<script src="https://karttur.github.io/common/assets/js/karttur/togglediv.js"></script>
 
 
 <!-- MathJax -->
@@ -83,7 +84,7 @@
 
 </head>
 
-<body id="post">
+<body id="page">
 
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
@@ -93,13 +94,22 @@
 		    <li><a href="http://localhost:4000/" >Home</a></li>
 		  
 		    
+		    <li><a href="http://localhost:4000/cv/" >CV</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/projects/" >Projects</a></li>
+		  
+		    
 		    <li><a href="http://localhost:4000/publications/" >Publications</a></li>
 		  
 		    
 		    <li><a href="http://localhost:4000/teaching/" >Teaching</a></li>
 		  
 		    
-		    <li><a href="http://localhost:4000/cv/" >CV</a></li>
+		    <li><a href="http://localhost:4000/talks/" >Talks/posters</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/supplement/" >Supplement</a></li>
 		  
 		    
 		    <li><a href="http://localhost:4000/blog/" >Blog</a></li>
@@ -120,33 +130,40 @@
 
 
 <div id="main" role="main">
-  <article class="hentry">
+  <article class="entry">
+
     <div class="entry-wrapper">
       <header class="entry-header">
-        <ul class="entry-tags">
-          
-        </ul>
 
+        <h5>
+           kthinternational <br> 
+          <i>The environment of the 21st century, Environemnt Long-Term Governability and Democracy</i> (p. 9)
+        </h5>
       </header>
-
-      <footer class="entry-meta">
-        
-        
-          <img src="https://karttur.github.io/common/images/bio-photo.jpg" class="bio-photo" alt="Thomas Gumbricht bio photo"/>
-        
-        <span class="author vcard">By <span class="fn">Thomas Gumbricht</span></span>
-
-        
-        
-      </footer>
       <div class="entry-content">
-        <p>Gumbricht, T. (1996). Steps to a desirable future. In The environment of the 21st century, Environment Long-Term Governability and Democracy (p. 9). Abbaye de Fontevraud.</p>
+        <script>
+  function setIframeSrc() {
+    document.getElementById("pdfFrame").src = "http://docs.google.com/gview?url=https://karttur.github.io/common/pdf/steps_21environ_AddayeFont_19960801_tg.pdf&embedded=true";
+  }
+</script
 
-<h1 class="foot-description">Abstract</h1>
+<a></a>
+<button onclick="setIframeSrc()"><span
+ style="text-decoration:underline;">Load pdf in frame</span></button> or
+<a style="text-decoration:underline;" href="https://karttur.github.io/common/pdf/steps_21environ_AddayeFont_19960801_tg.pdf">
+  go to the pdf
+</a> (or right click the latter and 'Save Link As ...').
+
+<figure>
+  <iframe id="pdfFrame"
+    style="width:720px; height:576px;" frameborder="1">
+  </iframe>
+</figure>
+
+        
 
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
-
   </article>
 </div><!-- /#main -->
 

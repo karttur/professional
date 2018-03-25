@@ -6,6 +6,15 @@ categories: refereechapter
 source: '<i>Water saving strategies in urban renewal</i> (pp. 129–141)'
 
 date: 1996-06-01
+projectid: phd
+project: "The water organized landscape"
+location:
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
 
 ---
 

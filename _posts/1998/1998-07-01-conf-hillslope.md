@@ -6,6 +6,14 @@ categories: conference
 source: '<i>Nordic Hydrological Conference, NHP-Report No. 44</i>, pp. 625-630'
 
 date: 1998-08-01
+projectid: phd
+project: "The water organized landscape"
+pattern:
+process:
+pages:
+number:
+issue:
+editor:
 
 ---
 
