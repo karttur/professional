@@ -1,7 +1,7 @@
 ---
 title: "An expert system model for mapping tropical wetlands and peatlands reveals South America as the largest contributor."
 authors: "Gumbricht, T. et al."
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Global Change Biology</i>, 23, 3581–3599'
 date: 2017-05-09

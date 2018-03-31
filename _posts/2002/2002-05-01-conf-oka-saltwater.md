@@ -1,7 +1,7 @@
 ---
 title: "Is density flow balancing the salt budget of the Okavango delta? Evidence from field and modelling studies."
 authors: "Bauer, P. et al."
-layout: publication
+layout: resume
 categories: conference
 source: '<i>17th Salt Water Intrusion Meeting</i> (pp. 309–321)'
 

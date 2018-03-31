@@ -15,5 +15,5 @@ pages:
 number:
 issue:
 editor:
-access: 'pdfaccess'
+access: 'tgaccess'
 ---

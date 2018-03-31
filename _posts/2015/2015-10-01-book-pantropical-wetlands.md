@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Mapping of pantropical wetlands from optical satellite images, hydrology and geomorphology."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: refereechapter
 source: '<i>Advances in Wetland Classification and Mapping</i> (pp. 435–454)'
 date: 2015-10-01

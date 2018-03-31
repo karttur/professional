@@ -1,7 +1,7 @@
 ---
 title: "Do ecosystem services influence household wealth in rural Mali?"
 authors: "Liebenow, D. et al."
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Ecological Economics</i>, 82, 33–44'
 date: 2012-08-22

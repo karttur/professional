@@ -1,7 +1,7 @@
 ---
 title: "Farmer field school."
 authors: "Gumbricht, T."
-layout: simplepage
+layout: pubpage
 categories: DVD
 source: '<i>ICRAF</i>, 2005, Nairobi, Kenya'
 figure: kyoga_lakeconf_2004_tg

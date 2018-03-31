@@ -1,7 +1,7 @@
 ---
 title: "The Okavango Delta Botswana, Water dynamics and land cover patterns"
 authors: "Gumbricht, T."
-layout: simplepage
+layout: pubpage
 categories: talk
 source: '<i>ICRAF</i>, May 2002, Nairobi, Kenya'
 figure: oka_ICRAF_nairobi_200205_tg

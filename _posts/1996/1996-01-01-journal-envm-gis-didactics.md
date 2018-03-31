@@ -1,7 +1,7 @@
 ---
 title: "Application of GIS in Training for Environmental Management."
 authors: "Gumbricht, T"
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Journal of Environmental Management</i>, 46(1), 17–30'
 

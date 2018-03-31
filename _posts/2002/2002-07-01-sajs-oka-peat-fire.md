@@ -1,7 +1,7 @@
 ---
 title: "Remote sensing to detect sub-surface peat fires and peat fire scars in the Okavango Delta, Botswana."
 authors: "Gumbricht, T. et al."
-layout: publication
+layout: resume
 categories: journal
 source: '<i>South African J of Science</i>, 98(7 & 8), 351–358'
 

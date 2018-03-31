@@ -1,7 +1,7 @@
 ---
 title: "Mapping hydrological units in the Okavango Delta."
 authors: "Wolski, P., & Gumbricht, T."
-layout: publication
+layout: resume
 categories: report
 source: 'University of Botswana, Maun'
 

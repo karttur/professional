@@ -1,7 +1,7 @@
 ---
 title: "Assessing future change in the Okavango Delta: the use of a regression model of the maximum annual flood in a Monte Carlo simulation."
 authors: "Wolski, P. Gumbrocht, T., & McCarthy, T."
-layout: publication
+layout: resume
 categories: conference
 source: '<i>Environmental Monitoring of Tropical and Subtropical Wetlands</i> (pp. 4-8)'
 

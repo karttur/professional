@@ -1,7 +1,7 @@
 ---
 title: "Modelling of the flooding in the Okavango Delta, Botswana, using a hybrid reservoir-GIS model."
 authors: "Wolski, P. et al."
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Journal</i> of Hydrology, 331(1–2), 58–72'
 

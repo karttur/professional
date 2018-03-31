@@ -1,7 +1,7 @@
 ---
 title: "Nested scales of life supporting processes and human justice."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: conference
 source: '<i>Stockholm Water Symposium</i> (pp. 181–183)'
 

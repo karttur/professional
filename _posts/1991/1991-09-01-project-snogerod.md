@@ -1,7 +1,7 @@
 ---
 title: "Constructed wetlands for waste water treatment."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: project
 source: 'Royal Institute of Technology (KTH), Stockholm (Licentiate thesis.)'
 projectid: snogerod

@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: resume
 title: Senior Lecturer, Geoinformatics (KTH).
 excerpt: "An archive of teaching material in Geoinformatics."
 search_omit: true

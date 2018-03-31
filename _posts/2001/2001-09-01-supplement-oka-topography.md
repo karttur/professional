@@ -1,7 +1,7 @@
 ---
 title: "Topography of the Okavango Delta, Botswana."
 authors: "Gumbricht, T. "
-layout: publication
+layout: resume
 categories: supplement
 source: 'The creation of the Okavango Delta topographic map.'
 date: 2001-09-01

@@ -1,7 +1,7 @@
 ---
 title: "Okavango post-doc studies (still continuing)."
 authors: ""
-layout: publication
+layout: resume
 categories: project
 source:
 date: 1999-10-01

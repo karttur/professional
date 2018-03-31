@@ -1,7 +1,7 @@
 ---
 title: "Landscape interfaces and transparency to hydrological functions."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: refereechapter
 source: '<i>HydroGIS 96: Application of Geographic Information Systems in Hydrology and Water Resources Management</i>. (Vol. IAHS Publ, pp. 115–121)'
 

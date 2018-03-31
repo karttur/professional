@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: resume
 title: Lake Tanganyika Regional Integrated Management Project.
 excerpt: "An archive of Lake Tanganyika publications"
 search_omit: true

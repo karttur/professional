@@ -1,7 +1,7 @@
 ---
 title: "Mapping global tropical wetlands from earth observing satellite imagery."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: report
 source: 'CIFOR, Bogor'
 

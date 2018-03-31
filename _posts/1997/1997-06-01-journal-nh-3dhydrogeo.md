@@ -1,7 +1,7 @@
 ---
 title: "3D Hydrogeological Modelling with an Expert GIS Interface."
 authors: "Gumbricht, T., & Thunvik, R."
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Nordic Hydrology</i> (renamed: <i>Hydrology Research</i>), 28(4–5), 329–338'
 

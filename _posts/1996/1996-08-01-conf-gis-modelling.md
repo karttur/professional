@@ -1,7 +1,7 @@
 ---
 title: " Transparent land surface modeling in GIS."
 authors: "Gumbricht, T., & Mccarthy, J."
-layout: publication
+layout: resume
 categories: conference
 source: '<i>Geoinformatics</i> (pp. 268–274)'
 

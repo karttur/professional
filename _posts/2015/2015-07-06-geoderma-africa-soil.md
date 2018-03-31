@@ -1,7 +1,7 @@
 ---
 title: "Mapping of soil properties and land degradation risk in Africa using MODIS reflectance."
 authors: "Vågen et al."
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Geoderma</i>, 263, 216–225'
 

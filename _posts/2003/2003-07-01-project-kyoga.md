@@ -1,7 +1,7 @@
 ---
 title: "Integrated management of Lake Kyoga natural resources."
 authors: "Gumbricht, T."
-layout: simplepage
+layout: pubpage
 categories: project
 source: '<i>SIDA</i>, 2003'
 date: 2003-07-01

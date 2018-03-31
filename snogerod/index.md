@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: resume
 title: Constructed wetland waste water treatment
 excerpt: "An archive of publications on wetlands for waste water treatment"
 search_omit: true

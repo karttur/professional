@@ -1,7 +1,7 @@
 ---
 title: "WASUBI: a GIS tool for subbasin identification in topographically complex waterscapes."
 authors: "Gyllenhammar, A., & Gumbricht, T."
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Environmental Modelling & Software</i>, 20(6), 729–736'
 

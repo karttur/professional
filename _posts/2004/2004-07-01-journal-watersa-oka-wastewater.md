@@ -1,7 +1,7 @@
 ---
 title: "Wastewater disposal at safari lodges in the Okavango Delta, Botswana."
 authors: "McCarthy, T. et al."
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Water SA</i>, 30(1), 121–128'
 

@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: resume
 title: West African Drylands Project
 excerpt: "An archive of Lake sahel publications"
 search_omit: true

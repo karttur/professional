@@ -1,7 +1,7 @@
 ---
 title: "Water resources management in Germany – with examples from Niedersachsen."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Vatten</i>, 47: 212-216'
 date: 1991-09-01

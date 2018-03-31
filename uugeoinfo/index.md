@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: resume
 title: Head and Senior Lecturer, Geoinformatics, Department of Earch Sciences, Uppsala University.
 excerpt: "An archive of teaching material in Geoinformatics."
 search_omit: true

@@ -1,7 +1,7 @@
 ---
 title: "Channels, wetlands and islands in the Okavango Delta, Botswana, and their relation to hydrological and sedimentological processes."
 authors: "Gumbricht, T., McCarthy, J., & McCarthy, T. "
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Earth Surface Processes and Landforms</i>, 29(1), 15–29'
 

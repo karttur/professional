@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: resume
 title: Okavango post-doc studies (still continuing).
 excerpt: "An archive of Okavango publications"
 search_omit: true
@@ -42,7 +42,7 @@ I have since then used my data and knowledge about the Okavango in many other st
 {% endfor %}
 </ul>
 
-### Conference Processedings
+### Conference Proceedings
 
 <ul class="post-list">
 {% for post in site.categories.conference %}

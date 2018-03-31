@@ -1,7 +1,7 @@
 ---
 title: "Integrated models of coastal patterns and processes."
 authors: "Stenström, P. and Gumbricht, T."
-layout: publication
+layout: resume
 categories: conference
 source: '<i>Nordic Hydrological Conference, NHP-Report No. 44</i>, pp. 41-46'
 

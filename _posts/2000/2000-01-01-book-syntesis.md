@@ -1,7 +1,7 @@
 ---
 title: "Dynamic modelling and landsacpe patterns - a GIS synthesis."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: refereechapter
 source: '<i>Spatial Models and GIS: New and Potential Models</i> (pp. 245–257)'
 

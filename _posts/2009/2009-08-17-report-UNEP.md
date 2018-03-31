@@ -1,7 +1,7 @@
 ---
 title: "Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa. Methods"
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: report
 source: 'World Agroforestry Center (ICRAF), Nairobi'
 date: 2009-08-17

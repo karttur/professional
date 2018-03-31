@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: resume
 title: Kenya Farmer Field School
 excerpt: "An archive of Kenya Farmer Field School publications"
 search_omit: true

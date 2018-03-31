@@ -1,7 +1,7 @@
 ---
 title: "Remote sensing system perspective on the Okavango."
 authors: "Gumbricht, T."
-layout: simplepage
+layout: pubpage
 categories: talk
 source: '<i>WERRD mid term meeting</i> Windhoek, Namibia'
 figure: oka_WERRD_windhoek_20030826_tg

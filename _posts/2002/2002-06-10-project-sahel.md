@@ -1,7 +1,7 @@
 ---
 title: "West African Drylands"
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: project
 source: '<i>UENP (Norway)</i>'
 date: 2002-06-10

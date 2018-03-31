@@ -1,7 +1,7 @@
 ---
 title: "Nutrient removal processes in freshwater submersed macrophyte systems."
 authors: "Gumbricht, T"
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Ecological Engineering</i>, 2(1), 1–30'
 date: 1993-03-01

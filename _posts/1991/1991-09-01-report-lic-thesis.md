@@ -1,7 +1,7 @@
 ---
 title: "Nutrient reduction using macrophyte systems in temperate climate."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: report
 source: 'Royal Institute of Technology (KTH), Stockholm (Licentiate thesis.)'
 projectid: snogerod

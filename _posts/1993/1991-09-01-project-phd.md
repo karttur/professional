@@ -1,7 +1,7 @@
 ---
 title: "Modelling water and vegetation reciprocity (PhD)."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: project
 source: 'Royal Institute of Technology (KTH), Stockholm (PhD thesis.)'
 projectid: phd

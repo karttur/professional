@@ -1,7 +1,7 @@
 ---
 title: "Modelling the Managua aquifer. 1: data creation in a developing region."
 authors: "McCarthy, J., M. Hessling and T. Gumbricht,"
-layout: publication
+layout: resume
 categories: conference
 source: '<i>Proceedings ScanGIS´97</i> (pp 201-208)'
 

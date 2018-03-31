@@ -1,7 +1,7 @@
 ---
 title: "Hybrid mapping of tropical wetlands (movie)"
 authors: "Gumbricht, T."
-layout: simplepage
+layout: pubpage
 categories: talk
 source: '<i>CIFOR</i>, September 2014, Bogor, Indonesia'
 movie1: wetlandmapping_CIFOR_20140906_bogor_tg

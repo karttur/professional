@@ -2,7 +2,7 @@
 title: "Agro-ecological zoning and water availability in
 East and Central Africa."
 authors: "Gumbricht, T."
-layout: simplepage
+layout: pubpage
 categories: talk
 source: '<i>ASARECA</i>, 2003, Entebbe, Uganda'
 figure: agroecology_ASARECA_entebbe_200305_tg

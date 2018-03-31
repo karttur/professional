@@ -1,7 +1,7 @@
 ---
 title: "Flooding Patterns of the Okavango Wetland in Botswana between 1972 and 2000."
 authors: "McCarthy, J. et al."
-layout: publication
+layout: resume
 categories: journal
 source: '<i>AMBIO: A Journal of the Human Environment</i>, 32(7)'
 

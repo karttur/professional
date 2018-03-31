@@ -1,7 +1,7 @@
 ---
 title: "Rule based and contextual classification of landscape patches and boundaries."
 authors: "Gumbricht, T., Mahlander, C., & McCarthy, J."
-layout: publication
+layout: resume
 categories: conference
 source: '<i>ScanGIS</i> (pp. 245 – 255)'
 

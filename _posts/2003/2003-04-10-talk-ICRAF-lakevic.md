@@ -1,7 +1,7 @@
 ---
 title: "Lake Victoria, geoinformatics based maps and models for regional scale planning and management"
 authors: "Gumbricht, T."
-layout: simplepage
+layout: pubpage
 categories: talk
 source: '<i>ICRAF</i>, Entebbe, 2005'
 figure: lakevic_ICRAF_entebbe_2003_tg

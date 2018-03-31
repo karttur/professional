@@ -1,7 +1,7 @@
 ---
 title: "Land Health Surveillance: An Evidence-Based Approach to Land Ecosystem Management."
 authors: "UNEP"
-layout: publication
+layout: resume
 categories: report
 source: 'UNEP, Nairobi'
 

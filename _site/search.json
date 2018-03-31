@@ -244,7 +244,7 @@
     ,{
       "title"			: "Lake Tanganyika Basin training DVD - Zambia.",
       "link"			: "http://localhost:4000/dvd/dvd-zambia-laketanganyika/",
-      "excerpt"		: ""
+      "excerpt"		: "    "
     }
   
 
@@ -252,7 +252,7 @@
     ,{
       "title"			: "Lake Tanganyika Basin training DVD - Tanzania.",
       "link"			: "http://localhost:4000/dvd/dvd-tanzania-laketanganyika/",
-      "excerpt"		: ""
+      "excerpt"		: "    "
     }
   
 
@@ -260,7 +260,7 @@
     ,{
       "title"			: "Lake Tanganyika Basin training DVD - DRC.",
       "link"			: "http://localhost:4000/dvd/dvd-drc-laketanganyika/",
-      "excerpt"		: ""
+      "excerpt"		: "    "
     }
   
 
@@ -588,7 +588,7 @@
     ,{
       "title"			: "FFS traning DVD - Narok.",
       "link"			: "http://localhost:4000/dvd/DVD-narok-ICRAF-kenya-FFS/",
-      "excerpt"		: ""
+      "excerpt"		: "    "
     }
   
 
@@ -596,7 +596,7 @@
     ,{
       "title"			: "FFS traning DVD - Mwingi",
       "link"			: "http://localhost:4000/dvd/DVD-mwingi-ICRAF-kenya-FFS/",
-      "excerpt"		: ""
+      "excerpt"		: "    "
     }
   
 
@@ -604,7 +604,7 @@
     ,{
       "title"			: "FFS traning DVD - Mbeere",
       "link"			: "http://localhost:4000/dvd/DVD-mbeere-ICRAF-kenya-FFS/",
-      "excerpt"		: ""
+      "excerpt"		: "    "
     }
   
 
@@ -644,7 +644,7 @@
     ,{
       "title"			: "West African Drylands Project land degradation monitoring training DVD",
       "link"			: "http://localhost:4000/dvd/DVD-sahel-ICRAF/",
-      "excerpt"		: ""
+      "excerpt"		: "    "
     }
   
 

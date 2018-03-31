@@ -1,12 +1,12 @@
 ---
-layout: publication
+layout: resume
 title: "Modelling water and vegetation reciprocity."
 excerpt: "An archive of studies forming my PhD thesis."
 search_omit: true
 share: true
 ---
 
-My PhD project "Modelling water and vegetation reciprocity -a landscape synthesis in GIS" is based on the results of several studies relating landscape patterns and processes. Some of the studies are explicitly included in the PhD thesis report, whereas others are only used as background material.
+My PhD project "Modelling water and vegetation reciprocity - a landscape synthesis in GIS" is based on the results of several studies relating landscape patterns and processes. Some of the studies are explicitly included in the PhD thesis report, whereas others are only used as background material.
 
 ### PhD thesis
 

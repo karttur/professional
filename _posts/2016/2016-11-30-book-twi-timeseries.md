@@ -1,9 +1,9 @@
 ---
 title: "Soil Moisture Dynamics Estimated from MODIS Time Series Images."
-layout: publication
+layout: resume
 categories: refereechapter
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: refereechapter
 source: '<i>Multitemporal Remote Sensing</i> (pp. 233–253)'
 date: 2016-11-30

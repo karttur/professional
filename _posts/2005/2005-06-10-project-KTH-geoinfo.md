@@ -1,7 +1,7 @@
 ---
 title: "Senior Lecturer, Geoinformatics (KTH)."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: project
 source:
 date: 2005-08-01

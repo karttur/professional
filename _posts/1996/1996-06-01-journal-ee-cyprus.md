@@ -1,7 +1,7 @@
 ---
 title: "Digital interpretation and management of land cover — a case study of Cyprus."
 authors: "Gumbricht, T., McCarthy, J., & Mahlander, C. "
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Ecological Engineering</i>, 6(4), 273–279'
 

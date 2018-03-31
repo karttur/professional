@@ -1,7 +1,7 @@
 ---
 title: "Rwenzori Mountains - Satellite Images"
 authors: "Gumbricht, T."
-layout: simplepage
+layout: pubpage
 categories: poster
 source: '<i>FAO</i>, June 2006, Entebbe, Uganda'
 figure1: Rwenzori_images-poster_entebbe_20060601_quicklook

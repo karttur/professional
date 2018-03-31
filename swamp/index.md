@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: resume
 title: SWAMP
 excerpt: "An archive of wetland mapping (SWAMP) publications"
 search_omit: true

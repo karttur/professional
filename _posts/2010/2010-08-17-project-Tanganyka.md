@@ -1,7 +1,7 @@
 ---
 title: "Lake Tanganyika Regional Integrated Management Project."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: project
 source: '<i>UNDP</i>, 2010'
 

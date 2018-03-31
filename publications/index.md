@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: resume
 title: Publications
 excerpt: "An archive of articles sorted by publication type and date."
 search_omit: true

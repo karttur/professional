@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: resume
 title: DVD publications
 excerpt: "Archive of DVD publications"
 search_omit: true

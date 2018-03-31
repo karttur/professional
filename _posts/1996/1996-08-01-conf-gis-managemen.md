@@ -1,7 +1,7 @@
 ---
 title: "Application of coupled GIS-models for integrated landscape management."
 authors: "Mccarthy, J., & Gumbricht, T. (1996)."
-layout: publication
+layout: resume
 categories: conference
 source: '<i>Geoinformatics</i> (pp. 262–267)'
 

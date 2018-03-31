@@ -1,7 +1,7 @@
 ---
 title: "Kenya Farmer Field School"
 authors: "Gumbricht, T."
-layout: simplepage
+layout: pubpage
 categories: project
 source: '<i>In1651</i>, 2007, KTH, Stockholm'
 pdf: 01_gis-intro_v66.pdf

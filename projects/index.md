@@ -1,10 +1,9 @@
 ---
-layout: publication
+layout: resume
 title: Projects and tasks
 excerpt: "Archive of projects"
 search_omit: true
 share: true
-
 ---
 
 <ul class="post-list">

@@ -1,7 +1,7 @@
 ---
 title: "Tertiary wastewater treatment using the root-zone method in temperate climates."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: journal
 source: 'Ecological Engineering, 1(3), 199–212'
 date: 1992-09-01

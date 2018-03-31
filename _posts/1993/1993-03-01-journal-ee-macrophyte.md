@@ -1,7 +1,7 @@
 ---
 title: "Nutrient removal capacity in submersed macrophyte pond systems in a temperature climate."
 authors: "Gumbricht, T."
-layout: publication
+layout: resume
 categories: journal
 source: '<i>Ecological Engineering</i>, 2(1), 49–61'
 

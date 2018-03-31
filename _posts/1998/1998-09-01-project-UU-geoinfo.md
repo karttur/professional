@@ -1,7 +1,7 @@
 ---
 title: "Head and Senior Lecturer, Geoinformatics, Department of Earch Sciences, Uppsala University"
 authors: ""
-layout: publication
+layout: resume
 categories: project
 source:
 date: 1998-08-01

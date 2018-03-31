@@ -1,7 +1,7 @@
 ---
 title: "Portraying the geophysiology of the Okavango Delta, Botswana"
 authors: "Gumbricht, T."
-layout: simplepage
+layout: pubpage
 categories: talk
 source: '<i>UNIGIS</i>, 2000, Johannesburg, South Africa'
 figure: oka_UNIGIS_joburg_2000_tg

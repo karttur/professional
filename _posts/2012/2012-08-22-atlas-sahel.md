@@ -1,7 +1,7 @@
 ---
 title: "Sahel Atlas of Changing Landscapes: Tracing trends and variations in vegetation cover and soil condition."
 authors: "UNEP (Vågen, T and Gumbricht, T)"
-layout: publication
+layout: resume
 categories: atlas
 source: 'UNEP, Nairobi'
 

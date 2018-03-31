@@ -1,7 +1,7 @@
 ---
 title: "Lake Kyoga, Uganda."
 authors: "Gumbricht, T."
-layout: simplepage
+layout: pubpage
 categories: talk
 source: '<i>FAO</i>, 2003, Rome, Italy'
 pdf: kyoga_FAO_rome_2003_tg.pdf
