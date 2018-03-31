@@ -1,16 +1,17 @@
 ---
 layout: resume
 title: "International studies during my doctoral studies (KTH)."
-excerpt: "An archive of international studies from KTH"
+excerpt: "An archive of studies done during my doctoral studies at KTH"
 search_omit: true
 share: true
 ---
-		\- [Journal articles](#journal-articles)
-		\- [Refereed chapters](#refereed-chapters)
-		\- [Reports](#reports)
-		\- [Conference proceedings](#conference-proceedings)
-		\- [Training](#training)
-		\- [Images](#images)
+**Contents**
+	\- [Journal articles](#journal-articles)
+	\- [Refereed chapters](#refereed-chapters)
+	\- [Reports](#reports)
+	\- [Conference proceedings](#conference-proceedings)
+	\- [Training](#training)
+	\- [Images](#images)
 
 During my doctoral studies and as a researcher at the Royal Institute of Technology (KTH) I supervised a dozen Msc projects, and led international excursions to Holland, Cyprus and Latvia. After the iron curtain fell in 1989 (I happened to be in Berlin when the wall came down, and in Prague during the velvet revolution), I worked with Polish universities for several years. Through students in the international MSc programmes on Environmental Engineering and Sustainable Infrastructure, that I was instrumental for setting up at KTH, I also worked in Latvia and Lithuania.
 

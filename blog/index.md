@@ -1,7 +1,6 @@
 ---
 layout: resume
 title: Links to my blogs
-
 search_omit: true
 ---
 
