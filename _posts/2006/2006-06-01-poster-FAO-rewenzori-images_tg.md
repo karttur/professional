@@ -21,7 +21,7 @@ sensor:
 tag:
   - Rwenzori
   - glacier
-access: 'pdfaccess'
+access: 'imageaccess'
 ---
 <figure>
 <figcaption>Slide the mouse over the image, right click and select "Save Link As" or click on the map to get a pop-up image that you can drag to your desktop. The full size image is a jpg file in A0 format (4.7 MB).</figcaption>

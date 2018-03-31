@@ -5,12 +5,12 @@ earsel_2015:
     credit: null
     source: "35th EARSeL Symposium 15-19 June 2015, Stockholm, Sweden"
 
-MWBS_2015:
-    file: MWBS_2015.jpg
+mapwetland-poster_MWBS_rome_20150320:
+    file: mapwetland-poster_MWBS_rome_20150320_quicklook.jpg
     author: Thomas Gumbricht
     caption: "Mapping Water Bodies and Wetlands from Multi-Spectral Optical Satellite Images."
     credit: null
-    source: "Mapping Water Bodies from Space conference 18-19 March 2015, Rome, Italy"
+    source: mapwetland-poster_MWBS_rome_20150320_tg.jpg
 
 oka_WERRD_windhoek_20030826_tg:
     file: oka_WERRD_windhoek_20030826_tg.jpg

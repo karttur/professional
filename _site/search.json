@@ -68,7 +68,7 @@
     ,{
       "title"			: "Mapping Water Bodies and Wetlands from Multi-Spectral Optical Satellite Images.",
       "link"			: "http://localhost:4000/poster/mwbs-wetlandmap/",
-      "excerpt"		: ""
+      "excerpt"		: "Slide the mouse over the image, right click and select &quot;Save Link As&quot; or click on the map to get a pop-up image that you can drag to your desktop. The full size image is a jpg file in A0 format (6.2 MB)."
     }
   
 
@@ -997,6 +997,54 @@
       "title"			: "Spatial patterns of islands and salt crusts in the Okavango Delta, Botswana.",
       "link"			: "http://localhost:4000/journal/journal-sagj-island-pattern/",
       "excerpt"		: "Gumbricht, T., &amp; McCarthy, T. S. (2003). Spatial patterns of islands and salt crusts in the Okavango Delta, Botswana. South African Geographical Journal, 85(2), 164–169."
+    }
+  
+
+  
+    ,{
+      "title"			: "GIS Data Mining on Internet",
+      "link"			: "http://localhost:4000/relma/RELMA-gis-dss_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "GIS Data Mining on Internet",
+      "link"			: "http://localhost:4000/lecture/RELMA-gis-www-data_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Introduction to Data Capture with GPS",
+      "link"			: "http://localhost:4000/lecture/RELMA-gis-gps_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Introduction to GIS and Satellite Data Analysis – Lake Nakuru, Kenya",
+      "link"			: "http://localhost:4000/lecture/RELMA-rs-nakuru_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Introduction to GIS and Digital Cartography using ArcExplorer",
+      "link"			: "http://localhost:4000/lecture/RELMA-gis-arcexplorer_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "RELMA Regional GIS Training",
+      "link"			: "http://localhost:4000/lecture/RELMA-gis-schedule_tg/",
+      "excerpt"		: ""
     }
   
 
