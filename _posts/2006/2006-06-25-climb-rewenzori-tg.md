@@ -1,5 +1,5 @@
 ---
-title: "Rwenzori Mountains - Satellite Images"
+title: "Short report on the Rwenzori centennial climb."
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: report
