@@ -179,3 +179,17 @@ kyoga_lakeweb-poster_entebbe_20040401_quicklook:
   caption: "Lake Kyoga FoodWeb Modelling."
   credit: null
   source: kyoga_lakeweb-poster_entebbe_20040401_tg.jpg
+
+oka-fire_SAFARI2000_siavonga_2000:
+    file: oka-fire_SAFARI2000_siavonga_2000_quicklook.jpg
+    author: Gumbricht, T., et al
+    caption: "Sub surface fire detection with satellite sensors."
+    credit: null
+    source: oka-fire_SAFARI2000_siavonga_2000_etal.jpg
+
+oka-geophys_SAFARI2000_siavonga_2000:
+    file: oka-geophys_SAFARI2000_siavonga_2000_quicklook.jpg
+    author: Annegarn, H., et al
+    caption: "Portraying the geophysiology of the Okavango Delta, Botswana."
+    credit: null
+    source: oka-geophys_SAFARI2000_siavonga_2000_etal.jpg

@@ -1,5 +1,5 @@
 ---
-layout: publication
+layout: resume
 title: Teaching material
 excerpt: "An archive of teaching material"
 search_omit: true
