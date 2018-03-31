@@ -16,23 +16,7 @@ My part in the project included development of land degradation monitoring from 
 <ul class="post-list">
 {% for post in site.categories.journal %}
   {% if post.projectid == "sahel" %}
-    <li><article>
-    {% if post.authors %}
-      <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-      {% if post.source %}
-        {% if post.doiurl %}
-          <a href="{{ post.doiurl }}">
-          {{ post.source }}
-          </a>
-        {% else %}
-          {{ post.source }}
-        {% endif %}
-      {% endif %}
-      (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-      </span>
-    {% endif %}
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-    </article></li>
+    {% include publication.html post=post %}
   {% endif %}
 {% endfor %}
 </ul>
@@ -42,23 +26,7 @@ My part in the project included development of land degradation monitoring from 
 <ul class="post-list">
 {% for post in site.categories.atlas %}
   {% if post.projectid == "sahel" %}
-    <li><article>
-    {% if post.authors %}
-      <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-      {% if post.source %}
-        {% if post.doiurl %}
-          <a href="{{ post.doiurl }}">
-          {{ post.source }}
-          </a>
-        {% else %}
-          {{ post.source }}
-        {% endif %}
-      {% endif %}
-      (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-      </span>
-    {% endif %}
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-    </article></li>
+    {% include publication.html post=post %}
   {% endif %}
 {% endfor %}
 </ul>
@@ -68,23 +36,7 @@ My part in the project included development of land degradation monitoring from 
 <ul class="post-list">
 {% for post in site.categories.report %}
   {% if post.projectid == "sahel" %}
-    <li><article>
-    {% if post.authors %}
-      <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-      {% if post.source %}
-        {% if post.doiurl %}
-          <a href="{{ post.doiurl }}">
-          {{ post.source }}
-          </a>
-        {% else %}
-          {{ post.source }}
-        {% endif %}
-      {% endif %}
-      (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-      </span>
-    {% endif %}
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-    </article></li>
+    {% include publication.html post=post %}
   {% endif %}
 {% endfor %}
 </ul>
@@ -94,49 +46,38 @@ My part in the project included development of land degradation monitoring from 
 <ul class="post-list">
 {% for post in site.categories.talk %}
   {% if post.projectid == "sahel" %}
-    <li><article>
-    {% if post.authors %}
-      <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-      {% if post.source %}
-        {% if post.doiurl %}
-          <a href="{{ post.doiurl }}">
-          {{ post.source }}
-          </a>
-        {% else %}
-          {{ post.source }}
-        {% endif %}
-      {% endif %}
-      (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-      </span>
-    {% endif %}
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-    </article></li>
+    {% include publication.html post=post %}
   {% endif %}
 {% endfor %}
 </ul>
 
-### Training
+### Lectures
+
+<ul class="post-list">
+{% for post in site.categories.lecture %}
+  {% if post.projectid == "sahel" %}
+    {% include publication.html post=post %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+
+### Training DVD
+
+<ul class="post-list">
+{% for post in site.categories.DVD %}
+  {% if post.projectid == "sahel" %}
+    {% include publication.html post=post %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+### Training lessons
 
 <ul class="post-list">
 {% for post in site.categories.training %}
   {% if post.projectid == "sahel" %}
-    <li><article>
-    {% if post.authors %}
-      <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-      {% if post.source %}
-        {% if post.doiurl %}
-          <a href="{{ post.doiurl }}">
-          {{ post.source }}
-          </a>
-        {% else %}
-          {{ post.source }}
-        {% endif %}
-      {% endif %}
-      (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-      </span>
-    {% endif %}
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-    </article></li>
+    {% include publication.html post=post %}
   {% endif %}
 {% endfor %}
 </ul>
@@ -144,25 +85,9 @@ My part in the project included development of land degradation monitoring from 
 ### Movie
 
 <ul class="post-list">
-{% for post in site.categories.popular %}
+{% for post in site.categories.movie %}
   {% if post.projectid == "sahel" %}
-    <li><article>
-    {% if post.authors %}
-      <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-      {% if post.source %}
-        {% if post.doiurl %}
-          <a href="{{ post.doiurl }}">
-          {{ post.source }}
-          </a>
-        {% else %}
-          {{ post.source }}
-        {% endif %}
-      {% endif %}
-      (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-      </span>
-    {% endif %}
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-    </article></li>
+    {% include publication.html post=post %}
   {% endif %}
 {% endfor %}
 </ul>
@@ -172,23 +97,7 @@ My part in the project included development of land degradation monitoring from 
 <ul class="post-list">
 {% for post in site.categories.images %}
   {% if post.projectid == "sahel" %}
-    <li><article>
-    {% if post.authors %}
-      <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-      {% if post.source %}
-        {% if post.doiurl %}
-          <a href="{{ post.doiurl }}">
-          {{ post.source }}
-          </a>
-        {% else %}
-          {{ post.source }}
-        {% endif %}
-      {% endif %}
-      (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-      </span>
-    {% endif %}
-    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-    </article></li>
+    {% include publication.html post=post %}
   {% endif %}
 {% endfor %}
 </ul>

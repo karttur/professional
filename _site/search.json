@@ -643,8 +643,8 @@
   
     ,{
       "title"			: "West African Drylands Project land degradation monitoring training DVD",
-      "link"			: "http://localhost:4000/dvd/DVD-sahel-ICRAF/",
-      "excerpt"		: "    "
+      "link"			: "http://localhost:4000/dvd/DVD-sahel-divagis/",
+      "excerpt"		: "The complete training DVD is not available online. The online material is restricted to the start page (this page) and the training modules. The software and the spatial data available on the DVD are not included. The url links in the start page are for the local DVD access and do not work in the online version."
     }
   
 
@@ -778,6 +778,14 @@
 
   
     ,{
+      "title"			: "Rwenzori Mountains Uganda - commemorate centennial climb",
+      "link"			: "http://localhost:4000/movie/movie-FAO-rewenzori_tg/",
+      "excerpt"		: " Rwenzori Mountains Uganda - commemorate centennial climb "
+    }
+  
+
+  
+    ,{
       "title"			: "A regional coupled surface water/groundwater model of the Okavango Delta, Botswana",
       "link"			: "http://localhost:4000/journal/journal-wrr-oka-delta-model/",
       "excerpt"		: "Bauer, P., Gumbricht, T., &amp; Kinzelbach, W. (2006). A regional coupled surface water/groundwater model of the Okavango Delta, Botswana Water Resources Research, 42(4), 1–15."
@@ -786,49 +794,49 @@
 
   
     ,{
-      "title"			: "Knowledge based classification of the Okavango Delta - Botswana",
-      "link"			: "http://localhost:4000/talk/ICRAF-rs-veg-5-oka-rules/",
+      "title"			: "Remote sensing of vegetation: Knowledge based classification of the Okavango Delta - Botswana",
+      "link"			: "http://localhost:4000/lecture/ICRAF-rs-veg-5-oka-rules/",
       "excerpt"		: ""
     }
   
 
   
     ,{
-      "title"			: "Remote sensing of vegetation: Part 1 theory",
-      "link"			: "http://localhost:4000/talk/ICRAF-rs-veg-4-pca_2006_tg/",
+      "title"			: "Remote sensing of vegetation: PCA classification",
+      "link"			: "http://localhost:4000/lecture/ICRAF-rs-veg-4-pca_2006_tg/",
       "excerpt"		: ""
     }
   
 
   
     ,{
-      "title"			: "Vegetation dynamics of the Sahel, 1982-2004",
-      "link"			: "http://localhost:4000/talk/ICRAF-rs-veg-3-sahelchange/",
+      "title"			: "Remote sensing of vegetation: Vegetation dynamics of the Sahel, 1982-2004",
+      "link"			: "http://localhost:4000/lecture/ICRAF-rs-veg-3-sahelchange/",
       "excerpt"		: ""
     }
   
 
   
     ,{
-      "title"			: "Remote sensing of vegetation: Part 2 Sahel examples",
-      "link"			: "http://localhost:4000/talk/ICRAF-rs-veg-2-sahel/",
+      "title"			: "Remote sensing of vegetation: Sahel examples",
+      "link"			: "http://localhost:4000/lecture/ICRAF-rs-veg-2-sahel/",
       "excerpt"		: ""
     }
   
 
   
     ,{
-      "title"			: "Remote sensing of vegetation: Part 1 theory",
-      "link"			: "http://localhost:4000/talk/ICRAF-rs-veg-1-theory_2006_tg/",
+      "title"			: "Remote sensing of vegetation: theory",
+      "link"			: "http://localhost:4000/lecture/ICRAF-rs-veg-1-theory_2006_tg/",
       "excerpt"		: ""
     }
   
 
   
     ,{
-      "title"			: "Image processing",
-      "link"			: "http://localhost:4000/talk/ICRAF-rs-0-image-processing_tg/",
-      "excerpt"		: ""
+      "title"			: "Introduction to image processing",
+      "link"			: "http://localhost:4000/lecture/ICRAF-rs-0-image-processing_tg/",
+      "excerpt"		: "ess’"
     }
   
 

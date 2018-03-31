@@ -15,8 +15,10 @@ pages:
 number:
 issue:
 editor:
-access: 'pdfaccess'
+access: 'htmlaccess'
 ---
+The complete training DVD is not available online. The online material is restricted to the start page (this page) and the training modules. The software and the spatial data available on the DVD are not included. The url links in the start page are for the local DVD access and do not work in the online version.
+
 <figure>
   <iframe src="{{ site.commonurl }}/dvd/{{ page.dvdurl }}/index.html"
     style="width:720px; height:576px;" frameborder="1">

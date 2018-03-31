@@ -60,3 +60,12 @@ x3_AVHRR_oka_199204-199305:
     source: null
     width: 720
     height: 540
+
+climb_FAO_rwenzori_200606_tg:
+  file: climb_FAO_rwenzori_200606_tg.mp4
+  author: Thomas Gumbricht
+  caption: Rwenzori Mountains Uganda - commemorate centennial climb
+  credit: null
+  source: null
+  width: 784
+  height: 576

@@ -72,6 +72,21 @@ I have since then used my data and knowledge about the Okavango in many other st
 {% endfor %}  
 </ul>
 
+### Lectures
+
+<ul class="post-list">
+{% for post in site.categories.lecture %}
+  {% if post.okavango %}
+    {% include publication.html post=post %}
+  {% endif %}
+{% endfor %}
+{% for post in site.categories.lecture %}
+  {% if post.projectid == "okavango" %}
+    {% include publication.html post=post %}
+  {% endif %}
+{% endfor %}  
+</ul>
+
 ### Posters
 
 <ul class="post-list">

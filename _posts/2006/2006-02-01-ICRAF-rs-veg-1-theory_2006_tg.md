@@ -1,15 +1,13 @@
 ---
-title: "Remote sensing of vegetation: Part 1 theory"
+title: "Remote sensing of vegetation: theory"
 authors: "Gumbricht, T."
 layout: pdfpage
-categories: talk
+categories: lecture
+projectid: sahel
 source: '<i>ICRAF</i>, 2006, Nairobi, Kenya'
-figure: rs-veg-1-theory_ICRAF_nairobi_2006_tg
 pdf: rs-veg-1-theory_ICRAF_nairobi_2006_tg.pdf
 doiurl: '#'
 date: 2006-02-01
-series: "Introduction to Remote Sensing"
-projectid:
 pattern:
 process:
 pages:
