@@ -746,6 +746,14 @@
 
   
     ,{
+      "title"			: "Rwenzori Mountains - Satellite Images",
+      "link"			: "http://localhost:4000/report/climb-rewenzori-tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Glaciers in the Rwenzori Mountains: a reinterpretation",
       "link"			: "http://localhost:4000/talk/talk-FAO-rewenzori-glaciers_tg/",
       "excerpt"		: ""
