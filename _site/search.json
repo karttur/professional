@@ -954,6 +954,14 @@
 
   
     ,{
+      "title"			: "West African Drylands",
+      "link"			: "http://localhost:4000/project/project-sahel/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Channels, wetlands and islands in the Okavango Delta, Botswana, and their relation to hydrological and sedimentological processes.",
       "link"			: "http://localhost:4000/journal/journal-espl-oka-channels-wetlands-islands/",
       "excerpt"		: "Gumbricht, T., McCarthy, J., &amp; McCarthy, T. S. (2004). Channels, wetlands and islands in the Okavango Delta, Botswana, and their relation to hydrological and sedimentological processes. Earth Surface Processes and Landforms, 29(1), 15–29."
@@ -1090,6 +1098,22 @@
 
   
     ,{
+      "title"			: "Lake Kyoga aerial photos",
+      "link"			: "http://localhost:4000/image/image-kyoga-boat/",
+      "excerpt"		: "Photos taken during reconnaissance flight over Lake Kyoga in Ocotber 2002. Photos taken by Camilla Andersson and Thomas Gumbricht. Slide cursor over images to view clear photo, click any image to see all photos in large size."
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Kyoga aerial photos",
+      "link"			: "http://localhost:4000/image/image-kyoga-aerial/",
+      "excerpt"		: "Photos taken during reconnaissance flight over Lake Kyoga in Ocotber 2002. Photos taken by Camilla Andersson and Thomas Gumbricht. Slide cursor over images to view clear photo, click any image to see all photos in large size."
+    }
+  
+
+  
+    ,{
       "title"			: "The Okavango Delta - Microtopography and hydrology.",
       "link"			: "http://localhost:4000/talk/talk-ETH-oka-hydro/",
       "excerpt"		: ""
@@ -1098,17 +1122,17 @@
 
   
     ,{
-      "title"			: "Remote sensing to detect sub-surface peat fires and peat fire scars in the Okavango Delta, Botswana.",
-      "link"			: "http://localhost:4000/journal/sajs-oka-peat-fire/",
-      "excerpt"		: "Gumbricht, T., McCarthy, T. S., Mccarthy, J., Roy, D. P., Frost, P. E., &amp; Wessels, K. (2002). Remote sensing to detect sub-surface peat fires and peat fire scars in the Okavango Delta, Botswana. South African Journal of Science, 98(7 &amp; 8), 351–358."
+      "title"			: "Reearcher , Entebbe, Uganda",
+      "link"			: "http://localhost:4000/project/project-ICRAF-entebbe/",
+      "excerpt"		: "I was employed by the World Agroforestry Centre (ICRAF) 1 September 2002 and sacked 31 January 2004 (1 February 2004 I was contracted as a consultant with ICRAF)."
     }
   
 
   
     ,{
-      "title"			: "West African Drylands",
-      "link"			: "http://localhost:4000/project/project-sahel/",
-      "excerpt"		: ""
+      "title"			: "Remote sensing to detect sub-surface peat fires and peat fire scars in the Okavango Delta, Botswana.",
+      "link"			: "http://localhost:4000/journal/sajs-oka-peat-fire/",
+      "excerpt"		: "Gumbricht, T., McCarthy, T. S., Mccarthy, J., Roy, D. P., Frost, P. E., &amp; Wessels, K. (2002). Remote sensing to detect sub-surface peat fires and peat fire scars in the Okavango Delta, Botswana. South African Journal of Science, 98(7 &amp; 8), 351–358."
     }
   
 

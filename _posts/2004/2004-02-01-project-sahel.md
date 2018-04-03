@@ -4,7 +4,7 @@ authors: "Gumbricht, T."
 layout: resume
 categories: project
 source: '<i>UENP (Norway)</i>'
-date: 2002-06-10
+date: 2004-02-01
 enddate: 2008-12-31
 projectid:
 pattern:

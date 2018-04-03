@@ -20,6 +20,16 @@ Within the project I organized and led training workshops in Kenya, Tanzania, Za
 {% endfor %}
 </ul>
 
+### Training
+
+<ul class="post-list">
+{% for post in site.categories.training %}
+  {% if post.projectid == "tanganyika" %}
+    {% include publication.html post=post %}
+  {% endif %}
+{% endfor %}
+</ul>
+
 ### Movie
 
 Not yet available

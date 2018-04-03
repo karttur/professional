@@ -52,7 +52,7 @@ Kyoga is a shallow lake north of Lake Victoria in Uganda. In 2003 I raised fundi
 ### Images
 
 <ul class="post-list">
-{% for post in site.categories.images %}
+{% for post in site.categories.image %}
   {% if post.projectid == "kyoga" %}
     {% include publication.html post=post %}
   {% endif %}
