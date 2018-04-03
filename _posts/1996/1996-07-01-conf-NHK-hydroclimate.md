@@ -5,6 +5,7 @@ layout: pdfpage
 pdf: hydro-climate_NHK_akureyri_19960601_tg.pdf
 doiurl: '#'
 categories: conference
+doctype: pdf
 source: '<i>Nordic Hydrological Conference</i> (Vol. 40, pp. 360–368)'
 date: 1996-06-01
 projectid: phd

@@ -3,6 +3,7 @@ title: "An expert system model for mapping tropical wetlands and peatlands revea
 authors: "Gumbricht, T. et al."
 layout: resume
 categories: journal
+doctype: pdf
 source: '<i>Global Change Biology</i>, 23, 3581–3599'
 date: 2017-05-09
 doiurl: 'https://doi.org/10.1111/gcb.13689'

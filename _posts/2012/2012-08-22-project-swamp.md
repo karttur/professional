@@ -3,6 +3,7 @@ title: "Sustainable Wetlands Adaptation and Mitigation Program (SWAMP)"
 authors:
 layout: resume
 categories: project
+doctype: none
 source: 'USAID'
 
 date: 2012-03-01

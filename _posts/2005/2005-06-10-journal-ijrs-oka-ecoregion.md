@@ -3,6 +3,7 @@ title: "Ecoregion classification in the Okavango Delta, Botswana from multitempo
 authors: "McCarthy, J., Gumbricht, T., & McCarthy, T. S."
 layout: resume
 categories: journal
+doctype: url
 source: '<i>Int J Remote Sensing</i>, 26(19), 4339–4357'
 
 date: 2005-06-10

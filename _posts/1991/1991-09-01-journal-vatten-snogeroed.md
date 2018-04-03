@@ -3,6 +3,7 @@ title: "Reduction of nutrients by water plants. Final report, the Snogeroed proj
 authors: "Gumbricht, T."
 layout: resume
 categories: journal
+doctype: none
 source: '<i>Vatten</i>, 47: 310-314'
 date: 1991-09-01
 doiurl:

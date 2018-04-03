@@ -5,6 +5,7 @@ layout: pdfpage
 pdf: oka_RSENV-CD_capetown_2000_tg-etal.pdf
 doiurl: '#'
 categories: conference
+doctype: pdf
 source: '<i>12th International Symposium on Remote Sensing of the Environment</i> (CD publication)'
 
 date: 2000-04-01

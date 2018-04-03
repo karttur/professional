@@ -3,6 +3,7 @@ title: "Hybrid Mapping of pantropical wetlands from optical satellite images, hy
 authors: "Gumbricht, T."
 layout: resume
 categories: refereechapter
+doctype: none
 source: '<i>Advances in Wetland Classification and Mapping</i> (pp. 435–454)'
 date: 2015-10-01
 doiurl: https://www.crcpress.com/Remote-Sensing-of-Wetlands-Applications-and-Advances/Tiner-Lang-Klemas/p/book/9781482237351

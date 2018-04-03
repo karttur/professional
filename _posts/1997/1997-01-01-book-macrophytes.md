@@ -3,6 +3,7 @@ title: "Submersed macrophytes for recovery of eutrophied waters - nutrient spira
 authors: "Gumbricht, T."
 layout: resume
 categories: refereechapter
+doctype: none
 source: '<i>Ecological Engineering for Wastewater Treatment</i> (2nd ed., pp. 227–235)'
 
 date: 1997-01-01

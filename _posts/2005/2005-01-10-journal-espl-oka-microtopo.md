@@ -3,6 +3,7 @@ title: "The micro-topography of the wetlands of the Okavango Delta, Botswana."
 authors: "Gumbricht, T., McCarthy, T. S., & Bauer, P."
 layout: resume
 categories: journal
+doctype: url
 source: '<i>Earth Surface Processes and Landforms</i>, 30(1), 27–39'
 
 date: 2005-01-10

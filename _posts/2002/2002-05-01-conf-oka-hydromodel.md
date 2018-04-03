@@ -3,6 +3,7 @@ title: "A spatially distributed hydrological model for the Okavango Delta."
 authors: "Bauer, P. Gumbricht, T., & Kinzelbach, W. "
 layout: resume
 categories: conference
+doctype: none
 source: '<i>Environmental Monitoring of Tropical and Subtropical Wetlands</i>'
 
 date: 2002-05-01

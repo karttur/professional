@@ -3,6 +3,7 @@ title: "Knowledge based classification of landscape objects combining satellite 
 authors: "Chmiel, J., & Gumbricht, T."
 layout: resume
 categories: refereechapter
+doctype: url
 source: '<i>International Archives of Photogrammetry and Remote Sensing</i>, 31(B4), 183–187'
 
 date: 1996-06-01

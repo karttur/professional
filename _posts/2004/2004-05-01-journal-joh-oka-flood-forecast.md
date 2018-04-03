@@ -3,6 +3,7 @@ title: "Forecasting the spatial extent of the annual flood in the Okavango delta
 authors: "Gumbricht, T. et al."
 layout: resume
 categories: journal
+doctype: url
 source: '<i>J of Hydrology</i>, 290(3–4), 178–191'
 
 date: 2004-05-01

@@ -3,6 +3,7 @@ title: "Vegetation and land cover changes in the cocoa belt in Ivory Coast."
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: talk
+doctype: pdf
 source: '<i>ICRAF</i>, September 2010, Nairobi, Kenya'
 figure: deforestation_ivory-coast__201009_tg
 pdf: deforestation_ivory-coast__201009_tg.pdf

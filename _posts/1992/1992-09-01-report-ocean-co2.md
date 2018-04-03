@@ -4,6 +4,7 @@ authors: "Gumbricht, T"
 layout: pdfpage
 pdf: ocean-biota_KTH_stockholm_19921107_tg.pdf
 categories: report
+doctype: pdf
 source: 'Royal Institute of Technology (KTH), Stockholm'
 tags:
 date: 1992-09-01

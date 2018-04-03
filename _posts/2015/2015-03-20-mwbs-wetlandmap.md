@@ -3,6 +3,7 @@ title: "Mapping Water Bodies and Wetlands from Multi-Spectral Optical Satellite 
 authors: "Gumbricht, T."
 layout: resume
 categories: poster
+doctype: image
 source: '<i>Mapping Water Bodies from Space conference</i> 18-19 March 2015, Rome, Italy'
 figure1: mapwetland-poster_MWBS_rome_20150320
 doiurl: MWBS_2015

@@ -3,6 +3,7 @@ title: "Introduktion till dataanalyis i GIS (in Swedish)"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: lecture-1n1654
+doctype: pdf
 source: '<i>1n1654</i>, 2008, KTH, Stockholm'
 pdf: 05_samhalls-GIS_data_analys_v66.pdf
 date: 2008-09-22

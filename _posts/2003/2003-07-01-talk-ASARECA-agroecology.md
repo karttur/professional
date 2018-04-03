@@ -4,6 +4,7 @@ East and Central Africa."
 authors: "Gumbricht, T."
 layout: pubpage
 categories: talk
+doctype: pdf
 source: '<i>ASARECA</i>, 2003, Entebbe, Uganda'
 figure: agroecology_ASARECA_entebbe_200305_tg
 pdf: agroecology_ASARECA_entebbe_200305_tg.pdf

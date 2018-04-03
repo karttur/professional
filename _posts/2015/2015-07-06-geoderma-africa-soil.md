@@ -3,6 +3,7 @@ title: "Mapping of soil properties and land degradation risk in Africa using MOD
 authors: "Vågen et al."
 layout: resume
 categories: journal
+doctype: url
 source: '<i>Geoderma</i>, 263, 216–225'
 
 date: 2016-02-01

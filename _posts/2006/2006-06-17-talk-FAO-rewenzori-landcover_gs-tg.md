@@ -2,7 +2,8 @@
 title: "Landcover changes in the Rwenzori Mountains: the glaciers retreat"
 authors: "Santini, G. & Gumbricht, T."
 layout: pdfpage
-categories: talk
+categories: pdf
+doctype: none
 source: '<i>FAO</i>, June 2006, Kampala, Uganda'
 pdf: Rwenzori_landcover_kampala_20060617_gs-tg.pdf
 doiurl: '#'

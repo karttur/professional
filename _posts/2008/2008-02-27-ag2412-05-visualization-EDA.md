@@ -3,6 +3,7 @@ title: "Exploratory Data Analysis"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: lecture-ag2412
+doctype: pdf
 source: '<i>ag2412</i>, 2008, KTH, Stockholm'
 pdf: 05_GIS-visualisation_EDA_v66.pdf
 date: 2008-02-27

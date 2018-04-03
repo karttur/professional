@@ -4,6 +4,7 @@ wetlands and peatlands: areas, depths and volumes."
 authors: "Gumbricht, T. et al."
 layout: pdfpage
 categories: talk
+doctype: pdf
 source: '<i>GSOC17</i>, March 2017, Rome, Italy'
 figure: wetlandmapping_GSOC17_rome_20170323_tg-etal
 pdf: wetlandmapping_GSOC17_rome_20170323_tg-etal.pdf

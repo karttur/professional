@@ -3,6 +3,7 @@ title: "Portraying the geophysiology of the Okavango Delta, Botswana"
 authors: "Annegard, H. et al."
 layout: pubpage
 categories: poster
+doctype: image
 source: '<i>SAFARI2000</i>, 2000, Siavonga, South Africa'
 figure1: oka-geophys_SAFARI2000_siavonga_2000
 date: 2000-06-01

@@ -4,6 +4,7 @@ authors: "Gumbricht, T., Mahlander, C., & Mccarthy, J."
 layout: pdfpage
 page: cyprus-reforest-mce_ecotech_ostersund_19959515_tg-etal.pdf
 categories: refereechapter
+doctype: none
 source: '<i>Ecotechnics for a sustainable society</i> (pp. 267–281)'
 
 date: 1995-01-01

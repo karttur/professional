@@ -3,6 +3,7 @@ title: "Spatial data and geographic information systems."
 authors: "Gumbricht, T."
 layout: resume
 categories: refereechapter
+doctype: none
 source: '<i>The Green Book: A guide to effective graduate research in Africa agriculture, environment, and rural development</i>. (pp 129-142)'
 
 date: 2004-05-01

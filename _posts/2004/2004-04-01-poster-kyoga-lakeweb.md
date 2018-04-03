@@ -3,6 +3,7 @@ title: "Lake Kyoga FoodWeb Modelling."
 authors: "Gyllenhammar, G & Gumbricht, T."
 layout: pubpage
 categories: poster
+doctype: image
 source: '<i>Department of Water Development</i>, 2004, Entebbe, Uganda'
 figure1: kyoga_lakeweb-poster_entebbe_20040401_quicklook
 doiurl: '#'

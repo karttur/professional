@@ -3,6 +3,7 @@ title: "Mapping carbon content of global tropical wetlands"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: talk
+doctype: pdf
 source: '<i>CIFOR</i>, March 2014, Bogor, Indonesia'
 pdf: wetlandmapping_CIFOR_bogor_20120404_tg.pdf
 doiurl: '#'

@@ -3,6 +3,7 @@ title: "Modelling water and vegetation reciprocity -a landscape synthesis in GIS
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: report
+doctype: pdf
 source: 'Royal Institute of Technology (KTH), Stockholm'
 pdf: thesis_KTH_stockholm_19961216_tg.pdf
 doiurl: '#'

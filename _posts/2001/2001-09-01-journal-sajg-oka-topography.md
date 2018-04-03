@@ -3,6 +3,7 @@ title: "The topography of the Okavango Delta, Botswana, and its tectonic and sed
 authors: "Gumbricht, T. et al."
 layout: resume
 categories: journal
+doctype: url
 source: '<i>South African J of Geology</i>, 104(3), 243–264'
 
 date: 2001-09-01

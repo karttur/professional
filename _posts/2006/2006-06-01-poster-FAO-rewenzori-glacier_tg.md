@@ -3,6 +3,7 @@ title: "Rwenzori Mountains - Glacier Retreat 1906 - 2005"
 authors: "Gumbricht, T."
 layout: pubpage
 categories: poster
+doctype: image
 source: '<i>FAO</i>, June 2006, Entebbe, Uganda'
 figure1: Rwenzori_glacier-poster_entebbe_20060601_quicklook
 doiurl: '#'

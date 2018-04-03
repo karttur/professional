@@ -3,6 +3,7 @@ title: "Rwenzori Mountains Uganda - commemorate centennial climb"
 authors: "Gumbricht, T."
 layout: pubpage
 categories: project
+doctype: none
 source: '<i>FAO</i>'
 date: 2006-06-01
 enddate: 2006-08-01

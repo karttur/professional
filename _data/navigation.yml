@@ -17,8 +17,17 @@
 - title: "Talks/posters"
   url: /talks/
 
+- title: "Images"
+  url: /images/
+
+- title: "Movies"
+  url: /movies/
+
 - title: "Supplement"
   url: /supplement/
 
-- title: "Blog"
+- title: "Blogs"
   url: /blog/
+
+- title: "Search"
+  url: /search/

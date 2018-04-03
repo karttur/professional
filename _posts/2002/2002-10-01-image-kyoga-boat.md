@@ -3,6 +3,7 @@ title: "Lake Kyoga boat survey photos"
 authors: "Gumbricht, T."
 layout: pubpage
 categories: image
+doctype: image
 source: "<i>Thomas Gumbricht</i>, October 2002, Lake Kyoga, Uganda"
 figure1A: 106_Kyoga_boat-survey_2002
 figure1B: 113_Kyoga_boat-survey_2002
@@ -30,7 +31,6 @@ figure3F: 133_Kyoga_boat-survey_2002
 figure3G: 134_Kyoga_boat-survey_2002
 figure3H: 215_Kyoga_boat-survey_2002
 figure3I: 217_Kyoga_boat-survey_2002
-
 
 figure4A: 110_Kyoga_boat-survey_2002
 figure4B: 117_Kyoga_boat-survey_2002

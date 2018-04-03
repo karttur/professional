@@ -3,6 +3,7 @@ title: "West African Drylands Project land degradation monitoring training DVD"
 authors: "Gumbricht, T."
 layout: pubpage
 categories: DVD
+doctype: none
 source: '<i>ICRAF</i>, 2007, Nairobi, Kenya'
 dvdurl: sahel-DVD_ICRAF_kenya_20071007_v1
 doiurl: '#'

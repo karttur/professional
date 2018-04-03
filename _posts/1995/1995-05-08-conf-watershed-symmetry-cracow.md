@@ -4,6 +4,7 @@ authors: "Gumbricht, T."
 layout: pdfpage
 pdf: watershed-symmetry_HydroProc_cracow_19950503_tg.pdf
 categories: conference
+doctype: pdf
 source: '<i>Hydrological processes in the catchment</i> (pp. 37–48)'
 doiurl: '#'
 date: 1995-05-03

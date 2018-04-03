@@ -3,6 +3,7 @@ title: "Basic Analysis Tools"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: lecture-1n1654
+doctype: pdf
 source: '<i>1n1654</i>, 2008, KTH, Stockholm'
 pdf: 03_samhallsbygg-GIS_basic-analysis_v66.pdf
 date: 2008-09-08

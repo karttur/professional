@@ -3,6 +3,7 @@ title: "Assessing future change in the Okavango Delta: the use of a regression m
 authors: "Wolski, P. Gumbrocht, T., & McCarthy, T."
 layout: resume
 categories: conference
+doctype: none
 source: '<i>Environmental Monitoring of Tropical and Subtropical Wetlands</i> (pp. 4-8)'
 
 date: 2002-05-01

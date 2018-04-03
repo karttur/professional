@@ -3,6 +3,7 @@ title: "Mapping global tropical wetlands from earth observing satellite imagery.
 authors: "Gumbricht, T."
 layout: resume
 categories: report
+doctype: url
 source: 'CIFOR, Bogor'
 
 date: 2012-08-22

@@ -3,6 +3,7 @@ title: "Rule based and contextual classification of landscape patches and bounda
 authors: "Gumbricht, T., Mahlander, C., & McCarthy, J."
 layout: resume
 categories: conference
+doctype: none
 source: '<i>ScanGIS</i> (pp. 245 – 255)'
 
 date: 1996-01-01

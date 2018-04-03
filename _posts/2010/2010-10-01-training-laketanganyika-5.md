@@ -3,6 +3,7 @@ title: "Lesson 5 – Vegetation and time series data."
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: training
+doctype: pdf
 source: '<i>ICRAF</i>, October 2010, Nairobi, Kenya'
 pdf: Laketanganyika-gis-ex05_LTRIMP_nairobi_20101001.pdf
 doiurl: '#'

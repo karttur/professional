@@ -3,6 +3,7 @@ title: "Okavango post-doc studies (still continuing)."
 authors: ""
 layout: resume
 categories: project
+doctype: none
 source:
 date: 1999-10-01
 enddate: 2018-03-20

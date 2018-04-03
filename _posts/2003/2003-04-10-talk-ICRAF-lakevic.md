@@ -3,6 +3,7 @@ title: "Lake Victoria, geoinformatics based maps and models for regional scale p
 authors: "Gumbricht, T."
 layout: pubpage
 categories: talk
+doctype: pdf
 source: '<i>ICRAF</i>, Entebbe, 2005'
 figure: lakevic_ICRAF_entebbe_2003_tg
 pdf: lakevic_ICRAF_entebbe_2003_tg.pdf

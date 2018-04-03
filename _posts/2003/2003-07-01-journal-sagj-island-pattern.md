@@ -3,6 +3,7 @@ title: "Spatial patterns of islands and salt crusts in the Okavango Delta, Botsw
 authors: "Gumbricht, T., & McCarthy, T."
 layout: resume
 categories: journal
+doctype: url
 source: '<i>South African Geographical J</i>, 85(2), 164–169'
 
 date: 2003-07-01

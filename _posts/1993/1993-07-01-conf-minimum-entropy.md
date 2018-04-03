@@ -3,6 +3,7 @@ title: "Minimum entropy in small farming - Children’s ecological village Tatui
 authors: "Gumbricht, T."
 layout: resume
 categories: conference
+doctype: none
 source: '<i>Stockholm Water Symposium</i> (pp. 215–222)'
 
 date: 1993-07-01

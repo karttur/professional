@@ -3,6 +3,7 @@ title: "Lake Kyoga aerial photos"
 authors: "Gumbricht, T."
 layout: pubpage
 categories: image
+doctype: image
 source: "<i>Thomas Gumbricht</i>, October 2002, Lake Kyoga, Uganda"
 figure1A: 202_Kyoga_flight_2002
 figure1B: 203_Kyoga_flight_2002

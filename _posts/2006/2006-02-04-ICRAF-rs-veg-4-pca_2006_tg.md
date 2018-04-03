@@ -4,6 +4,7 @@ authors: "Gumbricht, T."
 layout: pdfpage
 categories: lecture
 projectid: sahel
+doctype: pdf
 source: '<i>ICRAF</i>, 2006, Nairobi, Kenya'
 figure: rs-veg-4-pca_ICRAF_nairobi_2006_tg
 pdf: rs-veg-4-pca_ICRAF_nairobi_2006_tg.pdf

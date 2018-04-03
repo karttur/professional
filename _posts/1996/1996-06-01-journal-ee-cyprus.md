@@ -3,6 +3,7 @@ title: "Digital interpretation and management of land cover — a case study of 
 authors: "Gumbricht, T., McCarthy, J., & Mahlander, C. "
 layout: resume
 categories: journal
+doctype: url
 source: '<i>Ecological Engineering</i>, 6(4), 273–279'
 
 date: 1996-06-01

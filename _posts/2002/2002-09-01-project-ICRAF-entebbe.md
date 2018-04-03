@@ -3,6 +3,7 @@ title: "Reearcher , Entebbe, Uganda"
 authors: "Gumbricht, T."
 layout: resume
 categories: project
+doctype: none
 source:
 figure: oka_ICRAF_nairobi_200205_tg
 pdf: oka_ICRAF_nairobi_200205_tg.pdf

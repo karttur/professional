@@ -3,6 +3,7 @@ title: "Hillslope landscape process and pattern analysis."
 authors: "Teklemariam, S. and Gumbricht, T."
 layout: resume
 categories: conference
+doctype: none
 source: '<i>Nordic Hydrological Conference, NHP-Report No. 44</i>, pp. 625-630'
 
 date: 1998-08-01

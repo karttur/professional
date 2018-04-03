@@ -3,6 +3,7 @@ title: "Projects during my doctoral studies (KTH)."
 authors: "Gumbricht, T."
 layout: resume
 categories: project
+doctype: none
 source: "Royal Institute of Technology (KTH), Stockholm (Licentiate thesis.)"
 projectid: kthinternational
 pattern:

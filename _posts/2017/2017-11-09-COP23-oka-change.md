@@ -3,6 +3,7 @@ title: "Monitoring peatland degradation: the case study of the Okavango River De
 authors: "Roman-Cuesta, R.-M. & Gumbricht, T."
 layout: pdfpage
 categories: talk
+doctype: pdf
 source: '<i>COP23</i>, 6-17 November 2017, Bonn, Germany'
 figure: oka-peat-monitor_COP23_bonn_201711_RMRC-TG
 doiurl: oka-peat-monitor_COP23_bonn_201711_RMRC-TG.pdf

@@ -2,7 +2,8 @@
 title: "Landcover changes in the Rwenzori Mountains: the glaciers retreat - updated"
 authors: "Gumbricht, T."
 layout: pdfpage
-categories: talk
+categories: pdf
+doctype: none
 source: '<i>ICRAF</i>, August 2006, Kampala, Uganda'
 pdf: Rwenzori_landcover_nairobi_20060801_tg.pdf
 doiurl: '#'

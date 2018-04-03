@@ -3,6 +3,7 @@ title: "Modelling of the flooding in the Okavango Delta, Botswana, using a hybri
 authors: "Wolski, P. et al."
 layout: resume
 categories: journal
+doctype: url
 source: '<i>Journal</i> of Hydrology, 331(1–2), 58–72'
 
 date: 2006-08-17

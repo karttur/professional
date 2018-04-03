@@ -3,6 +3,7 @@ title: "Modelling the Managua aquifer. 2: groundwater dynamics."
 authors: "Gumbricht, T., McCarthy; J and Hessling, M"
 layout: resume
 categories: conference
+doctype: none
 source: '<i>Proceedings ScanGIS´97</i> (pp 209-215)'
 
 date: 1997-07-01

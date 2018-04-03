@@ -3,6 +3,7 @@ title: "Remote sensing to detect sub-surface peat fires and peat fire scars in t
 authors: "Gumbricht, T. et al."
 layout: resume
 categories: journal
+doctype: url
 source: '<i>South African J of Science</i>, 98(7 & 8), 351–358'
 
 date: 2002-07-01

@@ -3,6 +3,7 @@ title: " Risk mapping of groundwater salinization using Geographical Information
 authors: "Lindberg, J., Olofsson, B., & Gumbricht, T."
 layout: resume
 categories: conference
+doctype: none
 source: '<i>14th Salt Water Intrusion Meeting</i> (SWIM-96) (pp. 188–197)'
 
 date: 1996-06-01

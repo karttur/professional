@@ -3,6 +3,7 @@ title: "Hydrological modelling and resource management in the Okavango Delta."
 authors: "Bauer, P., Gumbricht, T., & Kinzelbach, W. "
 layout: resume
 categories: refereechapter
+doctype: none
 source: '<i>Hydrology in Mediterranean and semiarid regions</i> (Vol. 60, pp. 130–137)'
 doiurl: '#'
 date: 2003-04-01

@@ -3,6 +3,7 @@ title: "Head and Senior Lecturer, Geoinformatics, Department of Earch Sciences, 
 authors: ""
 layout: resume
 categories: project
+doctype: none
 source:
 date: 1998-08-01
 enddate: 2000-03-30

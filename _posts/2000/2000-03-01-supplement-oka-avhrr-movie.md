@@ -3,6 +3,7 @@ title: "Portraying the geophysiology of the Okavango Delta, Botswana."
 authors: "Gumbricht, T."
 layout: resume
 categories: supplement
+doctype: movie
 source: 'AVHRR animations of the Okavango Delta, Botswana'
 doiurl: '#'
 projectid: okavango

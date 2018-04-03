@@ -3,6 +3,7 @@ title: "Channels, wetlands and islands in the Okavango Delta, Botswana, and thei
 authors: "Gumbricht, T., McCarthy, J., & McCarthy, T. "
 layout: resume
 categories: journal
+doctype: url
 source: '<i>Earth Surface Processes and Landforms</i>, 29(1), 15–29'
 
 date: 2004-01-20

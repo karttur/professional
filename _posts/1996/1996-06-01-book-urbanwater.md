@@ -3,6 +3,7 @@ title: "Urban green mosaic and sustainable water processes."
 authors: "Gumbricht, T., Högelin, A., & Renman, G."
 layout: resume
 categories: refereechapter
+doctype: none
 source: '<i>Water saving strategies in urban renewal</i> (pp. 129–141)'
 
 date: 1996-06-01

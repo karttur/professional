@@ -3,6 +3,7 @@ title: "Water flow dynamics in the Okavango River Basin and Delta – a prerequi
 authors: "Andersson, L. et al."
 layout: resume
 categories: journal
+doctype: url
 source: '<i>Physics and Chemistry of the Earth, Parts A/B/C</i>, 28(20–27), 1165–1172'
 
 date: 2003-09-01

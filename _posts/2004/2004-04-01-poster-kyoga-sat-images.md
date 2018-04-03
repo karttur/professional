@@ -3,6 +3,7 @@ title: "Interated management of Lake Kyoga natural resources."
 authors: "Gumbricht, T."
 layout: pubpage
 categories: poster
+doctype: image
 source: '<i>Department of Water Development</i>, 2004, Entebbe, Uganda'
 figure1: kyoga_images-poster_entebbe_20040401_quicklook
 doiurl: '#'

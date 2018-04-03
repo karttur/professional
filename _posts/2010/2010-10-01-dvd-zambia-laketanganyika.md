@@ -3,6 +3,7 @@ title: "Lake Tanganyika Basin training DVD - Zambia."
 authors: "Gumbricht, T."
 layout: pubpage
 categories: DVD
+doctype: none
 source: '<i>ICRAF</i>, October 2010, Nairobi, Kenya'
 pdf: Laketanganyika-zambia-dvd_LTRIMP_nairobi_20101001
 doiurl: '#'

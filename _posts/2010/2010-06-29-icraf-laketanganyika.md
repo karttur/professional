@@ -3,6 +3,7 @@ title: "Lake Tanganyika Basin Land cover change and degradation hotspots."
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: talk
+doctype: pdf
 source: '<i>ICRAF</i>, 29 June 2010, Nairobi, Kenya'
 pdf: Laketanganyika-hotspots_LTRIMP_nairobi_20100629.pdf
 doiurl: '#'

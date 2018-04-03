@@ -3,6 +3,7 @@ title: "Sahel Atlas of Changing Landscapes: Tracing trends and variations in veg
 authors: "UNEP (Vågen, T and Gumbricht, T)"
 layout: resume
 categories: atlas
+doctype: url
 source: 'UNEP, Nairobi'
 
 date: 2012-08-22

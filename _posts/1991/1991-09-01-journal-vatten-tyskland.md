@@ -3,6 +3,7 @@ title: "Water resources management in Germany – with examples from Niedersachs
 authors: "Gumbricht, T."
 layout: resume
 categories: journal
+doctype: none
 source: '<i>Vatten</i>, 47: 212-216'
 date: 1991-09-01
 projectid: kthinternational

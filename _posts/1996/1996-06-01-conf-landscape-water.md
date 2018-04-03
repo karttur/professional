@@ -4,6 +4,7 @@ authors: "Gumbricht, T."
 layout: pdfpage
 pdf: water-organ_WATSYMP_stockholm_19960613_tg.pdf
 categories: conference
+doctype: pdf
 source: '<i>Stockholm water symposium</i> 1996 (pp. 42–44)'
 doiurl: '#'
 date: 1996-06-01

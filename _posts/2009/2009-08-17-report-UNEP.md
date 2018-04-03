@@ -3,6 +3,7 @@ title: "Land Health Surveillance for Targeting Climate Change and Ecosystem Mana
 authors: "Gumbricht, T."
 layout: resume
 categories: report
+doctype: pdf
 source: 'World Agroforestry Center (ICRAF), Nairobi'
 date: 2009-08-17
 projectid: africaclimate

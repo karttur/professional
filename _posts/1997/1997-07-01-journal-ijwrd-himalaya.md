@@ -3,6 +3,7 @@ title: "GIS Integrated Modelling of a Himalayan Landscape."
 authors: "Gumbricht, T. et al."
 layout: resume
 categories: journal
+doctype: url
 source: '<i>Water Resources Development</i>, 13(1), 67–78'
 
 date: 1997-07-01

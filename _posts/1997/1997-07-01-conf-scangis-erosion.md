@@ -3,6 +3,7 @@ title: "Catchment-scale modelling of erosion and reservoir sedimentation."
 authors: "Stenström, P. and Gumbricht, T."
 layout: pdfpage
 categories: conference
+doctype: pdf
 source: '<i>Proceedings ScanGIS´97</i> (pp 216-228)'
 pdf: cyprus-erosion_SCANGIS_stockholm_19970602_tg-ps.pdf
 date: 1997-06-02

@@ -5,6 +5,7 @@ layout: pdfpage
 pdf: gis-chess_AGILE_helsinki_20000526_tg.pdf
 doiurl: '#'
 categories: conference
+doctype: pdf
 source: '<i>3rd AGILE conference on Geographic Information Science </i>(pp. 193–198)'
 date: 2000-05-26
 projectid:

@@ -3,6 +3,7 @@ title: "FFS traning DVD - Mwingi"
 authors: "Gumbricht, T."
 layout: pubpage
 categories: DVD
+doctype: pdf
 source: '<i>ICRAF</i>, 2007, Nairobi, Kenya'
 dvdurl: ffs-lda-DVD-mwingi_ICRAF_kenya_20071107_v1
 doiurl: '#'

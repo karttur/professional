@@ -5,6 +5,7 @@ layout: pdfpage
 pdf: africa-data_GIShare_bonn_20000901_tg.pdf
 doiurl: '#'
 categories: conference
+doctype: pdf
 source: '<i>14th International Symposium of Computer Science for Environmental Protection</i> (pp. 17–24)'
 
 date: 2000-09-01

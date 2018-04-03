@@ -3,6 +3,7 @@ title: "Hierarchical Processes and Patterns Sustaining the Okavango: An Integrat
 authors: "Gumbricht, T., & McCarthy, T."
 layout: resume
 categories: conference
+doctype: none
 source: '<i>Environmental Monitoring of Tropical and Subtropical Wetlands</i> (pp. 181–195)'
 
 date: 2002-05-01

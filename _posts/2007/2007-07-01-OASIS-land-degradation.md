@@ -3,6 +3,7 @@ title: "Understanding human-induced degradation of dryland agricultural and natu
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: talk
+doctype: pdf
 source: '<i>OASIS</i>, 2007, Montpeiller, France'
 pdf: land-degradation_OASIS_montpeiller_2007_tg.pdf
 doiurl: '#'

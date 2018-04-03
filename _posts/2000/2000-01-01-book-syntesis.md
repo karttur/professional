@@ -3,6 +3,7 @@ title: "Dynamic modelling and landsacpe patterns - a GIS synthesis."
 authors: "Gumbricht, T."
 layout: resume
 categories: refereechapter
+doctype: none
 source: '<i>Spatial Models and GIS: New and Potential Models</i> (pp. 245–257)'
 
 date: 2000-01-01

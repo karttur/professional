@@ -3,6 +3,7 @@ title: "Lesson 4 – Grid/raster data."
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: training
+doctype: pdf
 source: '<i>ICRAF</i>, October 2010, Nairobi, Kenya'
 pdf: Laketanganyika-gis-ex04_LTRIMP_nairobi_20101001.pdf
 doiurl: '#'
