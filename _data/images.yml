@@ -152,6 +152,14 @@ lakevic_ICRAF_entebbe_2003_tg:
         caption: "Lake Victoria, geoinformatics based maps and models for regional scale planning and management."
         credit: null
         source: "ICRAF, 2003, Entebbe, Uganda"
+
+oka-landcover-poster_wits_joburg_2000:
+  file: oka-landcover-poster_wits_joburg_2000_ql.jpg
+  author: Thomas Gumbricht et al.
+  caption: "Landcover of the Okavango Delta, Botswana."
+  credit: null
+  source: oka-landcover-poster_wits_joburg_2000_etal.jpg
+
 Rwenzori_glacier-poster_entebbe_20060601_quicklook:
   file: Rwenzori_glacier-poster_entebbe_20060601_quicklook.jpg
   author: Thomas Gumbricht

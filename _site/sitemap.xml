@@ -205,6 +205,10 @@
 <lastmod>2000-09-01T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/poster/poster-oka-landcover_2000_tg/</loc>
+<lastmod>2000-10-01T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/poster/poster-oka-fire_2000_tg/</loc>
 <lastmod>2000-12-01T00:00:00+01:00</lastmod>
 </url>
@@ -415,6 +419,10 @@
 <url>
 <loc>http://localhost:4000/journal/journal-wrr-oka-delta-model/</loc>
 <lastmod>2006-04-01T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/movie/movie-kyoga_tg/</loc>
+<lastmod>2006-06-01T00:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/movie/movie-FAO-rewenzori_tg/</loc>

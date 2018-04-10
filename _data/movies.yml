@@ -69,3 +69,12 @@ climb_FAO_rwenzori_200606_tg:
   source: null
   width: 718
   height: 528
+
+lakekyoga_TG_kyoga_200310_trg:
+    file: lakekyoga_TG_kyoga_200310_trg.mp4
+    author: Thomas Gumbricht
+    caption: Lake Kyoga papyrus plug
+    credit: null
+    source: null
+    width: 720
+    height: 576
