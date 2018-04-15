@@ -269,6 +269,10 @@
 <lastmod>2002-10-01T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/movie/movie-kyoga_tg/</loc>
+<lastmod>2002-11-10T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/journal/journal-ambio-oka-flooding/</loc>
 <lastmod>2003-01-01T00:00:00+01:00</lastmod>
 </url>
@@ -421,10 +425,6 @@
 <lastmod>2006-04-01T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/movie/movie-kyoga_tg/</loc>
-<lastmod>2006-06-01T00:00:00+02:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/movie/movie-FAO-rewenzori_tg/</loc>
 <lastmod>2006-06-01T00:00:00+02:00</lastmod>
 </url>
@@ -451,6 +451,10 @@
 <url>
 <loc>http://localhost:4000/pdf/talk-FAO-rewenzori-landcover_gs-tg/</loc>
 <lastmod>2006-06-17T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/image/image-mt-rwenzori/</loc>
+<lastmod>2006-06-20T00:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/training/training-FAO-rewenzori-glaciers_tg/</loc>
@@ -819,6 +823,10 @@
 <url>
 <loc>http://localhost:4000/talk/NASA-wetlandmapping/</loc>
 <lastmod>2017-11-08T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/journal/journal-rs-soil-moisture/</loc>
+<lastmod>2018-04-15T00:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/okavango/</loc>

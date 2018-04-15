@@ -2,6 +2,14 @@
 
   
     {
+      "title"			: "Detecting Trends in Wetland Extent from MODIS Derived Soil Moisture Estimates.",
+      "link"			: "http://localhost:4000/journal/journal-rs-soil-moisture/",
+      "excerpt"		: "Gumbricht, T. (2018), Detecting Trends in Wetland Extent from MODIS Derived Soil Moisture Estimates."
+    }
+  
+
+  
+    ,{
       "title"			: "Optical remote sensing of wetlands and lakes, hybrid approaches",
       "link"			: "http://localhost:4000/talk/NASA-wetlandmapping/",
       "excerpt"		: ""
@@ -738,6 +746,14 @@
 
   
     ,{
+      "title"			: "Mount Rwenzori centennial climb",
+      "link"			: "http://localhost:4000/image/image-mt-rwenzori/",
+      "excerpt"		: "In June 2006 I participated in the Centenary Celebrations of the Rwenzori climbing by the scientific expedition led by Luigi Amedeo of Savoy, Duke of Abruzzi in 1906. You can find my studies on the glacier retreat in a post on my professional pages."
+    }
+  
+
+  
+    ,{
       "title"			: "Landcover changes in the Rwenzori Mountains: the glaciers retreat",
       "link"			: "http://localhost:4000/pdf/talk-FAO-rewenzori-landcover_gs-tg/",
       "excerpt"		: ""
@@ -789,14 +805,6 @@
       "title"			: "Rwenzori Mountains Uganda - commemorate centennial climb",
       "link"			: "http://localhost:4000/movie/movie-FAO-rewenzori_tg/",
       "excerpt"		: " Rwenzori Mountains Uganda - commemorate centennial climb "
-    }
-  
-
-  
-    ,{
-      "title"			: "Lake Kyoga papyrus plug",
-      "link"			: "http://localhost:4000/movie/movie-kyoga_tg/",
-      "excerpt"		: " Lake Kyoga papyrus plug "
     }
   
 
@@ -1101,6 +1109,14 @@
       "title"			: "Flooding Patterns of the Okavango Wetland in Botswana between 1972 and 2000.",
       "link"			: "http://localhost:4000/journal/journal-ambio-oka-flooding/",
       "excerpt"		: "McCarthy, J. M., Gumbricht, T., McCarthy, T., Frost, P., Wessels, K., &amp; Seidel, F. (2003). Flooding Patterns of the Okavango Wetland in Botswana between 1972 and 2000. AMBIO: A Journal of the Human Environment, 32(7), 453–457."
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Kyoga papyrus plug",
+      "link"			: "http://localhost:4000/movie/movie-kyoga_tg/",
+      "excerpt"		: " Lake Kyoga papyrus plug "
     }
   
 
