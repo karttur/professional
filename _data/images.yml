@@ -649,7 +649,7 @@ oka-geophys_SAFARI2000_siavonga_2000:
     author: Gumbricht, T
     caption: Rwenzori climb.
     credit: null
-    source: 0009_rwe_pano_20060613.jpg
+    source: 0009_rwe_pano_20060613_m.jpg
 0014_rwe_kichuchu-climb_20060614:
     file: 0014_rwe_kichuchu-climb_20060614_ql.jpg
     author: Gumbricht, T
@@ -680,18 +680,18 @@ oka-geophys_SAFARI2000_siavonga_2000:
     caption: Rwenzori climb.
     credit: null
     source: 0026_rwe-climb_wp023_20060614.jpg
-0023-wp023_rwe-climb_pan100_20060614:
-    file: 0023-wp023_rwe-climb_pan100_20060614_ql.jpg
+0023_wp023_rwe-climb_pan100_20060614:
+    file: 0023_wp023_rwe-climb_pan100_20060614_ql.jpg
     author: Gumbricht, T
     caption: Rwenzori climb.
     credit: null
-    source: 0023-wp023_rwe-climb_pan100_20060614.jpg
+    source: 0023_wp023_rwe-climb_pan100_20060614_m.jpg
 1002_rwe_pano_20060614:
     file: 1002_rwe_pano_20060614_ql.jpg
     author: Gumbricht, T
     caption: Rwenzori climb.
     credit: null
-    source: 1002_rwe_pano_20060614.jpg
+    source: 1002_rwe_pano_20060614_m.jpg
 0035_rwe-climb_wp026_20060614:
     file: 0035_rwe-climb_wp026_20060614_ql.jpg
     author: Gumbricht, T
@@ -709,13 +709,13 @@ oka-geophys_SAFARI2000_siavonga_2000:
     author: Gumbricht, T
     caption: Rwenzori climb.
     credit: null
-    source: 0038-wp028_rwe-climb_pan100_20060616.jpg
+    source: 0038-wp028_rwe-climb_pan100_20060616_m.jpg
 0019_rwe_pano_20060613:
     file: 0019_rwe_pano_20060613_ql.jpg
     author: Gumbricht, T
     caption: Rwenzori climb.
     credit: null
-    source: 0019_rwe_pano_20060613.jpg
+    source: 0019_rwe_pano_20060613_m.jpg
 1016_rwe_bujongolo_2006006:
     file: 1016_rwe_bujongolo_2006006_ql.jpg
     author: Gumbricht, T
@@ -763,13 +763,13 @@ oka-geophys_SAFARI2000_siavonga_2000:
     author: Gumbricht, T
     caption: Rwenzori climb.
     credit: null
-    source: 0065-wp046_rwe-climb_pan100_20060616.jpg
+    source: 0065-wp046_rwe-climb_pan100_20060616_m.jpg
 1028_rwe_pano_20060615:
     file: 1028_rwe_pano_20060615_ql.jpg
     author: Gumbricht, T
     caption: Rwenzori climb.
     credit: null
-    source: 1028_rwe_pano_20060615.jpg
+    source: 1028_rwe_pano_20060615_m.jpg
 0085_rwe-climb_wp049-051_20060616:
     file: 0085_rwe-climb_wp049-051_20060616_ql.jpg
     author: Gumbricht, T
@@ -841,13 +841,13 @@ oka-geophys_SAFARI2000_siavonga_2000:
     author: Gumbricht, T
     caption: Rwenzori climb.
     credit: null
-    source: 0059-wp059_rwe-climb_pan100_20060616.jpg
+    source: 0059-wp059_rwe-climb_pan100_20060616_m.jpg
 2036_rwe_pano_20060617:
     file: 2036_rwe_pano_20060617_ql.jpg
     author: Gumbricht, T
     caption: Rwenzori climb.
     credit: null
-    source: 2036_rwe_pano_20060617.jpg
+    source: 2036_rwe_pano_20060617_m.jpg
 2037_rwe_elena-glacier_2006006:
     file: 2037_rwe_elena-glacier_2006006_ql.jpg
     author: Gumbricht, T
@@ -865,7 +865,7 @@ oka-geophys_SAFARI2000_siavonga_2000:
     author: Gumbricht, T
     caption: Rwenzori climb.
     credit: null
-    source: 3005_rwe_pano_200606.jpg
+    source: 3005_rwe_pano_200606_m.jpg
 3013_rwe_melt-stream_200606:
     file: 3013_rwe_melt-stream_200606_ql.jpg
     author: Gumbricht, T
