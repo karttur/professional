@@ -6,7 +6,7 @@ categories: pdf
 doctype: none
 source: '<i>ICRAF</i>, August 2006, Kampala, Uganda'
 pdf: Rwenzori_landcover_nairobi_20060801_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2006-08-01
 projectid: rwenzori
 project: "Rwenzori Mountains Uganda - commemorate centennial climb"

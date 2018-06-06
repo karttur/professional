@@ -6,7 +6,7 @@ categories: trainingproj
 doctype: pdf
 source: '<i>Uppsala University</i>, 1999, Uppsala, Sweden'
 pdf: managua-aquifer-proj_uu_ni_1999_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 1999-02-02
 projectid:
 pattern:

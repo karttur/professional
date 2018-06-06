@@ -5,7 +5,7 @@ excerpt: "An archive of articles sorted by publication type and date."
 search_omit: true
 share: true
 ---
-Click on source icon to get online pdf versions (articles with no icon are not available online), or click the title to see abstract.
+Click on source (or icon) to get online pdf versions (articles with no icon are not available online), or click the title to see the complete reference and abstract.
 
 ### Journal articles
 

@@ -7,7 +7,7 @@ doctype: pdf
 source: '<i>ICRAF</i>, May 2002, Nairobi, Kenya'
 figure: oka_ICRAF_nairobi_200205_tg
 pdf: oka_ICRAF_nairobi_200205_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2002-05-01
 projectid: okavango
 project: Okavango

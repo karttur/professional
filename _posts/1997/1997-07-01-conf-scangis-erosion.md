@@ -9,7 +9,7 @@ pdf: cyprus-erosion_SCANGIS_stockholm_19970602_tg-ps.pdf
 date: 1997-06-02
 projectid: kthinternational
 location: Cyprus
-doiurl: '#'
+pageurl: '#'
 pattern:
 process:
 pages:

@@ -3,9 +3,9 @@
 <article>
 <span style="font-size: 80%; display: block;">
   {{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-{% if post.doiurl %}
-  {% if post.doiurl contains 'http' %}
-    <a href="{{ post.doiurl }}">
+{% if post.pageurl %}
+  {% if post.pageurl contains 'http' %}
+    <a href="{{ post.pageurl }}">
   {% else %}
     <a href="{{ site.url }}{{ post.url }}">
   {% endif %}

@@ -6,7 +6,7 @@ categories: training
 doctype: pdf
 source: '<i>ICRAF</i>, October 2010, Nairobi, Kenya'
 pdf: Laketanganyika-gis-ex08_LTRIMP_nairobi_20101001.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2010-10-01
 projectid: tanganyika
 project: "Lake Tanganyika Regional Integrated Management Project"

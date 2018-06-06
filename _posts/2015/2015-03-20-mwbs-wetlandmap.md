@@ -6,7 +6,7 @@ categories: poster
 doctype: image
 source: '<i>Mapping Water Bodies from Space conference</i> 18-19 March 2015, Rome, Italy'
 figure1: mapwetland-poster_MWBS_rome_20150320
-doiurl: MWBS_2015
+pageurl: MWBS_2015
 date: 2015-03-20
 projectid: swamp
 project: "Mapping and monitoring of global wetlands and peatlands"

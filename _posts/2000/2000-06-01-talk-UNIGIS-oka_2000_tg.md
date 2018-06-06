@@ -7,7 +7,7 @@ doctype: pdf
 source: '<i>UNIGIS</i>, 2000, Johannesburg, South Africa'
 figure: oka_UNIGIS_joburg_2000_tg
 pdf: oka_UNIGIS_joburg_2000_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2000-06-01
 projectid: okavango
 project: Okavango

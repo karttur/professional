@@ -6,7 +6,7 @@ categories: poster
 doctype: image
 source: '<i>FAO</i>, June 2006, Entebbe, Uganda'
 figure1: Rwenzori_glacier-poster_entebbe_20060601_quicklook
-doiurl: '#'
+pageurl: '#'
 date: 2006-06-01
 projectid: rwenzori
 project: "Rwenzori Mountains Uganda - commemorate centennial climb"

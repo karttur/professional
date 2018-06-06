@@ -6,7 +6,7 @@ categories: talk
 doctype: movie
 source: '<i>CIFOR</i>, September 2014, Bogor, Indonesia'
 movie1: wetlandmapping_CIFOR_20140906_bogor_tg
-doiurl: '#'
+pageurl: '#'
 date: 2014-09-15
 projectid: swamp
 project: "Mapping and monitoring of global wetlands and peatlands"

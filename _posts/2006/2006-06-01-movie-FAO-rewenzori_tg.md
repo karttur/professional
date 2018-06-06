@@ -6,7 +6,7 @@ categories: movie
 doctype: movie
 source: '<i>FAO</i>, June 2006, Rwenzori, Uganda'
 movie1: climb_FAO_rwenzori_200606_tg
-doiurl: '#'
+pageurl: '#'
 date: 2006-06-01
 projectid: rwenzori
 project: "Rwenzori Mountains Uganda - commemorate centennial climb"

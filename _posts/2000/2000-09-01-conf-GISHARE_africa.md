@@ -3,7 +3,7 @@ title: "Spatial data and applications for environmental studies in Africa."
 authors: "Gumbricht, T."
 layout: pdfpage
 pdf: africa-data_GIShare_bonn_20000901_tg.pdf
-doiurl: '#'
+pageurl: '#'
 categories: conference
 doctype: pdf
 source: '<i>14th International Symposium of Computer Science for Environmental Protection</i> (pp. 17–24)'

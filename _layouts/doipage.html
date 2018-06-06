@@ -1,0 +1,72 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include head.html %}
+</head>
+
+<body id="page">
+
+{% include navigation.html %}
+
+<div id="main" role="main">
+  <article class="entry">
+
+    <div class="entry-wrapper">
+
+      <div class="entry-content">
+        <h5>
+          {% if page.project %} Project: <a href="../../{{ page.projectid }}/"> {{ page.project }}</a> <br> {% endif %}
+        </h5>
+        <h6>
+          <a href="{{ page.doiurl }}">
+            {% if page.authorsfull%}
+              {{ page.authorsfull }},
+            {% elsif page.authors%}
+              {{ page.authors }},
+          {% endif %}
+          <span style="font-weight: bold;"><time datetime="{{ page.date |  date_to_xmlschema }}">{{ page.date | date: "%Y" }}</time></span>.
+          {% if page.title %}{{ page.title }}{% endif %}
+          {% if page.source %}<i>{{ page.source }}</i>,{% endif %}
+          {% if page.number %}{{ page.number }}{% endif %}
+          {% if page.issue %} ({{ page.issue }}){% endif %}
+          ,
+          {% if page.pages %}{{ page.pages }}.{% endif %}
+
+          {% if page.access %}
+            {% if page.access == 'open' %}
+              <img src = "{{ site.commonurl }}/images/openaccess.png" style="width:30px;height:20px;border:0;"  alt='open'>
+            {% elsif page.access == 'researchgate' %}
+                <img src = "{{ site.commonurl }}/images/rgaccess.png" style="width:20px;height:20px;border:0;"  alt='researchgate'>
+            {% elsif page.access == 'pdfaccess' %}
+              <img src = "{{ site.commonurl }}/images/pdfaccess.png" style="width:48px;height:20px;border:0;" alt='karttur'>
+            {% elsif page.access == 'closed' %}
+              <img src = "{{ site.commonurl }}/images/closedaccess.png" style="width:30px;height:20px;border:0;" alt='closed'>
+            {% endif %}
+          {% endif %}
+          </a>
+        </h6>
+
+
+        {% if page.abstract %}
+          <span style="font-weight: bold;">Abstract</span><br>
+          {{ page.abstract }}
+        {% endif %}
+
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo" class="entry-wrapper">
+    {% include simplefooter.html %}
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+{% include scripts.html %}
+
+</body>
+</html>

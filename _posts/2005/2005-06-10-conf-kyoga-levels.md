@@ -7,7 +7,7 @@ doctype: url
 source: '<i>11th World Lakes Conference</i>, Nairobi (Vol 2, pp. 391-396)'
 date: 2005-06-10
 projectid: kyoga
-doiurl: '#'
+pageurl: '#'
 project: Integrated management of Lake Kyoga natural resources
 pattern:
 process:

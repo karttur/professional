@@ -8,7 +8,7 @@ doctype: pdf
 source: '<i>ASARECA</i>, 2003, Entebbe, Uganda'
 figure: agroecology_ASARECA_entebbe_200305_tg
 pdf: agroecology_ASARECA_entebbe_200305_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2003-07-01
 projectid:
 pattern:

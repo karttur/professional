@@ -6,7 +6,7 @@ categories: talk
 doctype: pdf
 source: '<i>OASIS</i>, 2007, Montpeiller, France'
 pdf: land-degradation_OASIS_montpeiller_2007_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2007-06-01
 projectid: proposal
 pattern:

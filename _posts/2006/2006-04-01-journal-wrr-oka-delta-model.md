@@ -1,20 +1,20 @@
 ---
 title: "A regional coupled surface water/groundwater model of the Okavango Delta, Botswana"
 authors: "Bauer, P., Gumbricht, T., & Kinzelbach, W."
-layout: resume
+layout: doipage
 categories: journal
-doctype: nurl
-source: '<i>Water Resources Research</i>, 42(4), 1–15'
-doiurl: '#'
+doctype: doi
+source: Water Resources Research
+pageurl: '#'
 date: 2006-04-01
-doiurl: 'http://doi.org/10.1029/2005WR004234'
+pageurl: 'http://doi.org/10.1029/2005WR004234'
 projectid: okavango
 project: Okavango
 pattern:
 process:
-pages:
-number:
-issue:
+pages: 1-15
+number: 42
+issue: 4
 editor:
 access: 'closed'
 ---

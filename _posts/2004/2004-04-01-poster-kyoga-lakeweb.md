@@ -6,7 +6,7 @@ categories: poster
 doctype: image
 source: '<i>Department of Water Development</i>, 2004, Entebbe, Uganda'
 figure1: kyoga_lakeweb-poster_entebbe_20040401_quicklook
-doiurl: '#'
+pageurl: '#'
 date: 2004-04-01
 projectid: kyoga
 project: Integrated management of Lake Kyoga natural resources

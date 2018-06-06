@@ -6,7 +6,7 @@ categories: pdf
 doctype: none
 source: '<i>FAO</i>, June 2006, Kampala, Uganda'
 pdf: Rwenzori_landcover_kampala_20060617_gs-tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2006-06-17
 projectid: rwenzori
 project: "Rwenzori Mountains Uganda - commemorate centennial climb"

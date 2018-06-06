@@ -7,7 +7,7 @@ doctype: none
 source:
 figure: oka_ICRAF_nairobi_200205_tg
 pdf: oka_ICRAF_nairobi_200205_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2002-09-01
 enddate: 2004-01-31
 projectid: entebbe

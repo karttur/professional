@@ -6,7 +6,7 @@ categories: supplement
 doctype: url
 source: 'The creation of the Okavango Delta topographic map.'
 date: 2001-09-01
-doiurl: '#'
+pageurl: '#'
 projectid: okavango
 project: Okavango
 pattern:

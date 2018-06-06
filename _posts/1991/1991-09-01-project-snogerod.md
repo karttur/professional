@@ -19,5 +19,4 @@ projurl: ../snogerod/
 tag:
   - wetland
   - wastewater treatment
-
 ---

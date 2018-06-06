@@ -6,7 +6,7 @@ categories: talk
 doctype: pdf
 source: '<i>CIFOR</i>, March 2014, Bogor, Indonesia'
 pdf: wetlandmapping_CIFOR_bogor_20120404_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2012-04-04
 projectid: swamp
 project: "Mapping and monitoring of global wetlands and peatlands"

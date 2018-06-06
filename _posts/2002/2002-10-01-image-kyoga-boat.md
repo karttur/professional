@@ -43,7 +43,7 @@ figure5A: 209_Kyoga_boat-survey_2002
 figure5B: 205_Kyoga_boat-survey_2002
 figure5C: 136_Kyoga_boat-survey_2002
 
-doiurl: '#'
+pageurl: '#'
 date: 2002-10-01
 projectid: kyoga
 project:

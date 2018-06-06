@@ -6,9 +6,8 @@ layout: pdfpage
 categories: talk
 doctype: pdf
 source: '<i>GSOC17</i>, March 2017, Rome, Italy'
-figure: wetlandmapping_GSOC17_rome_20170323_tg-etal
 pdf: wetlandmapping_GSOC17_rome_20170323_tg-etal.pdf
-doiurl: wetlandmapping_GSOC17_rome_20170323_tg-etal.pdf
+pageurl: wetlandmapping_GSOC17_rome_20170323_tg-etal.pdf
 date: 2017-03-23
 projectid: swamp
 project: "Mapping and monitoring of global wetlands and peatlands"

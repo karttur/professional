@@ -3,7 +3,7 @@ title: "Modeling with GIS: A Game of Chess."
 authors: "Gumbricht, T."
 layout: pdfpage
 pdf: gis-chess_AGILE_helsinki_20000526_tg.pdf
-doiurl: '#'
+pageurl: '#'
 categories: conference
 doctype: pdf
 source: '<i>3rd AGILE conference on Geographic Information Science </i>(pp. 193–198)'

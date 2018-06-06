@@ -6,7 +6,7 @@ categories: DVD
 doctype: none
 source: '<i>ICRAF</i>, 2007, Nairobi, Kenya'
 dvdurl: sahel-DVD_ICRAF_kenya_20071007_v1
-doiurl: '#'
+pageurl: '#'
 date: 2007-10-07
 projectid: sahel
 project: "West African Drylands"

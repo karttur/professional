@@ -5,7 +5,7 @@ layout: resume
 categories: supplement
 doctype: movie
 source: 'AVHRR animations of the Okavango Delta, Botswana'
-doiurl: '#'
+pageurl: '#'
 projectid: okavango
 project: Okavango
 pattern:

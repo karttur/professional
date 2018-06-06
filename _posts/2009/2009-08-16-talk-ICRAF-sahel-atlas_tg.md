@@ -6,7 +6,7 @@ categories: talk
 doctype: pdf
 source: '<i>ICRAF</i>, August 2009, Nairobi, Kenya'
 movie1: sahel_atlas_icraf_2009_tg
-doiurl: '#'
+pageurl: '#'
 date: 2009-08-16
 projectid: sahel
 project: "West African Drylands"

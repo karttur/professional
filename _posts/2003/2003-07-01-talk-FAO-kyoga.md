@@ -6,7 +6,7 @@ categories: talk
 doctype: pdf
 source: '<i>FAO</i>, 2003, Rome, Italy'
 pdf: kyoga_FAO_rome_2003_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2003-07-01
 projectid: kyoga
 project: Integrated management of Lake Kyoga natural resources

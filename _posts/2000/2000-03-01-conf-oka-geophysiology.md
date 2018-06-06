@@ -3,7 +3,7 @@ title: "Portraying the geophysiology of the Okavango Delta, Botswana."
 authors: "Gumbricht, T., Mccarthy, J., & Mccarthy, T."
 layout: pdfpage
 pdf: oka_RSENV-CD_capetown_2000_tg-etal.pdf
-doiurl: '#'
+pageurl: '#'
 categories: conference
 doctype: pdf
 source: '<i>12th International Symposium on Remote Sensing of the Environment</i> (CD publication)'

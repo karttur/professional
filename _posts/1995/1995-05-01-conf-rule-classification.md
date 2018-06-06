@@ -3,23 +3,16 @@ title: "Rule based and contextual classification of landscape patches and bounda
 authors: "Gumbricht, T., Mahlander, C., & McCarthy, J."
 layout: resume
 categories: conference
-doctype: none
-source: '<i>ScanGIS</i> (pp. 245 – 255)'
-
+source: "ScanGIS 1995 Proceedings"
 date: 1996-01-01
 projectid: kthinternational
 project: "Cyprus cooperation"
 location: Cyprus
-
 pattern:
 process:
 pages:
 number:
 issue:
-editor:
-access: 'pdfaccess'
+editor:  J. T. Björke
+access:
 ---
-
-Gumbricht, T., Mahlander, C., & McCarthy, J. M. (1995). Rule based and contextual classification of landscape patches and boundaries. In J. T. Björke (Ed.), ScanGIS  ́95 Proceedings (pp. 245 – 255). Trondheim.
-
-<h1 class='foot-description'>Abstract</h1>

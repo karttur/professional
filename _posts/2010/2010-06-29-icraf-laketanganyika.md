@@ -6,7 +6,7 @@ categories: talk
 doctype: pdf
 source: '<i>ICRAF</i>, 29 June 2010, Nairobi, Kenya'
 pdf: Laketanganyika-hotspots_LTRIMP_nairobi_20100629.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2010-06-29
 projectid: tanganyika
 project: "Lake Tanganyika Regional Integrated Management Project"

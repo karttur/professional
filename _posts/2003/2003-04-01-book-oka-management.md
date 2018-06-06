@@ -5,7 +5,7 @@ layout: resume
 categories: refereechapter
 doctype: none
 source: '<i>Hydrology in Mediterranean and semiarid regions</i> (Vol. 60, pp. 130–137)'
-doiurl: '#'
+pageurl: '#'
 date: 2003-04-01
 projectid: okavango
 project: Okavango

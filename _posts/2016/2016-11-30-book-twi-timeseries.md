@@ -3,20 +3,20 @@ title: "Soil Moisture Dynamics Estimated from MODIS Time Series Images."
 layout: resume
 categories: refereechapter
 authors: "Gumbricht, T."
-layout: resume
+layout: doipage
 categories: refereechapter
-doctype: url
-source: '<i>Multitemporal Remote Sensing</i> (pp. 233–253)'
+doctype: doi
+source: 'Multitemporal Remote Sensing'
 date: 2016-11-30
-doiurl: 'https://doi.org/10.1007/978-3-319-47037-5_12'
+pageurl: 'https://doi.org/10.1007/978-3-319-47037-5_12'
 projectid: swamp
 project: "Mapping and monitoring of global wetlands and peatlands"
 pattern:
 process:
-pages:
+pages: 233–253
 number:
 issue:
-editor:
+editor: Ban, Y.
 place:
 access: 'closed'
 okavango: true

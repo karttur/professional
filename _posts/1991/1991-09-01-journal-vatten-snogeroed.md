@@ -1,24 +1,19 @@
 ---
 title: "Reduction of nutrients by water plants. Final report, the Snogeroed project"
-authors: "Gumbricht, T."
-layout: resume
+authors: "Gumbricht, T. et al."
+authorsfull: "Hörberg, I., L. Kylefors och T. Gumbricht"
+layout: doipage
 categories: journal
-doctype: none
-source: '<i>Vatten</i>, 47: 310-314'
+source: Vatten
 date: 1991-09-01
-doiurl:
-citation:
+pageurl:
 projectid: snogerod
 project: "Constructed wetlands for waste water treatment"
 pattern: wetland
 process: wastewater treatment
-pages:
-number:
+pages: 310-314
+number: 47
 issue:
 editor:
 access: 'closed'
 ---
-
-Hörberg, I., L. Kylefors och T. Gumbricht, (1991). Närsaltrening med vattenväxter - slutrapport från Snogerödsprojektet. Vatten, 47: 310-314. (Reduction of nutrients by water plants – final report the Snogeröd project – with English summary).
-
-<h1 class='foot-description'>Abstract</h1>

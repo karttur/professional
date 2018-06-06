@@ -1,26 +1,21 @@
 ---
 title: "Knowledge based classification of landscape objects combining satellite and ancillary data."
 authors: "Chmiel, J., & Gumbricht, T."
-layout: resume
+layout: doipage
 categories: refereechapter
 doctype: url
-source: '<i>International Archives of Photogrammetry and Remote Sensing</i>, 31(B4), 183–187'
-
+source: International Archives of Photogrammetry and Remote Sensing
 date: 1996-06-01
-doiurl: 'http://www.isprs.org/proceedings/xxxi/congress/part4/183_XXXI-part4.pdf'
+pageurl: 'http://www.isprs.org/proceedings/xxxi/congress/part4/183_XXXI-part4.pdf'
 projectid: kthinternational
 project: "Mazurian Lake"
 location: Poland
 pattern:
 process:
-pages:
-number:
-issue:
+pages: 183–187
+number: 31
+issue: 84
 editor:
 access: 'open'
 phdinclude: true
 ---
-
-[Chmiel, J., & Gumbricht, T. (1996). Knowledge based classification of landscape objects combining satellite and ancillary data. International Archives of Photogrammetry and Remote Sensing, 31(B4), 183–187. Retrieved from](http://www.isprs.org/proceedings/xxxi/congress/part4/183_XXXI-part4.pdf)
-
-<h1 class='foot-description'>Abstract</h1>

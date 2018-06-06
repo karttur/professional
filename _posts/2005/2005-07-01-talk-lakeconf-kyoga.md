@@ -6,7 +6,7 @@ categories: talk
 doctype: url
 source: '<i>11th World Lakes Conference</i>, 2005, Nairobi, Kenya'
 pdf: kyoga_lakeconf_nairobi_2005_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2005-06-01
 projectid: kyoga
 project: Integrated management of Lake Kyoga natural resources

@@ -6,7 +6,7 @@ categories: report
 doctype: pdf
 source: 'Royal Institute of Technology (KTH), Stockholm'
 pdf: thesis_KTH_stockholm_19961216_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 1996-06-01
 projectid: phd
 project: "The water organized landscape"

@@ -3,7 +3,7 @@ title: "Hydroclimatic processes and spatiotemporal landscape patterns."
 authors: "Gumbricht, T."
 layout: pdfpage
 pdf: hydro-climate_NHK_akureyri_19960601_tg.pdf
-doiurl: '#'
+pageurl: '#'
 categories: conference
 doctype: pdf
 source: '<i>Nordic Hydrological Conference</i> (Vol. 40, pp. 360–368)'

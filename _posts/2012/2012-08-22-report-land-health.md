@@ -7,7 +7,7 @@ doctype: none
 source: 'UNEP, Nairobi'
 
 date: 2012-08-22
-doiurl: 'http://www.unep.org/dewa/Portals/67/pdf/LHS_Report_lowres.pdf'
+pageurl: 'http://www.unep.org/dewa/Portals/67/pdf/LHS_Report_lowres.pdf'
 projectid: sahel
 project: "West African Drylands"
 pattern:

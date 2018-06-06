@@ -7,7 +7,7 @@ projectid: sahel
 doctype: pdf
 source: '<i>ICRAF</i>, 2006, Nairobi, Kenya'
 pdf: rs-veg-3-sahelchange_ICRAF_nairobi_2006_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2006-02-03
 pattern:
 process:

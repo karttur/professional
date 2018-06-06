@@ -6,7 +6,7 @@ categories: talk
 doctype: pdf
 source: '<i>COP23</i>, 6-17 November 2017, Bonn, Germany'
 figure: oka-peat-monitor_COP23_bonn_201711_RMRC-TG
-doiurl: oka-peat-monitor_COP23_bonn_201711_RMRC-TG.pdf
+pageurl: oka-peat-monitor_COP23_bonn_201711_RMRC-TG.pdf
 pdf: oka-peat-monitor_COP23_bonn_201711_RMRC-TG.pdf
 date: 2017-05-09
 projectid: swamp

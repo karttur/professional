@@ -7,7 +7,7 @@ doctype: url
 source: '<i>IAS</i>, 2002, Johannesburg, South Africa'
 figure: oka-islands_IAS_joburg_2000_tg-tm
 pdf: oka-islands_IAS_joburg_2000_tg-tm.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2002-06-01
 projectid: okavango
 project: Okavango

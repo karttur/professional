@@ -8,7 +8,7 @@ doctype: pdf
 source: '<i>ICRAF</i>, 2006, Nairobi, Kenya'
 figure: rs-veg-4-pca_ICRAF_nairobi_2006_tg
 pdf: rs-veg-4-pca_ICRAF_nairobi_2006_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2006-02-04
 pattern:
 process:

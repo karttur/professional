@@ -7,7 +7,7 @@ doctype: pdf
 source: '<i>WERRD mid term meeting</i> Windhoek, Namibia'
 figure: oka_WERRD_windhoek_20030826_tg
 pdf: oka_WERRD_windhoek_20030826_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2003-08-28
 projectid: okavango
 project: Okavango

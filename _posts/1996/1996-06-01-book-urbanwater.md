@@ -4,21 +4,17 @@ authors: "Gumbricht, T., Högelin, A., & Renman, G."
 layout: resume
 categories: refereechapter
 doctype: none
-source: '<i>Water saving strategies in urban renewal</i> (pp. 129–141)'
-
+source: "Water saving strategies in urban renewal"
 date: 1996-06-01
 projectid: phd
 project: "The water organized landscape"
 location:
 pattern:
 process:
-pages:
+pages: 129–141
 number:
 issue:
-editor:
-
+city: "Berlin"
+verlag: "Dietrich Reimer Verlag"
+editor: J. Mellitzer, U. Schubert, & S. Sedlacek
 ---
-
-Gumbricht, T., Högelin, A., & Renman, G. (1996). Urban green mosaic and sustainable water processes. In J. Mellitzer, U. Schubert, & S. Sedlacek (Eds.), Water saving strategies in urban renewal (pp. 129–141). Berlin: Dietrich Reimer Verlag.
-
-<h1 class='foot-description'>Abstract</h1>

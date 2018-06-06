@@ -1,18 +1,17 @@
 ---
 title: "Water resources management in Germany – with examples from Niedersachsen."
 authors: "Gumbricht, T."
-layout: resume
+layout: doipage
 categories: journal
-doctype: none
-source: '<i>Vatten</i>, 47: 212-216'
+source: Vatten
 date: 1991-09-01
 projectid: kthinternational
 project:
 location: Germany
 pattern: water
 process: "water resource management"
-pages:
-number:
+pages: 212-216
+number: 47
 issue:
 editor:
 access: 'closed'

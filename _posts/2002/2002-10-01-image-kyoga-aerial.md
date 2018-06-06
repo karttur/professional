@@ -35,7 +35,7 @@ figure5A: 229_Kyoga_flight_2002
 figure5B: 230_Kyoga_flight_2002
 figure5C: 231_Kyoga_flight_2002
 
-doiurl: '#'
+pageurl: '#'
 date: 2002-10-01
 projectid: kyoga
 project:

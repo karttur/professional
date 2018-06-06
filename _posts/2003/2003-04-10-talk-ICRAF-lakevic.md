@@ -7,7 +7,7 @@ doctype: pdf
 source: '<i>ICRAF</i>, Entebbe, 2005'
 figure: lakevic_ICRAF_entebbe_2003_tg
 pdf: lakevic_ICRAF_entebbe_2003_tg.pdf
-doiurl: '#'
+pageurl: '#'
 date: 2003-04-10
 projectid:
 pattern:

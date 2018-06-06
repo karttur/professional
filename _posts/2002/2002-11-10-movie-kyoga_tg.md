@@ -6,7 +6,7 @@ categories: movie
 doctype: movie
 source: '<i>T. Gumbricht</i>, November 2002, Lake Kyoga, Uganda'
 movie1: lakekyoga_TG_kyoga_200310_trg
-doiurl: '#'
+pageurl: '#'
 date: 2002-11-10
 projectid: kyoga
 project: "Lake Kyoga"
