@@ -786,22 +786,239 @@ oka-geophys_SAFARI2000_siavonga_2000:
   source: 0083_rwe-climb_wp047_20060616.jpg
 
 0065-wp046_rwe-climb_pan100_20060616:
-  file: 0065-wp046_rwe-climb_pan100_20060616.jpg
+  file: 0065-wp046_rwe-climb_pan100_20060616_ql.jpg
   author: Gumbricht, T.
   caption: "Rwenzori climb."
   credit: null
   source: 0065-wp046_rwe-climb_pan100_20060616.jpg
 
 1028_rwe_pano_20060615:
-  file: 1028_rwe_pano_20060615.jpg
+  file: 1028_rwe_pano_20060615_ql.jpg
   author: Gumbricht, T.
   caption: "Rwenzori climb."
   credit: null
   source: 1028_rwe_pano_20060615.jpg
 
 0085_rwe-climb_wp049-051_20060616:
-  file: 0085_rwe-climb_wp049-051_20060616.jpg
+  file: 0085_rwe-climb_wp049-051_20060616_ql.jpg
   author: Gumbricht, T.
   caption: "Rwenzori climb."
   credit: null
   source: 0085_rwe-climb_wp049-051_20060616.jpg
+
+0086_rwe-climb_wp052_20060616:
+  file: 0086_rwe-climb_wp052_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 0086_rwe-climb_wp052_20060616.jpg
+
+1035_rwe_l-kitara_2006006:
+  file: 1035_rwe_l-kitara_2006006_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 1035_rwe_l-kitara_2006006.jpg
+
+0088_rwe-climb_wp053_20060616:
+  file: 0088_rwe-climb_wp053_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 0088_rwe-climb_wp053_20060616.jpg
+
+0089_rwe-climb_wp054_20060616:
+  file: 0089_rwe-climb_wp054_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 0089_rwe-climb_wp054_20060616.jpg
+
+2018_rwe_scott-elliot-p_200606:
+  file: 2018_rwe_scott-elliot-p_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 2018_rwe_scott-elliot-p_200606.jpg
+
+3001_rwe_mt-baker_200606:
+  file: 3001_rwe_mt-baker_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3001_rwe_mt-baker_200606.jpg
+
+0090_rwe-climb_wp055_20060616:
+  file: 0090_rwe-climb_wp055_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 0090_rwe-climb_wp055_20060616.jpg
+
+0091_rwe-climb_wp056_20060616:
+  file: 0091_rwe-climb_wp056_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 0091_rwe-climb_wp056_20060616.jpg
+
+0093_rwe-climb_wp058_20060616:
+  file: 0093_rwe-climb_wp058_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 0093_rwe-climb_wp058_20060616.jpg
+
+0059-wp059_rwe-climb_pan100_20060616:
+  file: 0059-wp059_rwe-climb_pan100_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 0059-wp059_rwe-climb_pan100_20060616.jpg
+
+2036_rwe_pano_20060617:
+  file: 2036_rwe_pano_20060617_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 2036_rwe_pano_20060617.jpg
+
+2037_rwe_elena-glacier_2006006:
+  file: 2037_rwe_elena-glacier_2006006_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 2037_rwe_elena-glacier_2006006.jpg
+
+3002_rwe_everlasting_200606:
+  file: 3002_rwe_everlasting_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3002_rwe_everlasting_200606.jpg
+
+3005_rwe_pano_200606:
+  file: 3005_rwe_pano_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3005_rwe_pano_200606.jpg
+
+3013_rwe_melt-stream_200606:
+  file: 3013_rwe_melt-stream_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3013_rwe_melt-stream_200606.jpg
+
+3014_rwe_glacier_200606:
+  file: 3014_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3014_rwe_glacier_200606.jpg
+
+3015_rwe_glacier_200606:
+  file: 3015_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 33015_rwe_glacier_200606.jpg
+
+3009_rwe_glacier_200606:
+  file: 3009_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3009_rwe_glacier_200606.jpg
+
+3012_rwe_glacier-lim_200606:
+  file: 3012_rwe_glacier-lim_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3012_rwe_glacier-lim_200606.jpg
+
+3016_rwe_glacier-lim_200606:
+  file: 3016_rwe_glacier-lim_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3016_rwe_glacier-lim_200606.jpg
+
+3006_rwe_glacier_200606:
+  file: 3006_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3006_rwe_glacier_200606.jpg
+
+3011_rwe_thomas-glacier_200606:
+  file: 3011_rwe_thomas-glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3011_rwe_thomas-glacier_200606.jpg
+
+3017_rwe_thomas-glacier_200606:
+  file: 3017_rwe_thomas-glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3017_rwe_thomas-glacier_200606.jpg
+
+3018_rwe_melt-sream_200606:
+  file: 3018_rwe_melt-sream_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3018_rwe_melt-sream_200606.jpg
+
+3019_rwe_cliffs_200606:
+  file: 3019_rwe_cliffs_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3019_rwe_cliffs_200606.jpg
+
+3021_rwe_glacier_200606:
+  file: 3021_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3021_rwe_glacier_200606.jpg
+
+3022_rwe_l-irene_200606:
+  file: 3022_rwe_l-irene_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3022_rwe_l-irene_200606.jpg
+
+3024_rwe_l-irene_200606:
+  file: 3024_rwe_l-irene_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3024_rwe_l-irene_200606.jpg
+
+3026_rwe_l-irene_200606:
+  file: 3026_rwe_l-irene_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3026_rwe_l-irene_200606.jpg
+
+3027_rwe_l-irene_200606:
+  file: 3027_rwe_l-irene_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3027_rwe_l-irene_200606.jpg
+
+3028_rwe_thomas_200606:
+  file: 3028_rwe_thomas_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Rwenzori climb."
+  credit: null
+  source: 3028_rwe_thomas_200606.jpg
