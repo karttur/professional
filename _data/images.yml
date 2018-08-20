@@ -680,12 +680,12 @@ oka-geophys_SAFARI2000_siavonga_2000:
     caption: Rwenzori climb.
     credit: null
     source: 0026_rwe-climb_wp023_20060614.jpg
-0023_wp023_rwe-climb_pan100_20060614:
-    file: 0023_wp023_rwe-climb_pan100_20060614_ql.jpg
+0023-wp023_rwe-climb_pan100_20060614:
+    file: 0023-wp023_rwe-climb_pan100_20060614_ql.jpg
     author: Gumbricht, T
     caption: Rwenzori climb.
     credit: null
-    source: 0023_wp023_rwe-climb_pan100_20060614_m.jpg
+    source: 0023-wp023_rwe-climb_pan100_20060614_m.jpg
 1002_rwe_pano_20060614:
     file: 1002_rwe_pano_20060614_ql.jpg
     author: Gumbricht, T
