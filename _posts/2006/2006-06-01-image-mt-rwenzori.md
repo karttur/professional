@@ -37,7 +37,7 @@ fig2B: 0019_rwe-climb_wp017_20060614
 fig2C: 0024_rwe-climb_wp021_20060614
 fig2D: 0025_rwe-climb_wp022_20060614
 fig2E: 0026_rwe-climb_wp023_20060614
-fig2F: 0023_wp023_rwe-climb_pan100_20060614
+fig2F: 0023-wp023_rwe-climb_pan100_20060614
 fig2G: 1002_rwe_pano_20060614
 fig2H: 0035_rwe-climb_wp026_20060614
 fig2I: 0040_rwe-climb_wp029_20060614
