@@ -1114,6 +1114,22 @@
 
   
     ,{
+      "title"			: "Remote sensing for detection of landscape form and function of the Okavango Delta Botswana.",
+      "link"			: "http://localhost:4000/phdthesis/phd-mccarthy/",
+      "excerpt"		: "McCarthy, J., 2002. Remote sensing for detection of landscape form and function of the Okavango Delta Botswana. TRITA-LWR. PHD 1000. Department of Land and Water Resources Engineering, KTH, PhD thesis."
+    }
+  
+
+  
+    ,{
+      "title"			: "Precipitation estimation from ground based data in arid climate.",
+      "link"			: "http://localhost:4000/mscthesis/msc-ragnarsson/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Lake Kyoga papyrus plug",
       "link"			: "http://localhost:4000/movie/movie-kyoga_tg/",
       "excerpt"		: " Lake Kyoga papyrus plug "
@@ -1205,6 +1221,14 @@
       "title"			: "Hierarchical Processes and Patterns Sustaining the Okavango: An Integrated Perspective for Policy and Management.",
       "link"			: "http://localhost:4000/conference/conf-oka-hieararchy/",
       "excerpt"		: "Gumbricht, T., &amp; McCarthy, T. S. (2002). Hierarchical Processes and Patterns Sustaining the Okavango: An Integrated Perspective for Policy and Management. In T. Bernard, K. Mosepele, &amp; L. Ramberg (Eds.), Environmental Monitoring of Tropical and Subtropical Wetlands (pp. 181–195). Maun, Botswana."
+    }
+  
+
+  
+    ,{
+      "title"			: "Remote sensing methods for measuring vegetation density for hydrological modelling approaches in the Okavango delta, Botswana.",
+      "link"			: "http://localhost:4000/mscthesis/msc-sohlman/",
+      "excerpt"		: ""
     }
   
 
@@ -1314,6 +1338,14 @@
 
   
     ,{
+      "title"			: "Coastal processes and dune formation Fårö, Gotland.",
+      "link"			: "http://localhost:4000/mscthesis/msc-nahringbauer/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Okavango post-doc studies (still continuing).",
       "link"			: "http://localhost:4000/project/project-okavango/",
       "excerpt"		: ""
@@ -1354,6 +1386,22 @@
 
   
     ,{
+      "title"			: "Relating form and function of the earth surface – geoinformatics for landscape studies.",
+      "link"			: "http://localhost:4000/licthesis/lic-mccarthy/",
+      "excerpt"		: "McCarthy, J., 1998. Relating form and function of the earth surface – geoinformatics for landscape studies. Royal Institute of Technology, Division of Land and Water Resources. TRITA-AMI, LIC 2031, Licentiate Thesis."
+    }
+  
+
+  
+    ,{
+      "title"			: "Parameterisation of a GIS-coupled hydrological model – A study of Cyprus catchments.",
+      "link"			: "http://localhost:4000/licthesis/lic-hessling/",
+      "excerpt"		: "Hessling, M., 1998. Parameterisation of a GIS-coupled hydrological model – A study of Cyprus catchments. Royal Institute of Technology, Department of Geodesy and Photogrammetry. TRITA-GEOFOTO 1998:22, Licentiate Thesis."
+    }
+  
+
+  
+    ,{
       "title"			: "Head and Senior Lecturer, Geoinformatics, Department of Earch Sciences, Uppsala University",
       "link"			: "http://localhost:4000/project/project-UU-geoinfo/",
       "excerpt"		: ""
@@ -1381,6 +1429,22 @@
       "title"			: "Integrated models of coastal patterns and processes.",
       "link"			: "http://localhost:4000/conference/conf-coastal/",
       "excerpt"		: "Stenström, P. and T. Gumbricht, 1998. Integrated models of coastal patterns and processes. In Kajander (Ed), Nordic Hydrological Conference, NHP-Report No. 44, pp. 41-46."
+    }
+  
+
+  
+    ,{
+      "title"			: "Landscape process and pattern analysis using GIS.",
+      "link"			: "http://localhost:4000/mscthesis/msc-teklemariam/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "GIS for catchment-scale modelling of erosion and reservoir sedimentation - a case study in Cyprus.",
+      "link"			: "http://localhost:4000/mscthesis/msc-stenstroem/",
+      "excerpt"		: ""
     }
   
 
@@ -1436,6 +1500,14 @@
     ,{
       "title"			: "Submersed macrophytes for recovery of eutrophied waters - nutrient spiraling and removal efficiency.",
       "link"			: "http://localhost:4000/refereechapter/book-macrophytes/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Remote sensing and GIS as decisison support - a case sudy on modeling erosion susceptibility and discharge in the Indian Himalayas.",
+      "link"			: "http://localhost:4000/mscthesis/msc-lindholm/",
       "excerpt"		: ""
     }
   
@@ -1554,6 +1626,38 @@
 
   
     ,{
+      "title"			: "Water cycle modelling integrating landscape pattern - a case study in Cyprus.",
+      "link"			: "http://localhost:4000/mscthesis/msc-hessling/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Development of low parameters hydrological model and its application in Krutynia and Jorka Reivers in great Mazurian Lakes District, Poland.",
+      "link"			: "http://localhost:4000/mscthesis/msc-wazniewicz/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "GIS supported flow route extraction.",
+      "link"			: "http://localhost:4000/mscthesis/msc-szczepanek/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Contextual and rule-based image classification for ecotone detection.",
+      "link"			: "http://localhost:4000/mscthesis/msc-bernatek/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Watershed structure and symmetry with runoff and water quality.",
       "link"			: "http://localhost:4000/conference/conf-watershed-symmetry-cracow/",
       "excerpt"		: ""
@@ -1570,8 +1674,32 @@
 
   
     ,{
+      "title"			: "Digital interpretation and management of land cover -  a case study in Cyprus.",
+      "link"			: "http://localhost:4000/mscthesis/msc-mahlander/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Minimum entropy in small farming - Children’s ecological village Tatui.",
       "link"			: "http://localhost:4000/conference/conf-minimum-entropy/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Grafiskt beslutstödssystem - ett verktyg för effektivare hushållning av grus- och bergresurser.",
+      "link"			: "http://localhost:4000/mscthesis/msc-jacobson/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Beskrivning och analys and kväve- och fosfortransporter i Ljungbyån. Småland - variatoner och källor.",
+      "link"			: "http://localhost:4000/mscthesis/msc-carlsson/",
       "excerpt"		: ""
     }
   
@@ -1657,6 +1785,8 @@
   
 
 
+
+  
 
   
 
