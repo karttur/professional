@@ -1,7 +1,7 @@
 ---
 layout: resume
-title: Lake Tanganyika Regional Integrated Management Project.
-excerpt: "An archive of Lake Tanganyika publications"
+title: Summary of my efforts setting up a new ICRAF office in Entebbe, Uganda.
+excerpt: "Summary of my efforts setting up a new ICRAF office in Entebbe, Uganda"
 search_omit: true
 share: true
 
