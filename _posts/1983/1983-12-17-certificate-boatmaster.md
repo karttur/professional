@@ -1,5 +1,5 @@
 ---
-title: "Certificate boatmaster"
+title: "Certificate boatmaster (skepparexamen)"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate

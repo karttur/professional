@@ -1,5 +1,5 @@
 ---
-title: "Participation"
+title: "Participation in IIASA YSSP"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate

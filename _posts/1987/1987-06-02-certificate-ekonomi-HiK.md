@@ -1,5 +1,5 @@
 ---
-title: "Business Administration"
+title: "Course in Business Administration, Högskolan i Kalmar"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate

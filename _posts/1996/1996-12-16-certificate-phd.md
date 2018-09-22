@@ -1,5 +1,5 @@
 ---
-title: "Doctor of Philosophy (PhD)"
+title: "Doctor of Philosophy (PhD), KTH"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate

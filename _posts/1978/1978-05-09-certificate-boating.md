@@ -1,5 +1,5 @@
 ---
-title: "Certificate boating"
+title: "Certificate boating (Förarintyg för segel- och motorbåtar)"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate
