@@ -1,5 +1,6 @@
 ---
-title: "Understanding human-induced degradation of dryland agricultural and natural ecosystems."
+title: "Land degradation assessment – Baseline survey on spatial analysis of
+land cover / degradation trends and Toolkit Development."
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: report

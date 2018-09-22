@@ -16,7 +16,7 @@ pages: 1-15
 number: 42
 issue: 4
 editor:
-access: 'closed'
+access: 'open'
 ---
 
 [Bauer, P., Gumbricht, T., & Kinzelbach, W. (2006). A regional coupled surface water/groundwater model of the Okavango Delta, Botswana Water Resources Research, 42(4), 1–15.](http://doi.org/10.1029/2005WR004234)
