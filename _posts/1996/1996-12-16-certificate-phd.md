@@ -1,6 +1,6 @@
 ---
 title: "Doctor of Philosophy (PhD)"
-authors: "Gumbricht, T."
+authors: 
 layout: pdfpage
 categories: certificate
 doctype: pdf
