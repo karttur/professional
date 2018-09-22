@@ -4,8 +4,8 @@ authors: "Gumbricht, T."
 layout: pubpage
 categories: project
 doctype: pdf
-source: '<i>In1651</i>, 2007, KTH, Stockholm'
-pdf: 01_gis-intro_v66.pdf
+source: ''
+pdf:
 pageurl: '#'
 date: 2007-01-01
 enddate: 2007-12-31
