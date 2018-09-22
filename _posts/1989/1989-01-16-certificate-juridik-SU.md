@@ -1,13 +1,13 @@
 ---
-title: "Doctor of Philosophy (PhD)"
+title: "Introduction to Swedish Law"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate
 doctype: pdf
-source: 'Royal Institute of Technology (KTH), PhD'
-pdf: phd_KTH_stockholm_19961216_tg.pdf
+source: 'Stockholms Universitet, Introduction to Swedish Law (15 credits)'
+pdf: juridik_SU_stockholm_19890116_tg.pdf
 pageurl: '#'
-date: 1996-06-01
+date: 1987-06-02
 projectid:
 project:
 location:

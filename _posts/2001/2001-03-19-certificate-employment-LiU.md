@@ -1,13 +1,13 @@
 ---
-title: "Doctor of Philosophy (PhD)"
+title: "Employment, Linköping University"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate
 doctype: pdf
-source: 'Royal Institute of Technology (KTH), PhD'
-pdf: phd_KTH_stockholm_19961216_tg.pdf
+source: 'Linköping University'
+pdf: employment_LiU_200103.pdf
 pageurl: '#'
-date: 1996-06-01
+date: 2001-03-19
 projectid:
 project:
 location:
