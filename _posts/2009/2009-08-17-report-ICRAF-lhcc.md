@@ -6,7 +6,7 @@ categories: report
 doctype: pdf
 source: 'World Agroforestry Center (ICRAF), Nairobi'
 date: 2009-08-17
-projectid: africaclimate
+projectid: icraf-lhcc
 pattern:
 process:
 pages:
