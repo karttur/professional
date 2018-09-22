@@ -1,10 +1,10 @@
 ---
-title: "Graphical coloring"
+title: "Color graphics"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate
 doctype: pdf
-source: 'Ölands Folkhögskola, Graphical coloring'
+source: 'Ölands Folkhögskola, sommarkurs i färggrafik'
 pdf: oelands-folkhoegkola_graphics_2004.pdf
 pageurl: '#'
 date: 2004-07-23
