@@ -7,7 +7,7 @@ doctype: pdf
 source: 'Uppsala University'
 pdf: course-evaluation_MN1_UU_1999.pdf
 pageurl: '#'
-date: 1996-06-26
+date: 1999-06-26
 projectid:
 project:
 location:
