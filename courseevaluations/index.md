@@ -6,7 +6,7 @@ search_omit: true
 share: true
 ---
 
-Various course evaluations from KTH and UU".
+Various course evaluations from KTH and UU.
 
 <ul class="post-list">
 {% for post in site.categories.courseevaluation %}
