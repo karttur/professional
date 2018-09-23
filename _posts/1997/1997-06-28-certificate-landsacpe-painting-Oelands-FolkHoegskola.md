@@ -1,5 +1,5 @@
 ---
-title: "Landscape painting"
+title: "Summer course in landscape painting"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate

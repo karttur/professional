@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Swedish Law"
+title: "Course in Introduction to Swedish Law"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate
@@ -7,7 +7,7 @@ doctype: pdf
 source: 'Stockholms Universitet, Introduction to Swedish Law (15 credits)'
 pdf: juridik_SU_stockholm_19890116_tg.pdf
 pageurl: '#'
-date: 1987-06-02
+date: 1989-06-02
 projectid:
 project:
 location:

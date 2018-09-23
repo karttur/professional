@@ -1,5 +1,5 @@
 ---
-title: "Business Administration"
+title: "Various courses in Business Administration"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate

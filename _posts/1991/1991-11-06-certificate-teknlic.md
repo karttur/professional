@@ -1,5 +1,5 @@
 ---
-title: "Licentiate of Engineering (Swedish degree between MSc and PhD)"
+title: "Licentiate of Engineering (Swedish degree between MSc and PhD), KTH"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate

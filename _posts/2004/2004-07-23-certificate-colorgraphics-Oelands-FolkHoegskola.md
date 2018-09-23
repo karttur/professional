@@ -1,5 +1,5 @@
 ---
-title: "Color graphics"
+title: "Summer course in color graphics"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: certificate
