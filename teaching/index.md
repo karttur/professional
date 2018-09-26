@@ -95,6 +95,17 @@ Please use this link to get a page that contains a list of project instructions 
 </ul>
 
 <h1 class='foot-description'></h1>
+<h1 class='foot-description'>[Course evaluations](../courseevaluations)</h1>
+
+Various course evaluations from KTH and UU.
+
+<ul class="post-list">
+{% for post in site.categories.courseevaluation %}
+    {% include publication.html post=post %}
+{% endfor %}
+</ul>
+
+<h1 class='foot-description'></h1>
 <h1 class='foot-description'>Didactic approach</h1>
 
 When I first started my doctoral studies I took a great interest in educational training approaches and took part in seminars and discussions, which led me to convert my courses to use Problem Based Learning (PBL) and triple examinations (see below). But I have no formal university in educational training, only shorter courses as part of my military training and as a youth-leader.
