@@ -95,14 +95,25 @@ Please use this link to get a page that contains a list of project instructions 
 </ul>
 
 <h1 class='foot-description'></h1>
-<h1 class='foot-description'>[Course evaluations](../courseevaluations)</h1>
+<h1 class='foot-description'>Course evaluations</h1>
 
 [Link to various course evaluations from KTH and UU](../courseevaluations).
 
 <h1 class='foot-description'></h1>
-<h1 class='foot-description'>[Course evaluations](../courseeexcursions)</h1>
+<h1 class='foot-description'>Course compendiums</h1>
+
+[Link to various course compendiums from KTH and UU](../coursecompendiums).
+coursecompendium
+
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Course excursions</h1>
 
 [Link to international excursion that I arranged or assisted in arranging as part of my teaching at KTH ](../courseexcursions).
+
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Student course reports</h1>
+
+[Link to course reports from KTH ](../coursereports).
 
 <h1 class='foot-description'></h1>
 <h1 class='foot-description'>Didactic approach</h1>
