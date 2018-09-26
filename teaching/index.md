@@ -97,13 +97,12 @@ Please use this link to get a page that contains a list of project instructions 
 <h1 class='foot-description'></h1>
 <h1 class='foot-description'>[Course evaluations](../courseevaluations)</h1>
 
-Various course evaluations from KTH and UU.
+[Link to various course evaluations from KTH and UU](../courseevaluations).
 
-<ul class="post-list">
-{% for post in site.categories.courseevaluation %}
-    {% include publication.html post=post %}
-{% endfor %}
-</ul>
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>[Course evaluations](../courseeexcursions)</h1>
+
+[Link to international excursion that I arranged or assisted in arranging as part of my teaching at KTH ](../courseexcursions).
 
 <h1 class='foot-description'></h1>
 <h1 class='foot-description'>Didactic approach</h1>
