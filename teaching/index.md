@@ -10,7 +10,7 @@ I do not really like powerpoint (or keynote as I am a mac user). I prefer blackb
 
 <h1 class='foot-description'>Lectures</h1>
 
-[Lectures][../lecture]
+[Lectures](../lectures)
 
 [Link to old page with lectures](http://www.karttur.com/private/teaching/index.htm)
 
