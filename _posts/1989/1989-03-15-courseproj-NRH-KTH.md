@@ -1,8 +1,8 @@
 ---
-title: "Grafiska Informationssystem (1n1651)"
+title: "Projekt i kursen Naturresurshushållning våren 1989, Haninge kommun"
 authors: "Naturresurshushållning"
 layout: pdfpage
-categories: 1n1651
+categories: courseproject
 doctype: pdf
 source: 'KTH'
 pdf: course-projects_KTH_NRH_1989.pdf
@@ -19,19 +19,3 @@ issue:
 editor:
 access: 'pdfaccess'
 ---
-
-## Graphic Information Systems
-
-The course gives an introduction to Geographic Information Systems (GIS), CAD, database technology and reference systems
-
-## Course main content
-
-Databases: How to design and use databases. Database structure, query languages, different types of database structures.
-
-Reference systems: Description of some reference surfaces, how reference systems can be established, examples of local and global existing systems. Acquisition of data.
-
-Geographic Information Technology: Areas of application. Data sources, quality of data, data access etc.
-
-Digitising and scanning. Data structure and storage. Searches and analyses, visualisation.
-
-CAD: Principles of graphic representation, drawing technique, norms.

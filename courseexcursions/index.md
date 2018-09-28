@@ -1,7 +1,7 @@
 ---
 layout: resume
-title: Course Evaluations
-excerpt: "Various course evaluations from KTH and UU"
+title: International Excursions
+excerpt: "International excursions that I arranged or assisted in arranging as part of my teaching at KTH"
 search_omit: true
 share: true
 ---

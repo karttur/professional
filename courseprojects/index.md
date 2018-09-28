@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Course Evaluations
+title: Student course projects
 excerpt: "Various student course project reports from KTH"
 search_omit: true
 share: true

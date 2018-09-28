@@ -63,7 +63,7 @@ Please use this link to get a page that contains a list of exercises that I deve
 
 ## Course excursions
 
-[Link to international excursion that I arranged or assisted in arranging as part of my teaching at KTH ](../courseexcursions).
+[Link to international excursions that I arranged or assisted in arranging as part of my teaching at KTH ](../courseexcursions).
 
 ## Student course reports
 
