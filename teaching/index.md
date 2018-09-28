@@ -10,9 +10,10 @@ I do not really like powerpoint (or keynote as I am a mac user). I prefer blackb
 
 <h1 class='foot-description'>Lectures</h1>
 
-<a href="http://www.karttur.com/private/teaching/index.htm">
-Please use this link to get a page that contains a list of lectures with links to pdf version of each lecture. Some of the lectures are in Swedish and some in English.
-</a>
+[Lectures][../lecture]
+
+[Link to old page with lectures](http://www.karttur.com/private/teaching/index.htm)
+
 
 <ul class="post-list">
 {% for post in site.categories.lectures %}
@@ -113,7 +114,7 @@ coursecompendium
 <h1 class='foot-description'></h1>
 <h1 class='foot-description'>Student course reports</h1>
 
-[Link to course reports from KTH ](../coursereports).
+[Link to course reports from KTH ](../courseprojects).
 
 <h1 class='foot-description'></h1>
 <h1 class='foot-description'>Didactic approach</h1>
