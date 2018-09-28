@@ -1,11 +1,11 @@
 ---
-title: "TARGETING CRITICAL AREAS FOR NON POINT SOURCES EUTROPHICATION"
+title: "IDENTIFICATION AND MANAGEMENT OF INTEGRATED LANDSCAPE RESOURCES - CYPRUS, NICARAGUA AND SWEDEN"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: trainingproj
 doctype: pdf
 source: '<i>Uppsala University</i>, 1999, Uppsala, Sweden'
-pdf: eutrophication-proj_uu_se_1999_tg-jm.pdf
+pdf: courseproj_integrated_se-cu-ni_1999_tg.pdf
 pageurl: '#'
 date: 1999-02-02
 projectid:
