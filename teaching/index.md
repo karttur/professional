@@ -8,34 +8,11 @@ share: true
 
 I do not really like powerpoint (or keynote as I am a mac user). I prefer blackboard (the old type) both as a teacher and when in the audience.
 
-<h1 class='foot-description'>Lectures</h1>
+## Lectures
 
-[Lectures](../lectures)
+[link to page with lectures as pdf documents](../lectures)
 
 [Link to old page with lectures](http://www.karttur.com/private/teaching/index.htm)
-
-
-<ul class="post-list">
-{% for post in site.categories.lectures %}
-  <li><article>
-  {% if post.authors %}
-    <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-  {% if post.source %}
-  {% if post.doiurl %}
-    <a href="{{ post.doiurl }}">
-    {{ post.source }}
-    </a>
-   {% else %}
-   {{ post.source }}
-   {% endif %}
-  {% endif %}
-  (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-  </span>
-  {% endif %}
-  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-  </article></li>
-  {% endfor %}
-</ul>
 
 <h1 class='foot-description'></h1>
 <h1 class='foot-description'>Exercises</h1>
@@ -69,55 +46,30 @@ Please use this link to get a page that contains a list of exercises that I deve
 <h1 class='foot-description'></h1>
 <h1 class='foot-description'>Teaching projects</h1>
 
-<a href="http://www.karttur.com/private/teaching/index.htm">
-Please use this link to get a page that contains a list of project instructions that I developed for teaching spatial data processing and analysis (you have to scroll to the bottom of the page to get to the projects). Each project is available as a pdf file, and all project instructions are in English.
-</a>
+## Training projects
 
-<ul class="post-list">
-{% for post in site.categories.teachingprojects %}
-  <li><article>
-  {% if post.authors %}
-    <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-  {% if post.source %}
-  {% if post.doiurl %}
-    <a href="{{ post.doiurl }}">
-    {{ post.source }}
-    </a>
-   {% else %}
-   {{ post.source }}
-   {% endif %}
-  {% endif %}
-  (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-  </span>
-  {% endif %}
-  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-  </article></li>
-  {% endfor %}
-</ul>
+[link to page with training projects as pdf documents](../trainingproj)
 
-<h1 class='foot-description'></h1>
-<h1 class='foot-description'>Course evaluations</h1>
+[Link to old page with training documents](http://www.karttur.com/private/teaching/index.htm)
+
+## Course evaluations
 
 [Link to various course evaluations from KTH and UU](../courseevaluations).
 
-<h1 class='foot-description'></h1>
-<h1 class='foot-description'>Course compendiums</h1>
+## Course compendiums
 
 [Link to various course compendiums from KTH and UU](../coursecompendiums).
-coursecompendium
 
-<h1 class='foot-description'></h1>
-<h1 class='foot-description'>Course excursions</h1>
+
+## Course excursions
 
 [Link to international excursion that I arranged or assisted in arranging as part of my teaching at KTH ](../courseexcursions).
 
-<h1 class='foot-description'></h1>
-<h1 class='foot-description'>Student course reports</h1>
+## Student course reports
 
-[Link to course reports from KTH ](../courseprojects).
+[Link to student course reports from KTH ](../courseprojects).
 
-<h1 class='foot-description'></h1>
-<h1 class='foot-description'>Didactic approach</h1>
+## Didactic approach
 
 When I first started my doctoral studies I took a great interest in educational training approaches and took part in seminars and discussions, which led me to convert my courses to use Problem Based Learning (PBL) and triple examinations (see below). But I have no formal university in educational training, only shorter courses as part of my military training and as a youth-leader.
 
