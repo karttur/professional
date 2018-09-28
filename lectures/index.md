@@ -6,6 +6,8 @@ search_omit: true
 share: true
 ---
 
+Lectures that I created and delivered during my early years at the Royal Institute of Technology (KTH) (1989-1998) and at Uppsala University (1998-2000) are only available in analog formats. Only lectures created while working as a senior lecturer in Geoinformatics at KTH (2005-2008) are available in digital format. Below are most of my lectures from that period, divided between the different courses I was involved in.
+
 # GIS Grundkurs (1n1651), KTH, Stockholm, Sweden.
 
 The course gives an introduction to Geographic Information Systems (GIS), CAD, database technology and reference systems
