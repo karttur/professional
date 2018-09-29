@@ -2,8 +2,8 @@
 title: "GIS Data Mining on Internet"
 authors: "Gumbricht, T."
 layout: pdfpage
-categories: relma
-projectid: sahel
+categories: training
+projectid: relma
 doctype: pdf
 source: '<i>RELMA</i>, 2003, Nairobi, Kenya'
 pdf: dss-nakuru_RELMA_Nairobi_200130527_tg.pdf

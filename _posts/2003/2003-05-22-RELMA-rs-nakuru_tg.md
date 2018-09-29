@@ -2,7 +2,7 @@
 title: "Introduction to GIS and Satellite Data Analysis – Lake Nakuru, Kenya"
 authors: "Gumbricht, T."
 layout: pdfpage
-categories: lecture
+categories: training
 projectid: relma
 doctype: pdf
 source: '<i>RELMA</i>, 2003, Nairobi, Kenya'
