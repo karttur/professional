@@ -1,18 +1,28 @@
 ---
 layout: resume
-title: Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa
-excerpt: "An archive of Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa publications"
+title: Farmer Field Schools
+excerpt: "An archive of Farmer Field Schools training material"
 search_omit: true
 share: true
 ---
 
-Pilot study for developing management intervention tools based on spatial mapping and monitoring of natural resources from remote sensing data and other publicly available spatial data sources. Results included automated work flows for spatial data processing and definition of suitable indexes and indicators to use for management interventions.
+Using Farmer Field Schools Approaches to Overcome Land Degradation in Agro-Pastoral Areas of Kenya. Land degradation assessment – Baseline survey on spatial analysis of land cover / degradation trends and Toolkit Development.
 
 ### Report
 
 <ul class="post-list">
 {% for post in site.categories.report %}
-  {% if post.projectid == "icraf-lhcc" %}
+  {% if post.projectid == "kenya-ffs" %}
+    {% include publication.html post=post %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+### Training lessons
+
+<ul class="post-list">
+{% for post in site.categories.training %}
+  {% if post.projectid == "kenya-ffs" %}
     {% include publication.html post=post %}
   {% endif %}
 {% endfor %}

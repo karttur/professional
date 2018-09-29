@@ -19,3 +19,33 @@ Short training course with thematic focus on Natural Resources Management (NRM).
   {% endif %}
 {% endfor %}
 </ul>
+
+## Farmer Field School (ICRAF, Nairobi, 200t)
+
+Using Farmer Field Schools Approaches to Overcome Land Degradation in Agro-Pastoral Areas of Kenya. Land degradation assessment – Baseline survey on spatial analysis of land cover / degradation trends and Toolkit Development.
+
+### Training lessons
+
+<ul class="post-list">
+{% for post in site.categories.training %}
+  {% if post.projectid == "kenya-ffs" %}
+    {% include publication.html post=post %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+## West African Drylands (UNEP/ICRAF, Segou, 2008)
+
+An Ecosystem Approach to Restoring West African Drylands and Improving Livelihoods through Agroforestry-based Land Management Interventions.
+
+A United Nations Environment Programme (UNEP) project conducted in partnership with the World Agroforestry Centre (ICRAF), the Centre for Environmental Policy of the University of Florida, and the Governments of Burkina Faso, Mali, Mauritania, Niger and Senegal. The project is funded by the Government of Norway.
+
+### Training lessons
+
+<ul class="post-list">
+{% for post in site.categories.training %}
+  {% if post.projectid == "sahel" %}
+    {% include publication.html post=post %}
+  {% endif %}
+{% endfor %}
+</ul>
