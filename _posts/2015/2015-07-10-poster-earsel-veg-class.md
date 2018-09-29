@@ -8,14 +8,14 @@ source: '<i>35th EARSeL Symposium</i> 15-19 June 2015, Stockholm, Sweden'
 figure: earsel_2015
 pageurl: earsel_2015
 date: 2015-07-10
-projectid: vegmonitor
+projectid: impact
 pattern:
 process:
 pages:
 number:
 issue:
 editor:
-access: 'pdfaccess'
+access: 'imageaccess'
 ---
 
 Orthogonal matrix transformed density mapping of vegetation features.
