@@ -18,7 +18,7 @@ Short training course with thematic focus on Natural Resources Management (NRM).
 {% endfor %}
 </ul>
 
-## Farmer Field School (ICRAF, Nairobi, 200t)
+## Farmer Field School (ICRAF, Nairobi, 2007)
 
 Using Farmer Field Schools Approaches to Overcome Land Degradation in Agro-Pastoral Areas of Kenya. Land degradation assessment – Baseline survey on spatial analysis of land cover / degradation trends and Toolkit Development.
 
@@ -44,15 +44,27 @@ A United Nations Environment Programme (UNEP) project conducted in partnership w
 {% endfor %}
 </ul>
 
-## Lake Tanganyika Regional Integrated Management Project (UNDD/ICRAF, Lake Tanganyika, 2010/2011)
+## Lake Tanganyika Regional Integrated Management Project (UNDP/ICRAF, Lake Tanganyika, 2010/2011)
 
 A United Nations Development Programme (UNDP) / Global Environmental Facility (GEF) project covering the Lake Tanganyika riparian countries, Burundi, the Democratic Republic of Congo, Tanzania and Zambia.
 
-I organized and led training workshops in Kenya, Tanzania, Zambia and the Democratic Republic of Congo (DRC). For the training in the latter three I led the development of a set of training lessons, that we then adjusted to cover national data at each training session.
+I organized and led training workshops in Kenya, Tanzania, Zambia and the Democratic Republic of Congo (DRC). For the training in the latter three I led the development of a set of training lessons, that were adjusted to cover national data at each training session.
 
 <ul class="post-list">
 {% for post in site.categories.training %}
   {% if post.projectid == "tanganyika" %}
+    {% include publication.html post=post %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+## Okavango Wilderness Safaris (OWS) (Okavango, 2004)
+
+I worked with the tourist industry in the Okavango inland delta, Botswana, during 2004 and 2005. As part of that co-operation I created a series of training lessons introducing geoinformatics for some of the camp guides.
+
+<ul class="post-list">
+{% for post in site.categories.training %}
+  {% if post.projectid == "okavango" %}
     {% include publication.html post=post %}
   {% endif %}
 {% endfor %}
