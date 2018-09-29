@@ -7,7 +7,7 @@ doctype: pdf
 source: '<i>ICRAF</i>, April 2011, Nairobi, Kenya'
 pdf: geoinformatics_ICRAF_nairobi_20110419_tg.pdf
 date: 2011-04-19
-projectid: icrafgis
+projectid: icrafgeoinfo
 pattern:
 process:
 pages:

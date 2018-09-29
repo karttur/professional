@@ -5,6 +5,8 @@ layout: resume
 categories: report
 doctype: none
 source: 'World Agroforestry Center (ICRAF), Nairobi'
+pdf: 2010_ICRAF_LHS_af_part_2.pdf
+pageurl: '#'
 date: 2010-08-17
 projectid: icraf-lhcc
 pattern:
@@ -13,6 +15,7 @@ pages:
 number:
 issue:
 editor:
+access: 'pdfaccess'
 ---
 
 Gumbricht, T. (2010). Final Report Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa with Emphasis on Pilot One UN Countries: Mozambique, Tanzania and Rwanda. Nairobi, World Agroforestry Center (ICRAF). 67 p.
