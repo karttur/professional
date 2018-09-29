@@ -9,6 +9,8 @@ share: true
 
 I have since then used my data and knowledge about the Okavango in many other studies, including my efforts in mapping and monitoring global tropical wetlands and peatlands.
 
+I worked with tourist industry in the Okavango, training the guides in the geological and sedimentological processes sustaining the Okavango. I also developed a web-based and interactive map interface using google maps, and I created and led training sessions in using geoinformatics. 
+
 ### Journal articles
 
 <ul class="post-list">
@@ -108,7 +110,7 @@ Under construction
 </ul>
 
 ### Training
-Under construction
+
 <ul class="post-list">
 {% for post in site.categories.training %}
   {% if post.projectid == "okavango" %}
