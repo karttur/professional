@@ -27,8 +27,8 @@ Please use this link to get a page that contains a list of exercises that I deve
   {% if post.authors %}
     <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
   {% if post.source %}
-  {% if post.doiurl %}
-    <a href="{{ post.doiurl }}">
+  {% if post.pageurl %}
+    <a href="{{ post.pageurl }}">
     {{ post.source }}
     </a>
    {% else %}

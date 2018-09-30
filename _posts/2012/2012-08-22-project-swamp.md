@@ -5,7 +5,6 @@ layout: resume
 categories: project
 doctype: none
 source: 'USAID'
-
 date: 2012-03-01
 enddate: 2018-03-01
 location:

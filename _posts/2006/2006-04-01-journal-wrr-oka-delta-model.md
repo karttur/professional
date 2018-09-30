@@ -3,7 +3,7 @@ title: "A regional coupled surface water/groundwater model of the Okavango Delta
 authors: "Bauer, P., Gumbricht, T., & Kinzelbach, W."
 layout: doipage
 categories: journal
-doctype: doi
+doctype: doipage
 source: Water Resources Research
 pageurl: '#'
 date: 2006-04-01

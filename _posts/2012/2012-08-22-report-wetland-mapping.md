@@ -5,7 +5,6 @@ layout: resume
 categories: report
 doctype: url
 source: 'CIFOR, Bogor'
-
 date: 2012-08-22
 pageurl: 'https://www.cifor.org/library/4014/mapping-global-tropical-wetlands-from-earth-observing-satellite-imagery/'
 doi: 10.17528/cifor/004014

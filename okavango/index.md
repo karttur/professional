@@ -5,11 +5,11 @@ excerpt: "An archive of Okavango publications"
 search_omit: true
 share: true
 ---
-1999 I got a post-doc scholarship from the Swedish Royal Academy of Sciences, allowing me to move to South Africa and start a post-doc at University of the Witwatersrand (Wits) in Johannesburg. My studies focused on the Okavango swamps in Botswana, but also other regional wetlands. I stayed at Wits for two years, and also worked for a few months with the tourist industry in the Okavango.
+1999 I got a post-doc scholarship from the Swedish Royal Academy of Sciences, allowing me to move to South Africa and start as a post-doc with the University of the Witwatersrand (Wits) in Johannesburg. My studies focused on the Okavango swamps in Botswana, but also other regional wetlands. I stayed at Wits for two years, and also worked for a few months with the tourist industry in the Okavango.
 
 I have since then used my data and knowledge about the Okavango in many other studies, including my efforts in [mapping and monitoring global tropical wetlands and peatlands](../swamp/).
 
-I worked with tourist industry in the Okavango, training the guides in the geological and sedimentological processes sustaining the Okavango. I also developed a web-based and interactive map interface using google maps, and I created and led training sessions in using geoinformatics.
+I worked with tourist industry in the Okavango, training the guides in the geological and sedimentological processes sustaining the Okavango. I also developed a web-based and interactive map interface using google maps for the tourist industry, and I created and led training sessions in using geoinformatics.
 
 ### Journal articles
 
