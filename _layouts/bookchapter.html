@@ -15,7 +15,7 @@
   <article class="entry">
 
     <div class="entry-wrapper">
-      
+
       <div class="entry-content">
         <h5>
           {% if page.project %} Project: <a href="../../{{ page.projectid }}/"> {{ page.project }}</a> <br> {% endif %}
@@ -32,6 +32,8 @@
           {% if page.source %}<i>{{ page.source }}</i>,{% endif %}
           {% if page.number %}{{ page.number }}{% endif %}
           {% if page.issue %} ({{ page.issue }}){% endif %}
+          {% if page.editor %} ({{ page.editor }}){% endif %}
+          {% if page.publisher %} ({{ page.publihser }}){% endif %}
           ,
           {% if page.pages %}{{ page.pages }}.{% endif %}
 
