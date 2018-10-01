@@ -6,6 +6,7 @@ categories: licthesis
 doctype: pdf
 source: KTH, dept of Geodesy and Photogrammetry
 date: 1998-12-01
+pdf: lic-hessling_1998.pdf
 pageurl: lic-hessling_1998.pdf
 projectid: mscthesis
 project:
