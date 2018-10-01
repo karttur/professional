@@ -1,11 +1,12 @@
 ---
 title: "Spying on the sea of land."
 authors: "Gumbricht, T."
-layout: pubpage
+layout: pdfpage
 categories: popular
-doctype: url
+doctype: pdf
 source: Getaway
 pdf: getaway_2002-10_114-120.pdf
+pageurl: getaway_2002-10_114-120.pdf
 date: 2002-10-01
 pageurl: '#'
 projectid: okavango
