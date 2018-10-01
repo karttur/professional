@@ -5,17 +5,16 @@ layout: pdfpage
 pdf: grw-rule_NHK_helsinki_19970607_tg-etal.pdf
 categories: conference
 doctype: pdf
-source: '<i>Nordic Hydrological Conference</i> (pp. 484–490)'
-
+source: '<i>Nordic Hydrological Conference</i>, 1998 (pp. 484–490)'
 date: 1998-08-01
 projectid:
 pattern:
 process:
-pages:
+pages: 484–490
 number:
 issue:
-editor:
-
+editor: J. Kajander
+access: 'pdfaccess'
 ---
 
 Gumbricht, T., Maxe, L., & Johansson, P.-O. (1998). Rule based map generalisation for classification of groundwater vulnerability. In J. Kajander (Ed.), Nordic Hydrological Conference (pp. 484–490). Helsinki: NHP-Report No. 44.

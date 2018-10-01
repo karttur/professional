@@ -17,5 +17,4 @@ pages: 42–44
 number:
 issue:
 editor:
-access: 'pdfaccess'
 ---
