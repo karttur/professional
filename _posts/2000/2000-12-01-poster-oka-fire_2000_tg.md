@@ -4,7 +4,7 @@ authors: "Gumbricht, T. et al."
 layout: pubpage
 categories: poster
 doctype: image
-source: '<i>SAFARI2000"</i>, 2000, Siavonga, South Africa'
+source: '<i>SAFARI2000</i>, 2000, Siavonga, South Africa'
 figure1: oka-fire_SAFARI2000_siavonga_2000
 date: 2000-12-01
 projectid: okavango
