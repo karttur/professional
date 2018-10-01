@@ -100,7 +100,7 @@ I worked with tourist industry in the Okavango, training the guides in the geolo
 </ul>
 
 ### Popular
-Under construction
+
 <ul class="post-list">
 {% for post in site.categories.popular %}
   {% if post.projectid == "okavango" %}

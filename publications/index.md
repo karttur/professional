@@ -46,3 +46,11 @@ Click on source (or icon) to get online pdf versions (articles with no icon are 
     {% include publication.html post=post %}
 {% endfor %}  
 </ul>
+
+### Popular
+
+<ul class="post-list">
+{% for post in site.categories.popular %}
+    {% include publication.html post=post %}
+{% endfor %}  
+</ul>

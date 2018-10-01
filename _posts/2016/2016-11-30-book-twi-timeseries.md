@@ -5,7 +5,7 @@ categories: refereechapter
 authors: "Gumbricht, T."
 layout: doipage
 categories: refereechapter
-doctype: doi
+doctype: doipage
 source: 'Multitemporal Remote Sensing'
 date: 2016-11-30
 pageurl: 'https://doi.org/10.1007/978-3-319-47037-5_12'
