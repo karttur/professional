@@ -1,13 +1,13 @@
 ---
 title: "Tracking salt islands among the Delta´s living lace."
 authors: "Gumbricht, T."
-layout: pubpage
+layout: pdfpage
 categories: popular
 doctype: pdf
 source: Getaway
 pdf: getaway_2002-11_98-103.pdf
 date: 2002-11-01
-pageurl: '#'
+pageurl: getaway_2002-11_98-103.pdf
 projectid: okavango
 project: Okavango
 pattern:
@@ -17,5 +17,4 @@ number: November
 issue:
 editor:
 access: 'pdfaccess'
-
 ---
