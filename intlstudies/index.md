@@ -10,6 +10,6 @@ International study periods during my PhD.
 
 <ul class="post-list">
 {% for post in site.categories.intlstudies %}
-    {% include publication.html post=post %}
+    {% include titlelist.html post=post %}
 {% endfor %}
 </ul>

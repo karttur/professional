@@ -1,0 +1,12 @@
+
+<li>
+<article>
+<span style="font-size: 80%; display: block;">
+
+{{ post.source }}
+</span>
+<span style="font-weight: bold;"><time datetime="{{ post.date |  date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>.
+</span>
+{{ post.title }}
+</article>
+</li>
