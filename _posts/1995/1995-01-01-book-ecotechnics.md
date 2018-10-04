@@ -2,7 +2,7 @@
 title: "Identification of Potential Reforestation Sites Using Geographic Information System and Remote Sensing."
 authors: "Gumbricht, T., Mahlander, C., & Mccarthy, J."
 layout: pdfpage
-page: cyprus-reforest-mce_ecotech_ostersund_19950515_tg-etal.pdf
+pdf: cyprus-reforest-mce_ecotech_ostersund_19950515_tg-etal.pdf
 categories: refereechapter
 source: "Ecotechnics for a sustainable society"
 date: 1995-01-01
