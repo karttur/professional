@@ -6,6 +6,7 @@ categories: refereechapter
 doctype: pdfpage
 source: "Water saving strategies in urban renewal"
 pdf: bookchapter_urban_green_mosaic-water_19960601_tg.pdf
+pageurl: '#'
 date: 1996-06-01
 projectid: phd
 project: "The water organized landscape"
