@@ -3,8 +3,10 @@ title: "Urban green mosaic and sustainable water processes."
 authors: "Gumbricht, T., Högelin, A., & Renman, G."
 layout: resume
 categories: refereechapter
-doctype: none
+doctype: pdfpage
 source: "Water saving strategies in urban renewal"
+pdf: bookchapter_urban_green_mosaic-water_19960601_tg.pdf
+pageurl: '#'
 date: 1996-06-01
 projectid: phd
 project: "The water organized landscape"
@@ -14,7 +16,7 @@ process:
 pages: 129–141
 number:
 issue:
-city: "Berlin"
+place: "Berlin"
 verlag: "Dietrich Reimer Verlag"
 editor: J. Mellitzer, U. Schubert, & S. Sedlacek
 ---
