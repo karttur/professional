@@ -4,10 +4,10 @@ authors: "Gumbricht, T., Mahlander, C., & Mccarthy, J."
 layout: pdfpage
 pdf: cyprus-reforest-mce_ecotech_ostersund_19950515_tg-etal.pdf
 categories: refereechapter
+doctype: pdf
 source: "Ecotechnics for a sustainable society"
 date: 1995-01-01
 project: kthinternational
-project: "Cyprus cooperation"
 location: Cyprus
 pattern: landscape
 process: reforestation
