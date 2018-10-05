@@ -1,5 +1,5 @@
 ---
-title: "3D Hydrogeological Modelling with an Expert GIS Interface."
+title: "Växelverkan mellan vegetation och vattnets kretslopp."
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: journal
