@@ -4,7 +4,6 @@ title: IMPACT
 excerpt: "An archive of biomass estimation for remote sensing (IMPACT) publications"
 search_omit: true
 share: true
-
 ---
 
 The International Model for Policy Analysis of Agricultural Commodities and Trade (IMPACT) is part of the Consultative Group of International Agricultural Research (CGIAR) Centers Research Program (CRP) on Policies, Institutions and Markets (PIM). I participated in IMPACT by developing methods and training for for estimating biomass from optical remote sensing.
