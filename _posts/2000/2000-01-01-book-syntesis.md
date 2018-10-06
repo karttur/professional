@@ -15,6 +15,6 @@ pages: 245–257
 number:
 issue:
 editor:
-verlag: 
-access: 'pdfacces'
+verlag:
+access: 'pdfaccess'
 ---
