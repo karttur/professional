@@ -36,6 +36,8 @@
           {% if page.number %}{{ page.number }}{% endif %}
           {% if page.issue %} ({{ page.issue }}){% endif %}
           {% if page.pages %}{{ page.pages }}.{% endif %}
+          {% if page.verlag %}{{ page.verlag }}.{% endif %}
+          {% if page.place %}{{ page.place }}.{% endif %}
 
           {% if page.access %}
             {% if page.access == 'open' %}
