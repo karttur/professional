@@ -13,8 +13,8 @@ pattern:
 process:
 pages: 245–257
 number:
-issue:
-editor:
-verlag:
+issue: Gisdata 7
+editor: Fotheringham A.S & Wegener, M.
+verlag: Taylor and Francis
 access: 'pdfaccess'
 ---
