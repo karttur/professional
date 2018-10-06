@@ -1,7 +1,6 @@
 ---
 title: "The topography of the Okavango Delta, Botswana, and its tectonic and sedimentological implications."
-authors: "Gumbricht, T. et al."
-authorsfull: ""
+authors: "Gumbricht, T. McCarthy, T.S. & Merry, C.L."
 layout: doipage
 categories: journal
 source: South African Journal of Geology

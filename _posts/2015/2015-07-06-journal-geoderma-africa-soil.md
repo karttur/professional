@@ -1,6 +1,7 @@
 ---
 title: "Mapping of soil properties and land degradation risk in Africa using MODIS reflectance."
 authors: "Vågen et al."
+authorsfull: Vågen, T.,  Winowiecki, L., Tondoh, J., Desta, L., Gumbricht, T.
 layout: doipage
 categories: journal
 doctype: doi
