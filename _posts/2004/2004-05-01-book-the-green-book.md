@@ -12,7 +12,7 @@ process:
 pages: 129-142
 number:
 issue:
-editor: B.K. Patel., K. Muir-Leresche, R. Coe & S.D. Hainsworth
+editor: 'B.K. Patel., K. Muir-Leresche, R. Coe & S.D. Hainsworth'
 verlag: The African Crop Science Society
 place: Kampala
 access: 'pdfaccess'

@@ -29,7 +29,7 @@
           {% endif %}
           <span style="font-weight: bold;"><time datetime="{{ page.date |  date_to_xmlschema }}">{{ page.date | date: "%Y" }}</time></span>.
           {% if page.title %}{{ page.title }}{% endif %}
-          {% if page.editor %} ({{ eds: page.editor }}){% endif %}
+          {% if page.editor %} (eds: {{ page.editor }}){% endif %}
           {% if page.publisher %} ({{ page.publihser }}){% endif %}
           ,
           {% if page.source %}<i>{{ page.source }}</i>,{% endif %}
