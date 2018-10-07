@@ -2,7 +2,7 @@
 title: "The Okavango Delta – semiarid alluvial-fan sedimentation related to incipient rifting."
 authors: "McCarthy, T. et al."
 authorsfull: McCarthy, T., Smith, N., Elelry, W. & Gumbricht, T.
-layout: doipage
+layout: bookchapter
 categories: refereechapter
 doctype: none
 source: 'Sedimentation in Continental Rifts, Special Publications of SEPM'

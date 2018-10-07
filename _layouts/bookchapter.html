@@ -42,9 +42,7 @@
           {% if page.access %}
             {% if page.access == 'open' %}
               <img src = "{{ site.commonurl }}/images/openaccess.png" style="width:30px;height:20px;border:0;"  alt='open'>
-            {% elsif page.access == 'researchgate' %}
-                <img src = "{{ site.commonurl }}/images/rgaccess.png" style="width:20px;height:20px;border:0;"  alt='researchgate'>
-            {% elsif page.access == 'closed' %}
+          {% elsif page.access == 'closed' %}
               <img src = "{{ site.commonurl }}/images/closedaccess.png" style="width:30px;height:20px;border:0;" alt='closed'>
             {% endif %}
           {% endif %}
