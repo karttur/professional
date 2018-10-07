@@ -9,7 +9,7 @@ share: true
 Student course project reports from KTH.
 
 <ul class="post-list">
-{% for post in site.categories.courseproject %}
+{% for post in site.categories.studentproject %}
     {% include publication.html post=post %}
 {% endfor %}
 </ul>
