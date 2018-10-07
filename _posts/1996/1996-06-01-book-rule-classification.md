@@ -7,6 +7,7 @@ doctype: url
 source: International Archives of Photogrammetry and Remote Sensing
 date: 1996-06-01
 pageurl: 'http://www.isprs.org/proceedings/xxxi/congress/part4/183_XXXI-part4.pdf'
+pdf: 183_XXXI-part4.pdf
 projectid: kthinternational
 project: "Mazurian Lake"
 location: Poland

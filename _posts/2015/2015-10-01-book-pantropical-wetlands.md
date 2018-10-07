@@ -14,7 +14,8 @@ process:
 pages: 435–454
 number:
 issue:
-publisher: 'Boca Raton: CRC press; Taylor and Francis'
+verlag: 'CRC press; Taylor and Francis'
+place: Boca Raton
 editor: R. W. Tiner, M. W. Lang, & V. Klemas
 access: 'closed'
 okavango: true

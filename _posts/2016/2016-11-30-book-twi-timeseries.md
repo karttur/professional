@@ -15,8 +15,9 @@ pattern:
 process:
 pages: 233–253
 number:
-issue:
+issue: Remote Sensing and Digital Image Processing, vol 20
 editor: Ban, Y.
+verlag: Springer
 place:
 access: 'closed'
 okavango: true
