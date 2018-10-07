@@ -6,6 +6,7 @@ categories: lecture-ag2412
 doctype: pdf
 source: '<i>ag2412</i>, 2008, KTH, Stockholm'
 pdf: 02_GIS-visualisation_interpret.pdf
+pageurl: '#'
 date: 2008-02-08
 series: ag2412
 projectid: ag2412

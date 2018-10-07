@@ -5,6 +5,7 @@ layout: pdfpage
 categories: lecture-1n1654
 doctype: pdf
 source: '<i>1n1654</i>, 2008, KTH, Stockholm'
+pageurl: '#'
 pdf: 05_samhalls-GIS_data_analys_v66.pdf
 date: 2008-09-22
 series: 1n1654
