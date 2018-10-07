@@ -53,6 +53,9 @@
         {% if page.pdf %}
           {% include pdfcontent.html %}
         {% endif %}
+        {% if page.researchgate %}
+          {% include researchgate.html %}
+        {% endif %}
         {% if page.abstract %}
           <span style="font-weight: bold;">Abstract</span><br>
           {{ page.abstract }}
