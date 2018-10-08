@@ -10,7 +10,8 @@ A United Nations Development Programme (UNDP) / Global Environmental Facility (G
 
 Within the project I organized and led training workshops in Kenya, Tanzania, Zambia and the Democratic Republic of Congo (DRC). I also held the training modules on spatial data analysis and land degradation in each project country.
 
-### Presentations
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Presentations</h1>
 
 <ul class="post-list">
 {% for post in site.categories.talk %}
@@ -20,7 +21,8 @@ Within the project I organized and led training workshops in Kenya, Tanzania, Za
 {% endfor %}
 </ul>
 
-### Training
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Training</h1>
 
 <ul class="post-list">
 {% for post in site.categories.assignment %}
@@ -30,7 +32,8 @@ Within the project I organized and led training workshops in Kenya, Tanzania, Za
 {% endfor %}
 </ul>
 
-### Movie
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Movie</h1>
 
 Not yet available
 
@@ -42,7 +45,8 @@ Not yet available
 {% endfor %}
 </ul>
 
-### Images
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Images</h1>
 
 Not yet available
 
