@@ -10,6 +10,16 @@ From August 1998 to April 2000 I was the head of the Geoinformatics unit at the 
 
 This page is under construction but some of the material from my period in Uppsala is available [here](http://www.karttur.com/private/teaching/index.htm).
 
+### Training assignments
+
+<ul class="post-list">
+{% for post in site.categories.assignemnt %}
+  {% if post.projectid == "uu" %}
+    {% include publication.html post=post %}
+  {% endif %}
+{% endfor %}
+</ul>
+
 ### Training projects
 
 <ul class="post-list">

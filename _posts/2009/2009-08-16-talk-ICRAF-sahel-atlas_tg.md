@@ -1,5 +1,5 @@
 ---
-title: "West Africa Sahel: Changing Landscapes (movie)"
+title: "West Africa Sahel: Changing Landscapes (movie slide show without sound)"
 authors: "Gumbricht, T."
 layout: pubpage
 categories: talk

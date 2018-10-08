@@ -1,13 +1,13 @@
 ---
-title: "INTRODUCTION TO ARC VIEW AND SWEDISH MAPS"
+title: "ARCVIEW GIS EXERCISE – RESOURCE GEOLOGY"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: assignment
 doctype: pdf
 source: '<i>Uppsala University</i>, 1999, Uppsala, Sweden'
-pdf: exercise_uu_intro-arcview_1999.pdf
+pdf: exercise_uu_soil-bedrock_1999.pdf
 pageurl: '#'
-date: 1999-09-03
+date: 1999-09-15
 projectid: uu
 pattern:
 process:

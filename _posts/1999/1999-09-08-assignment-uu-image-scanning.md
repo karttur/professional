@@ -1,13 +1,13 @@
 ---
-title: "INTRODUCTION TO ARC VIEW AND SWEDISH MAPS"
+title: "INTRODUCTION TO SCANNING AND DIGITAL IMAGERY"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: assignment
 doctype: pdf
 source: '<i>Uppsala University</i>, 1999, Uppsala, Sweden'
-pdf: exercise_uu_intro-arcview_1999.pdf
+pdf: exercise_uu_image_scanning_1999.pdf
 pageurl: '#'
-date: 1999-09-03
+date: 1999-09-07
 projectid: uu
 pattern:
 process:

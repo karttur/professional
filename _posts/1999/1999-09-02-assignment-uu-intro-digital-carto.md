@@ -2,7 +2,7 @@
 title: "INTRODUCTION TO DIGITAL CARTOGRAPHY"
 authors: "Gumbricht, T."
 layout: pdfpage
-categories: trainingexercise
+categories: assignment
 doctype: pdf
 source: '<i>Uppsala University</i>, 1999, Uppsala, Sweden'
 pdf: exercise_uu_digital-carto_1999.pdf

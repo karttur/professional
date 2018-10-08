@@ -8,7 +8,7 @@ source: '<i>Uppsala University</i>, 1999, Uppsala, Sweden'
 pdf: exercise_uu_well-location_1999.pdf
 pageurl: '#'
 date: 1999-09-05
-projectid:
+projectid: uu
 pattern:
 process:
 pages:

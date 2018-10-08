@@ -1,13 +1,13 @@
 ---
-title: "INTRODUCTION TO ARC VIEW AND SWEDISH MAPS"
+title: "INTRODUCTION TO DIGITISING"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: assignment
 doctype: pdf
 source: '<i>Uppsala University</i>, 1999, Uppsala, Sweden'
-pdf: exercise_uu_intro-arcview_1999.pdf
+pdf: exercise_uu_digitizing_1999.pdf
 pageurl: '#'
-date: 1999-09-03
+date: 1999-09-09
 projectid: uu
 pattern:
 process:
