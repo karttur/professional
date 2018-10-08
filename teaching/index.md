@@ -8,7 +8,8 @@ share: true
 
 I do not really like powerpoint (or keynote as I am a mac user). I prefer blackboard (the old type) both as a teacher and when in the audience.
 
-## Lectures
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Lectures</h1>
 
 [link to page with lectures as pdf documents](../lectures)
 
@@ -21,30 +22,35 @@ I do not really like powerpoint (or keynote as I am a mac user). I prefer blackb
 
 [Link to old page with lectures](http://www.karttur.com/private/teaching/index.htm)
 
-## Training projects
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Projects</h1>
 
 [link to page with training projects as pdf documents](../pblproject)
 
 [Link to old page with training documents](http://www.karttur.com/private/teaching/index.htm)
 
-## Course evaluations
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Course evaluations</h1>
 
 [Link to various course evaluations from KTH and UU](../courseevaluations).
 
-## Course compendiums
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Course compendiums</h1>
 
 [Link to various course compendiums from KTH and UU](../coursecompendiums).
 
-
-## Course excursions
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Course excursions</h1>
 
 [Link to international excursions that I arranged or assisted in arranging as part of my teaching at KTH ](../courseexcursions).
 
-## Student course reports
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Student reports</h1>
 
 [Link to student course reports from KTH ](../courseprojects).
 
-## Didactic approach
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Didactic approach</h1>
 
 When I first started my doctoral studies I took a great interest in educational training approaches and took part in seminars and discussions, which led me to convert my courses to use Problem Based Learning (PBL) and triple examinations (see below). But I have no formal university in educational training, only shorter courses as part of my military training and as a youth-leader.
 

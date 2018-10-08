@@ -10,7 +10,8 @@ The Sustainable Wetlands Adaptation and Mitigation Program (SWAMP) is a collabor
 
 I have worked for SWAMP (TWINCAMP) as an independent researcher since 2012, focusing on mapping and monitoring of global pantropical wetlands and peatlands.
 
-### Journal articles
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Journal articles</h1>
 
 <ul class="post-list">
 {% for post in site.categories.journal %}
@@ -20,7 +21,8 @@ I have worked for SWAMP (TWINCAMP) as an independent researcher since 2012, focu
 {% endfor %}  
 </ul>
 
-### Refereed chapters
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Refereed chapters</h1>
 
 <ul class="post-list">
 {% for post in site.categories.refereechapter %}
@@ -30,7 +32,8 @@ I have worked for SWAMP (TWINCAMP) as an independent researcher since 2012, focu
 {% endfor %}
 </ul>
 
-### Institutional report
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Institutional reports</h1>
 
 <ul class="post-list">
 {% for post in site.categories.report %}
@@ -40,7 +43,8 @@ I have worked for SWAMP (TWINCAMP) as an independent researcher since 2012, focu
 {% endfor %}  
 </ul>
 
-### Presentations
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Presentations</h1>
 
 <ul class="post-list">
 {% for post in site.categories.talk %}
@@ -50,7 +54,8 @@ I have worked for SWAMP (TWINCAMP) as an independent researcher since 2012, focu
 {% endfor %}  
 </ul>
 
-### Posters
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Posters</h1>
 
 <ul class="post-list">
 {% for post in site.categories.poster %}

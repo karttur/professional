@@ -17,9 +17,7 @@ While at UU I was responsible for the following courses:
 - __Distributed modelling with GIS__, course for civil engineering students
 - __Geography C, methods and GIS__, basic course in GIS for geography students
 
-
-
-This page is under construction but some of the material from my period in Uppsala is available [here](http://www.karttur.com/private/teaching/index.htm).
+An older version of the assignments and projects is available [here](http://www.karttur.com/private/teaching/index.htm).
 
 ### Training assignments
 
