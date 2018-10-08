@@ -9,9 +9,10 @@ share: true
 
 An Ecosystem Approach to Restoring West African Drylands and Improving Livelihoods through Agroforestry-based Land Management Interventions. A United Nations Environment Programme (UNEP) project conducted in partnership with the World Agroforestry Centre (ICRAF), the Centre for Environmental Policy of the University of Florida, and the Governments of Burkina Faso, Mali, Mauritania, Niger and Senegal. Project funded by the Government of Norway.
 
-My part in the project included development of land degradation monitoring from time series of satellite images, general landscape mapping and historical climate change analysis. 
+My part in the project included development of land degradation monitoring from time series of satellite images, general landscape mapping and historical climate change analysis.
 
-### Journal articles
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Journal articles</h1>
 
 <ul class="post-list">
 {% for post in site.categories.journal %}
@@ -21,7 +22,8 @@ My part in the project included development of land degradation monitoring from 
 {% endfor %}
 </ul>
 
-### Atlas
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Atlas</h1>
 
 <ul class="post-list">
 {% for post in site.categories.atlas %}
@@ -31,7 +33,8 @@ My part in the project included development of land degradation monitoring from 
 {% endfor %}
 </ul>
 
-### Reports
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Reports</h1>
 
 <ul class="post-list">
 {% for post in site.categories.report %}
@@ -41,7 +44,8 @@ My part in the project included development of land degradation monitoring from 
 {% endfor %}
 </ul>
 
-### Presentations
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Presentations</h1>
 
 <ul class="post-list">
 {% for post in site.categories.talk %}
@@ -51,7 +55,8 @@ My part in the project included development of land degradation monitoring from 
 {% endfor %}
 </ul>
 
-### Lectures
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Lectures</h1>
 
 <ul class="post-list">
 {% for post in site.categories.lecture %}
@@ -62,7 +67,8 @@ My part in the project included development of land degradation monitoring from 
 </ul>
 
 
-### Training DVD
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Training DVD</h1>
 
 <ul class="post-list">
 {% for post in site.categories.DVD %}
@@ -72,7 +78,8 @@ My part in the project included development of land degradation monitoring from 
 {% endfor %}
 </ul>
 
-### Training lessons
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Training lessons</h1>
 
 <ul class="post-list">
 {% for post in site.categories.assignment %}
@@ -82,7 +89,8 @@ My part in the project included development of land degradation monitoring from 
 {% endfor %}
 </ul>
 
-### Movie
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Movie</h1>
 
 <ul class="post-list">
 {% for post in site.categories.movie %}
@@ -92,7 +100,8 @@ My part in the project included development of land degradation monitoring from 
 {% endfor %}
 </ul>
 
-### Images
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Images</h1>
 
 <ul class="post-list">
 {% for post in site.categories.images %}

@@ -6,7 +6,7 @@ search_omit: true
 share: true
 
 ---
-Half time position with responsibility for courses in Geographical Information Systems (GIS), spatial data visualisation and geoinformatics web server development. Lecturing and supervision at graduate and post-graduate levels.
+Between August 2005 and April 2009 I held a half time position with the Royal Institute of Technology (KTH) with responsibility for courses in Geographical Information Systems (GIS), spatial data visualisation and geoinformatics web server development. Lecturing and supervision at graduate and post-graduate levels.
 
 ### Lectures
 

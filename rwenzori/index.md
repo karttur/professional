@@ -8,7 +8,8 @@ share: true
 
 In June 2006 I took part in the 100 year anniversary of the first climb to the summit of Mount Rwenzori (The Mountains of the Moon) straddling the border between Uganda and the Democratic Republic of Congo (DRC).
 
-### Presentations
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Presentations</h1>
 
 <ul class="post-list">
 {% for post in site.categories.talk %}
@@ -18,7 +19,8 @@ In June 2006 I took part in the 100 year anniversary of the first climb to the s
 {% endfor %}
 </ul>
 
-### Posters
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Posters</h1>
 
 <ul class="post-list">
 {% for post in site.categories.poster %}
@@ -28,7 +30,8 @@ In June 2006 I took part in the 100 year anniversary of the first climb to the s
 {% endfor %}
 </ul>
 
-### Movie
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Movie</h1>
 
 <ul class="post-list">
 {% for post in site.categories.movie %}
@@ -38,7 +41,8 @@ In June 2006 I took part in the 100 year anniversary of the first climb to the s
 {% endfor %}
 </ul>
 
-### Images
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Images</h1>
 
 <ul class="post-list">
 {% for post in site.categories.images %}
@@ -48,7 +52,8 @@ In June 2006 I took part in the 100 year anniversary of the first climb to the s
 {% endfor %}
 </ul>
 
-### Training material
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Training</h1>
 
 <ul class="post-list">
 {% for post in site.categories.assignment %}
