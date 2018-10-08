@@ -11,7 +11,8 @@ I have since then used my data and knowledge about the Okavango in many other st
 
 I worked with tourist industry in the Okavango, training the guides in the geological and sedimentological processes sustaining the Okavango. I also developed a web-based and interactive map interface using google maps for the tourist industry, and I created and led training sessions in using geoinformatics.
 
-### Journal articles
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Journal articles</h1>
 
 <ul class="post-list">
 
@@ -28,7 +29,8 @@ I worked with tourist industry in the Okavango, training the guides in the geolo
 {% endfor %}  
 </ul>
 
-### Refereed chapters
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Refereed chapters</h1>
 
 <ul class="post-list">
 {% for post in site.categories.refereechapter %}
@@ -44,7 +46,8 @@ I worked with tourist industry in the Okavango, training the guides in the geolo
 {% endfor %}
 </ul>
 
-### Conference Proceedings
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Conference Proceedings</h1>
 
 <ul class="post-list">
 {% for post in site.categories.conference %}
@@ -59,7 +62,8 @@ I worked with tourist industry in the Okavango, training the guides in the geolo
 {% endfor %}  
 </ul>
 
-### Presentations
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Presentations</h1>
 
 <ul class="post-list">
 {% for post in site.categories.talk %}
@@ -74,7 +78,8 @@ I worked with tourist industry in the Okavango, training the guides in the geolo
 {% endfor %}  
 </ul>
 
-### Lectures
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Lectures</h1>
 
 <ul class="post-list">
 {% for post in site.categories.lecture %}
@@ -89,7 +94,8 @@ I worked with tourist industry in the Okavango, training the guides in the geolo
 {% endfor %}  
 </ul>
 
-### Posters
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Posters</h1>
 
 <ul class="post-list">
 {% for post in site.categories.poster %}
@@ -99,7 +105,8 @@ I worked with tourist industry in the Okavango, training the guides in the geolo
 {% endfor %}  
 </ul>
 
-### Popular
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Popular</h1>
 
 <ul class="post-list">
 {% for post in site.categories.popular %}
@@ -109,7 +116,8 @@ I worked with tourist industry in the Okavango, training the guides in the geolo
 {% endfor %}  
 </ul>
 
-### Training
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Training</h1>
 
 <ul class="post-list">
 {% for post in site.categories.assignment %}
@@ -119,8 +127,11 @@ I worked with tourist industry in the Okavango, training the guides in the geolo
 {% endfor %}  
 </ul>
 
-### Images
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>images</h1>
+
 Under construction
+
 <ul class="post-list">
 {% for post in site.categories.images %}
   {% if post.projectid == "okavango" %}
