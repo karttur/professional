@@ -48,7 +48,7 @@ Please use this link to get a page that contains a list of exercises that I deve
 
 ## Training projects
 
-[link to page with training projects as pdf documents](../trainingproj)
+[link to page with training projects as pdf documents](../pblproject)
 
 [Link to old page with training documents](http://www.karttur.com/private/teaching/index.htm)
 

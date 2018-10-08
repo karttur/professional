@@ -6,12 +6,10 @@ search_omit: true
 share: true
 ---
 
-The training exercises were used as pedagogic vehicles in the courses I held both as part of the international MSc programs in Environmental Engineering and Sustainable Infrastructure (EESI) at the Royal Institute of Technology (1994 t0 1998) and then also when I was a senior lecturer at Uppsala University (1998 to 2000).
-
-
+Training assignments that I developed. Starting from my period at Uppsala University and for a range of other shorter courses on geoinformatics that I have held for a range of different audiences and stakeholders.
 
 <ul class="post-list">
-  {% for post in site.categories.trainingexercise %}
+  {% for post in site.categories.assignment %}
     <li><article>
     {% if post.authors %}
       <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
@@ -24,4 +22,14 @@ The training exercises were used as pedagogic vehicles in the courses I held bot
     <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
     </article></li>
   {% endfor %}
+</ul>
+
+### Uppsala University
+
+<ul class="post-list">
+{% for post in site.categories.assignemnt %}
+  {% if post.projectid == "uu" %}
+    {% include publication.html post=post %}
+  {% endif %}
+{% endfor %}
 </ul>

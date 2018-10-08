@@ -2,7 +2,7 @@
 title: "LESSON 7 – EXPORTING, IMPORTING AND PROJECTING DATA LAYERS."
 authors: "Gumbricht, T."
 layout: pdfpage
-categories: training
+categories: assignment
 doctype: pdf
 source: '<i>ICRAF</i>, 2007, Nairobi, Kenya'
 pdf: ffs-lda-training-7_ICRAF_kenya_20071107_v1.pdf

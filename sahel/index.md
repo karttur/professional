@@ -75,7 +75,7 @@ My part in the project included development of land degradation monitoring from 
 ### Training lessons
 
 <ul class="post-list">
-{% for post in site.categories.training %}
+{% for post in site.categories.assignment %}
   {% if post.projectid == "sahel" %}
     {% include publication.html post=post %}
   {% endif %}

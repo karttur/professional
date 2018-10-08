@@ -2,7 +2,7 @@
 title: "Lesson 3 – Selecting features, labeling and designing maps."
 authors: "Gumbricht, T."
 layout: pdfpage
-categories: training
+categories: assignment
 doctype: pdf
 source: '<i>ICRAF</i>, 2008, Nairobi, Kenya'
 pdf: sahel-training-3_ICRAF_kenya_20080301_v1.pdf

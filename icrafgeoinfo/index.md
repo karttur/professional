@@ -23,7 +23,7 @@ Within the project I organized and led training workshops in Kenya, Tanzania, Za
 ### Training
 
 <ul class="post-list">
-{% for post in site.categories.training %}
+{% for post in site.categories.assignment %}
   {% if post.projectid == "tanganyika" %}
     {% include publication.html post=post %}
   {% endif %}

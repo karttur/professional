@@ -64,7 +64,7 @@ I also spent longer periods in Austria (International Institute for Applied Syst
 ### Training
 
 <ul class="post-list">
-{% for post in site.categories.training %}
+{% for post in site.categories.assignment %}
   {% if post.projectid == "kthinternational" %}
     {% include publication.html post=post %}
   {% endif %}

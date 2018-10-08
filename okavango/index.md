@@ -112,7 +112,7 @@ I worked with tourist industry in the Okavango, training the guides in the geolo
 ### Training
 
 <ul class="post-list">
-{% for post in site.categories.training %}
+{% for post in site.categories.assignment %}
   {% if post.projectid == "okavango" %}
     {% include publication.html post=post %}
   {% endif %}

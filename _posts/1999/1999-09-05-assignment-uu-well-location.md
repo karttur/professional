@@ -2,7 +2,7 @@
 title: "LOCALISATION OF WELLS BASED ON GEOGRAPHIC AND ATTRIBUTE CRITERIA"
 authors: "Gumbricht, T."
 layout: pdfpage
-categories: trainingexercise
+categories: assignment
 doctype: pdf
 source: '<i>Uppsala University</i>, 1999, Uppsala, Sweden'
 pdf: exercise_uu_well-location_1999.pdf

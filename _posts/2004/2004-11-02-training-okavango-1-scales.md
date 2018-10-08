@@ -2,7 +2,7 @@
 title: "Maps and Images in different scales and resolution."
 authors: "Gumbricht, T."
 layout: pdfpage
-categories: training
+categories: assignment
 doctype: pdf
 source: '<i>Karttur</i>, November 2004, Maun, Botswana'
 pdf: Okavango-gis-ex02_OWS_maun_20041102.pdf

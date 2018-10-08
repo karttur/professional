@@ -2,7 +2,7 @@
 title: "IDRISI GIS PROJECT - LOCATING SUITABLE WELL AREAS IN THE MANAGUA AQUIFER"
 authors: "Gumbricht, T."
 layout: pdfpage
-categories: trainingproj
+categories: pblproject
 doctype: pdf
 source: '<i>Uppsala University</i>, 1999, Uppsala, Sweden'
 pdf: managua-aquifer-proj_uu_ni_1999_tg.pdf

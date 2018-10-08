@@ -21,7 +21,7 @@ Using Farmer Field Schools Approaches to Overcome Land Degradation in Agro-Pasto
 ### Training lessons
 
 <ul class="post-list">
-{% for post in site.categories.training %}
+{% for post in site.categories.assignment %}
   {% if post.projectid == "kenya-ffs" %}
     {% include publication.html post=post %}
   {% endif %}

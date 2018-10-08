@@ -11,7 +11,7 @@ The training projects were used as pedagogic vehicles in the courses I held both
 The projects below were the last generation of projects that I developed for the EESI programs at KTH and then also used at UU.
 
 <ul class="post-list">
-  {% for post in site.categories.trainingproj %}
+  {% for post in site.categories.pblproject %}
     <li><article>
     {% if post.authors %}
       <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},

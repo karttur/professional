@@ -2,7 +2,7 @@
 title: "Lesson 9 – Decision support for identifying landscape erosion risk."
 authors: "Gumbricht, T."
 layout: pdfpage
-categories: training
+categories: assignment
 doctype: pdf
 source: '<i>ICRAF</i>, October 2010, Nairobi, Kenya'
 pdf: Laketanganyika-gis-ex09_LTRIMP_nairobi_20101001.pdf

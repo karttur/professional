@@ -13,7 +13,7 @@ This page is under construction but some of the material from my period in Uppsa
 ### Training projects
 
 <ul class="post-list">
-{% for post in site.categories.trainingproj %}
+{% for post in site.categories.pblproject %}
   {% include publication.html post=post %}    
 {% endfor %}
 </ul>

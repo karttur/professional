@@ -2,7 +2,7 @@
 title: "Introduction to GIS and Digital Cartography using ArcExplorer"
 authors: "Gumbricht, T."
 layout: pdfpage
-categories: training
+categories: assignment
 projectid: relma
 doctype: pdf
 source: '<i>RELMA</i>, 2003, Nairobi, Kenya'

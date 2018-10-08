@@ -25,7 +25,7 @@ But I had met the mother of my daughter in Entebbe, so I accepted the very econo
 ### Training
 
 <ul class="post-list">
-{% for post in site.categories.training %}
+{% for post in site.categories.assignment %}
   {% if post.projectid == "icrafentebbe" %}
     {% include publication.html post=post %}
   {% endif %}
