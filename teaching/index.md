@@ -17,34 +17,9 @@ I do not really like powerpoint (or keynote as I am a mac user). I prefer blackb
 <h1 class='foot-description'></h1>
 <h1 class='foot-description'>Exercises</h1>
 
-<a href="http://www.karttur.com/private/teaching/index.htm">
-Please use this link to get a page that contains a list of exercises that I developed for teaching spatial data processing and analysis. Each exercise is available as a pdf file. Some of the exercises are in Swedish and some in English. The latter include exercises specifically developed for different professional groups in Africa.
-</a>
+[link to page with lectures as pdf documents](../assignment)
 
-<ul class="post-list">
-{% for post in site.categories.exercises %}
-  <li><article>
-  {% if post.authors %}
-    <span style="font-size: 80%; display: block;">{{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
-  {% if post.source %}
-  {% if post.pageurl %}
-    <a href="{{ post.pageurl }}">
-    {{ post.source }}
-    </a>
-   {% else %}
-   {{ post.source }}
-   {% endif %}
-  {% endif %}
-  (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>).
-  </span>
-  {% endif %}
-  <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-  </article></li>
-  {% endfor %}
-</ul>
-
-<h1 class='foot-description'></h1>
-<h1 class='foot-description'>Teaching projects</h1>
+[Link to old page with lectures](http://www.karttur.com/private/teaching/index.htm)
 
 ## Training projects
 
