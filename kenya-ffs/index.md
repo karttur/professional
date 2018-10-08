@@ -8,7 +8,8 @@ share: true
 
 Using Farmer Field Schools Approaches to Overcome Land Degradation in Agro-Pastoral Areas of Kenya. Land degradation assessment – Baseline survey on spatial analysis of land cover / degradation trends and Toolkit Development.
 
-### Report
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Report</h1>
 
 <ul class="post-list">
 {% for post in site.categories.report %}
@@ -18,7 +19,8 @@ Using Farmer Field Schools Approaches to Overcome Land Degradation in Agro-Pasto
 {% endfor %}
 </ul>
 
-### Training lessons
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Training</h1>
 
 <ul class="post-list">
 {% for post in site.categories.assignment %}
