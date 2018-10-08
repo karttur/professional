@@ -3,7 +3,7 @@ title: "West Africa Sahel: Changing Landscapes"
 authors: "Gumbricht, T."
 layout: pdfpage
 categories: talk
-doctype: pdf
+pageurl: '#'
 source: '<i>ICRAF</i>, March 2008, Segou, Mali'
 figure: sahel_atlas_segou_2008_tg
 pdf: sahel_atlas_segou_2008_tg.pdf

@@ -40,16 +40,6 @@ I have worked for SWAMP (TWINCAMP) as an independent researcher since 2012, focu
 {% endfor %}  
 </ul>
 
-### Conference Processedings
-
-<ul class="post-list">
-{% for post in site.categories.conference %}
-  {% if post.projectid == "swamp" %}
-    {% include publication.html post=post %}
-  {% endif %}
-{% endfor %}  
-</ul>
-
 ### Presentations
 
 <ul class="post-list">

@@ -16,4 +16,5 @@ pages:
 number:
 issue:
 editor:
+access: 'pdfaccess'
 ---

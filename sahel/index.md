@@ -9,7 +9,7 @@ share: true
 
 An Ecosystem Approach to Restoring West African Drylands and Improving Livelihoods through Agroforestry-based Land Management Interventions. A United Nations Environment Programme (UNEP) project conducted in partnership with the World Agroforestry Centre (ICRAF), the Centre for Environmental Policy of the University of Florida, and the Governments of Burkina Faso, Mali, Mauritania, Niger and Senegal. Project funded by the Government of Norway.
 
-My part in the project included development of land degradation monitoring from time series of satellite images, general landscape mapping and historical climate change analysis.
+My part in the project included development of land degradation monitoring from time series of satellite images, general landscape mapping and historical climate change analysis. 
 
 ### Journal articles
 
