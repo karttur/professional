@@ -17,19 +17,23 @@ While at UU I was responsible for the following courses:
 - __Distributed modelling with GIS__, course for civil engineering students
 - __Geography C, methods and GIS__, basic course in GIS for geography students
 
+The lectures that I created were analogue, course assignments and projects, however, were created as digital documents.
+
 An older version of the assignments and projects is available [here](http://www.karttur.com/private/teaching/index.htm).
 
-### Training assignments
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Training assignments</h1>
 
 <ul class="post-list">
-{% for post in site.categories.assignemnt %}
+{% for post in site.categories.assignment %}
   {% if post.projectid == "uu" %}
     {% include publication.html post=post %}
   {% endif %}
 {% endfor %}
 </ul>
 
-### Training projects
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Training projects</h1>
 
 <ul class="post-list">
 {% for post in site.categories.pblproject %}
