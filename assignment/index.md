@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Training exercises
+title: Training assignments
 excerpt: "Archive of training exercises"
 search_omit: true
 share: true
@@ -27,7 +27,7 @@ Training assignments that I developed. Starting from my period at Uppsala Univer
 ### Uppsala University
 
 <ul class="post-list">
-{% for post in site.categories.assignemnt %}
+{% for post in site.categories.assignment %}
   {% if post.projectid == "uu" %}
     {% include publication.html post=post %}
   {% endif %}
