@@ -21,7 +21,8 @@ My knowledge in Spanish led to shorter projects in Nicaragua (protecting the Man
 
 I also spent longer periods in Austria (International Institute for Applied Systems Analysis - IIASA, studying ocean biota and climate change) Ireland (University college Galway studying hydrology), New Zealand (studying wetlands for waste water treatment) and Germany (TU Berlin, studying landscape ecology).
 
-### Journal articles
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Journal articles</h1>
 
 <ul class="post-list">
 {% for post in site.categories.journal %}
@@ -31,7 +32,8 @@ I also spent longer periods in Austria (International Institute for Applied Syst
 {% endfor %}  
 </ul>
 
-### Refereed chapters
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Book chapters</h1>
 
 <ul class="post-list">
 {% for post in site.categories.refereechapter %}
@@ -41,7 +43,8 @@ I also spent longer periods in Austria (International Institute for Applied Syst
 {% endfor %}  
 </ul>
 
-### Reports
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Reports</h1>
 
 <ul class="post-list">
 {% for post in site.categories.report %}
@@ -51,7 +54,8 @@ I also spent longer periods in Austria (International Institute for Applied Syst
 {% endfor %}  
 </ul>
 
-### Conference proceedings
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Conference proceedings</h1>
 
 <ul class="post-list">
 {% for post in site.categories.conference %}
@@ -61,7 +65,8 @@ I also spent longer periods in Austria (International Institute for Applied Syst
 {% endfor %}  
 </ul>
 
-### Training
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Training</h1>
 
 <ul class="post-list">
 {% for post in site.categories.assignment %}
@@ -71,6 +76,7 @@ I also spent longer periods in Austria (International Institute for Applied Syst
 {% endfor %}  
 </ul>
 
-### Images
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Images</h1>
 
 Not yet available

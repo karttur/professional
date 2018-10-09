@@ -8,7 +8,8 @@ share: true
 
 My PhD project "Modelling water and vegetation reciprocity - a landscape synthesis in GIS" is based on the results of several studies relating landscape patterns and processes. Some of the studies are explicitly included in the PhD thesis report, whereas others are only used as background material.
 
-### PhD thesis
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>PhD thesis</h1>
 
 <ul class="post-list">
 {% for post in site.categories.report %}
@@ -18,7 +19,8 @@ My PhD project "Modelling water and vegetation reciprocity - a landscape synthes
 {% endfor %}
 </ul>
 
-### Journal articles
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Journal articles</h1>
 
 <ul class="post-list">
 {% for post in site.categories.journal %}
@@ -34,7 +36,8 @@ My PhD project "Modelling water and vegetation reciprocity - a landscape synthes
 {% endfor %}
 </ul>
 
-### Refereed chapters
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Book chapters</h1>
 
 <ul class="post-list">
 {% for post in site.categories.refereechapter %}
@@ -50,7 +53,8 @@ My PhD project "Modelling water and vegetation reciprocity - a landscape synthes
 {% endfor %}
 </ul>
 
-### Conference proceedings
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Conference proceedings</h1>
 
 <ul class="post-list">
 {% for post in site.categories.conference %}
@@ -66,14 +70,14 @@ My PhD project "Modelling water and vegetation reciprocity - a landscape synthes
 {% endfor %}
 </ul>
 
-### Images
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Images</h1>
 
 Not yet available
 
 <ul class="post-list">
 {% for post in site.categories.images %}
   {% if post.projectid == "phd" %}
-
   {% endif %}
 {% endfor %}
 </ul>

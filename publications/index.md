@@ -7,7 +7,8 @@ share: true
 ---
 Click on source (or icon) to get online pdf versions (articles with no icon are not available online), or click the title to see the complete reference and abstract.
 
-### Journal articles
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Journal articles</h1>
 
 <ul class="post-list">
 {% for post in site.categories.journal %}
@@ -15,7 +16,8 @@ Click on source (or icon) to get online pdf versions (articles with no icon are 
 {% endfor %}  
 </ul>
 
-### Atlas
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Atlas</h1>
 
 <ul class="post-list">
 {% for post in site.categories.atlas %}
@@ -23,7 +25,8 @@ Click on source (or icon) to get online pdf versions (articles with no icon are 
 {% endfor %}  
 </ul>
 
-### Book chapters
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Book chapters</h1>
 
 <ul class="post-list">
 {% for post in site.categories.refereechapter %}
@@ -31,7 +34,8 @@ Click on source (or icon) to get online pdf versions (articles with no icon are 
 {% endfor %}  
 </ul>
 
-### Scientific reports
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>JScientific reports</h1>
 
 <ul class="post-list">
 {% for post in site.categories.report %}
@@ -39,7 +43,8 @@ Click on source (or icon) to get online pdf versions (articles with no icon are 
 {% endfor %}  
 </ul>
 
-### Conference proceedings
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Conference proceedings</h1>
 
 <ul class="post-list">
 {% for post in site.categories.conference %}
@@ -47,7 +52,8 @@ Click on source (or icon) to get online pdf versions (articles with no icon are 
 {% endfor %}  
 </ul>
 
-### Popular
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Popular</h1>
 
 <ul class="post-list">
 {% for post in site.categories.popular %}
