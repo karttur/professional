@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Course Evaluations
+title: Course Compendiums
 excerpt: "Various course compendiums from KTH and UU"
 search_omit: true
 share: true

@@ -16,11 +16,11 @@ I do not really like powerpoint (or keynote as I am a mac user). I prefer blackb
 [Link to old page with lectures](http://www.karttur.com/private/teaching/index.htm)
 
 <h1 class='foot-description'></h1>
-<h1 class='foot-description'>Exercises</h1>
+<h1 class='foot-description'>Assignments</h1>
 
 [link to page with lectures as pdf documents](../assignment)
 
-[Link to old page with lectures](http://www.karttur.com/private/teaching/index.htm)
+[Link to old page with assignments](http://www.karttur.com/private/teaching/index.htm)
 
 <h1 class='foot-description'></h1>
 <h1 class='foot-description'>Projects</h1>
@@ -47,7 +47,7 @@ I do not really like powerpoint (or keynote as I am a mac user). I prefer blackb
 <h1 class='foot-description'></h1>
 <h1 class='foot-description'>Student reports</h1>
 
-[Link to student course reports from KTH ](../courseprojects).
+[Link to student course reports from KTH ](../studentprojects).
 
 <h1 class='foot-description'></h1>
 <h1 class='foot-description'>Didactic approach</h1>

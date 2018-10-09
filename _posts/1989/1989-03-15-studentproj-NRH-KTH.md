@@ -2,7 +2,7 @@
 title: "Projekt i kursen Naturresurshushållning våren 1989, Haninge kommun"
 authors: "Naturresurshushållning"
 layout: pdfpage
-categories: courseproject
+categories: studentproject
 doctype: pdf
 source: 'KTH'
 pdf: course-projects_KTH_NRH_1989.pdf
