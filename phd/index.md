@@ -6,7 +6,7 @@ search_omit: true
 share: true
 ---
 
-My PhD project "Modelling water and vegetation reciprocity - a landscape synthesis in GIS" is based on the results of several studies relating landscape patterns and processes. Some of the studies are explicitly included in the PhD thesis report, whereas others are only used as background material.
+My PhD project "Modelling water and vegetation reciprocity - a landscape synthesis in GIS" is based on the results of several studies relating landscape patterns and processes. Some of the studies are explicitly included in the PhD thesis report, whereas others were only used as background material.
 
 <h1 class='foot-description'></h1>
 <h1 class='foot-description'>PhD thesis</h1>
