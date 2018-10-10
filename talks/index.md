@@ -9,7 +9,8 @@ share: true
 
 All presentations are available as pdf files (talks) or jgp images (posters). Click on the title to get to the page where you can read or download the source file.
 
-### Talks
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Talks</h1>
 
 <ul class="post-list">
 {% for post in site.categories.talk %}
@@ -17,7 +18,8 @@ All presentations are available as pdf files (talks) or jgp images (posters). Cl
 {% endfor %}
 </ul>
 
-### Posters
+<h1 class='foot-description'></h1>
+<h1 class='foot-description'>Posters</h1>
 
 <ul class="post-list">
 {% for post in site.categories.poster %}
