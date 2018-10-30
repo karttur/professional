@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Projects and tasks
+title: Projects and undertakings
 excerpt: "Archive of projects"
 search_omit: true
 share: true
