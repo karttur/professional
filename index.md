@@ -8,7 +8,9 @@ share: true
 
 <h1 class='foot-description'>Professional pages</h1>
 
-I am a scientist focusing on natural resources modeling, mapping, monitoring and management using spatial data. I have deep knowledge in hydrology, wetlands, agroforestry, forestry, systems ecology, spatial data processing, remote sensing, geoinformatics and web map building. I have worked 15 years at different universities (Sweden and South Africa), and 15 years for UN-related research organizations in Africa and Asia.
+I am a scientist focusing on natural resources modeling, mapping, monitoring and management using spatial data. To do that I have created my own Big Spatial Data processing framework, available via my [GeoImagine GitHub pages](https://karttur.github.io/geoimagine/)
+
+I have deep knowledge in hydrology, wetlands, agroforestry, forestry, systems ecology, spatial data processing, remote sensing, geoinformatics and web map building. I have worked 15 years at different universities (Sweden and South Africa), and 15 years for UN-related research organizations in Africa and Asia.
 
 I speak Swedish, English and German fluently, and can manage in French and Spanish (after a week or two). I am also fluent in several programming languages, especially related to spatial data processing.
 
