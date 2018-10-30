@@ -1,12 +1,12 @@
 ---
 layout: resume
 title: International studies and assignments
-excerpt: "International studies and assignments during my doctoral studies (before moving to Africa in 1999)."
+excerpt: "International studies and assignments during my doctoral studies."
 search_omit: true
 share: true
 ---
 
-International studies and assignments during my doctoral studies (before moving to Africa in 1999)
+International studies and assignments during my doctoral studies.
 
 <ul class="post-list">
   {% for post in site.categories.expedition %}
