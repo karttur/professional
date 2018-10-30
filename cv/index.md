@@ -33,7 +33,7 @@ I have 15 years of teaching experience from Swedish Universities, in natural res
 
 I have deep knowledge in geoinformatics, remote sensing, spatial data processing, web map building agroforestry, forestry, hydrology, wetlands and systems ecology.
 
-I speak Swedish, English and German fluently, and can manage in French and Spanish (after a week or two). I am also fluent in several programming languages, especially related to spatial data processing. Over the past years I have mostly turned away from standard packages of Geographical Information Systems (GIS) and instead relied on Python (programming language) and the Geographical Data Abstraction Library (GDAL). I can thus set up processes and processing chains that are practically impossible to create with commercial packages. This has allowed me to set up my own [Big Spatal Data proessing framework, avalailable online through GitHub](https://karttur.github.io/geoimagine/)
+I speak Swedish, English and German fluently, and can manage in French and Spanish (after a week or two). I am also fluent in several programming languages, especially related to spatial data processing. Over the past years I have mostly turned away from standard packages of Geographical Information Systems (GIS) and instead relied on Python (programming language) and the Geographical Data Abstraction Library (GDAL). I can thus set up processes and processing chains that are practically impossible to create with commercial packages. This has allowed me to set up my own [Big Spatal Data processing framework, available online through Karttur´s GEoImagine pages on GitHub](https://karttur.github.io/geoimagine/)
 
 <h1 class='foot-description'>Degrees</h1>
 
