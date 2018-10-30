@@ -38,7 +38,7 @@ I speak Swedish, English and German fluently, and can manage in French and Spani
 <h1 class='foot-description'>Degrees</h1>
 
 - 1996, [PhD, Land Improvement and Drainage, KTH, Stockholm, Sweden.](../certificate/certificate-phd/)
-- 1991, [MSc (Tekn Lic), Land Improvement and Drainage, KTH, Stockholm, Sweden.]((../certificate/certificate-teknlic/))
+- 1991, [MSc (Tekn Lic), Land Improvement and Drainage, KTH, Stockholm, Sweden.](../certificate/certificate-teknlic/)
 - 1984, [BSc, Natural Resources Management, Kalmar University College, Sweden.](../certificate/certificate-BSc-HiK/)
 
 <h1 class='foot-description'>Additionally completed university courses</h1>
