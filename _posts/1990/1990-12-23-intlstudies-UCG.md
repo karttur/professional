@@ -2,7 +2,7 @@
 title: "University College Galway, Department of Engineering Hydrology, Ireland"
 authors: "Gumbricht, T."
 layout: none
-categories: intlstudies
+categories: expedition
 doctype: none
 source: 'University College Galway, Department of Engineering Hydrology'
 date: 1990-12-23

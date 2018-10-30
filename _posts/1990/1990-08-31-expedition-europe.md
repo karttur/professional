@@ -3,7 +3,6 @@ title: "European water management strategies"
 authors: "Gumbricht, T."
 layout: none
 categories: expedition
-doctype: pdf
 source: 'European water management strategies'
 pageurl: '#'
 date: 1990-08-31

@@ -3,7 +3,6 @@ title: "Participation in IIASA YSSP"
 authors: "Gumbricht, T."
 layout: none
 categories: expedition
-doctype: pdf
 source: 'International Institute for Applied Systems Analysis (IIASA), Young Scientists´ Summer Program (YSSP)'
 pageurl: '#'
 date: 1989-08-31
