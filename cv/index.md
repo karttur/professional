@@ -37,17 +37,17 @@ I speak Swedish, English and German fluently, and can manage in French and Spani
 
 <h1 class='foot-description'>Degrees</h1>
 
-- 1996, PhD, Land Improvement and Drainage, KTH, Stockholm, Sweden.
-- 1991, MSc (Tekn Lic), Land Improvement and Drainage, KTH, Stockholm, Sweden.
-- 1984, BSc, Natural Resources Management, Kalmar University College, Sweden.
+- 1996, [PhD, Land Improvement and Drainage, KTH, Stockholm, Sweden.](../certificate/certificate-phd/)
+- 1991, [MSc (Tekn Lic), Land Improvement and Drainage, KTH, Stockholm, Sweden.]((../certificate/certificate-teknlic/))
+- 1984, [BSc, Natural Resources Management, Kalmar University College, Sweden.](../certificate/certificate-BSc-HiK/)
 
 <h1 class='foot-description'>Additionally completed university courses</h1>
 - 2006, Web-programming, Stockholm University, Sweden.
-- 2002, Pathology, Karolinska Institute, Stockholm, Sweden
-- 2002, Physiology, Karolinska Institute, Stockholm, Sweden.
-- 2002, Environmental medicine, Karolinska Institute, Stockholm, Sweden.
-- 1989, Introductory law studies, Stockholm University, Sweden.
-- 1986, Business administration, Kalmar University College, Sweden.
+- 2002, [Pathology, Karolinska Institute, Stockholm, Sweden.](../certificate/certificate-KI-courses)
+- 2002, [Physiology, Karolinska Institute, Stockholm, Sweden.](../certificate/certificate-KI-courses)
+- 2002, [Environmental medicine, Karolinska Institute, Stockholm, Sweden.](../certificate/certificate-KI-courses)
+- 1989, [Introductory law studies, Stockholm University, Sweden.](../certificate/certificate-juridik-SU)
+- 1986, [Business administration, Kalmar University College, Sweden.](../certificate/ccertificate-ekonomi-HiK)
 
 
 <h1 class='foot-description'>Employment</h1>
