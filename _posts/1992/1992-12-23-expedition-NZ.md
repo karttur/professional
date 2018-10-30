@@ -2,7 +2,7 @@
 title: "National Institute for Water and Atmospheric Research (NIWA), New Zealand"
 authors: "Gumbricht, T."
 layout: none
-categories: intlstudies
+categories: expedition
 doctype: none
 source: 'National Institute for Water and Atmospheric Research'
 date: 1992-12-23

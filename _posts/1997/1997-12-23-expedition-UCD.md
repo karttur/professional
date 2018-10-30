@@ -2,7 +2,7 @@
 title: "University College Dublin, Ireland"
 authors: "Gumbricht, T."
 layout: none
-categories: intlstudies
+categories: expedition
 doctype: none
 source: 'University College Dublin, centre for water resources research, Ireland'
 date: 1997-12-23
