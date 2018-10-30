@@ -2,7 +2,7 @@
 title: "International Institute for Applied Systems Analysis (IIASA), Austria"
 authors: "Gumbricht, T."
 layout: none
-categories: intlstudies
+categories: expedition
 doctype: none
 source: 'International Institute for Applied Systems Analysis (IIASA), Young Scientists´ Summer Program (YSSP)'
 date: 1989-08-31
