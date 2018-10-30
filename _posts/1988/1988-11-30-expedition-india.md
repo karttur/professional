@@ -1,11 +1,10 @@
 ---
-title: "Study trip to indicating"
+title: "Study trip to India"
 authors: "Gumbricht, T."
-layout: resume
+layout: none
 categories: expedition
 doctype: pdf
 source: 'International Institute for Applied Systems Analysis (IIASA), Young Scientists´ Summer Program (YSSP)'
-pdf: particiaption_IIASA-YSSP_1989.pdf
 pageurl: '#'
 date: 1988-11-30
 projectid:

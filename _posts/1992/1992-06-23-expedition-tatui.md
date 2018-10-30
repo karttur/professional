@@ -2,7 +2,7 @@
 title: "Tatui, Brazil"
 authors: "Gumbricht, T."
 layout: none
-categories: intlstudies
+categories: expedition
 doctype: none
 source: 'Tatui, Brazil'
 date: 1992-06-23

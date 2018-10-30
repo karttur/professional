@@ -1,7 +1,7 @@
 ---
 title: "European water management strategies"
 authors: "Gumbricht, T."
-layout: resume
+layout: none
 categories: expedition
 doctype: pdf
 source: 'European water management strategies'

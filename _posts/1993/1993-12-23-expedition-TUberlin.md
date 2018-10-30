@@ -2,7 +2,7 @@
 title: "Technical University Berlin (TUB), Germany"
 authors: "Gumbricht, T."
 layout: none
-categories: intlstudies
+categories: expedition
 doctype: none
 source: 'Technical University Berlin (TUB), Germany'
 date: 1993-12-23

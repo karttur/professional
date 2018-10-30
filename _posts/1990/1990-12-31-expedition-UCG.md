@@ -1,7 +1,7 @@
 ---
 title: "Doctorare studies at University College Galway, Ireland"
 authors: "Gumbricht, T."
-layout: resume
+layout: none
 categories: expedition
 doctype: pdf
 source: 'University College Galway, Ireland'

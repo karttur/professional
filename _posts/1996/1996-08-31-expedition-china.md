@@ -1,7 +1,7 @@
 ---
 title: "Chinese water managment"
 authors: "Gumbricht, T."
-layout: resume
+layout: none
 categories: expedition
 doctype: pdf
 source: 'Chinese water management'
