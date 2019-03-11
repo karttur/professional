@@ -1,22 +1,19 @@
 ---
 title: "Nested scales of life supporting processes and human justice."
 authors: "Gumbricht, T."
-layout: resume
+layout: pdfpage
+pdf: conf-sthlwater97_nested-scales
 categories: conference
 doctype: none
-source: '<i>Stockholm Water Symposium</i> (pp. 181–183)'
-
+source: '<i>Stockholm Water Symposium</i> : With Rivers to the Sea'
 date: 1997-07-01
 projectid: phd
 location:
 pattern:
 process:
-pages:
+pages: 181–183
 number:
 issue:
 editor:
+place: Stockholm: Stockholm International Water Institute
 ---
-
-Gumbricht, T. (1997). Nested scales of life supporting processes and human justice. In Stockholm Water Symposium: With Rivers to the Sea (pp. 181–183). Stockholm: Stockholm International Water Institute.
-
-<h1 class='foot-description'>Abstract</h1>

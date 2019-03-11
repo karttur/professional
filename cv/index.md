@@ -11,21 +11,21 @@ share: true
 - Name: Thomas Gumbricht
 - Address: Birger Jarlsgatan 102b, 3tr Postal address: 11420 Stockholm, Sweden
 - Tel: +46(0)8-166002
-- Mobile: +46(0)725140003
+- Mobile: +46(0)763057701
 - Email: thomas.gumbricht@gmail.com
 - Date of birth: 22 January 1961
 
 <h1 class='foot-description'>Résumé</h1>
 
-I am a scientist at present working from a private base in Stockholm. My focus is primarily on developing novel methods for mapping and monitoring natural resources using remote sensing in combination with other spatial data. I combine the data by either using machine learning or expert systems with knowledge inferred rules. I believe that the later allows me to develop better hypothesis and also creates more transparent models compared to solely relying on machine learning and remote sensing data. But for some tasks machine learning is superior, as long as you do not get seduced by it.
+I am a scientist at present working partly from a private base and partly for Stockholm University. My focus is primarily on developing novel methods for mapping and monitoring natural resources using remote sensing in combination with other spatial data. I combine the data by either using machine learning or expert systems with knowledge inferred rules. I believe that the later allows me to develop better hypothesis and also creates more transparent models compared to solely relying on machine learning and remote sensing data. But for some tasks machine learning is superior, as long as you do not get seduced by it.
 
 The map inventories and detected changes and dynamics are interesting in themselves, but using the results for modelling and managing natural resources has become a prerequisite for sustainable use of the Earth´s limited resources. I have hence chosen to devote many years to teaching and disseminating both research methods and research results. As a university lecturer and as a researcher within the Consultative Group for International Agricultural Research (CGIAR).
 
 I have lived 10 years in Africa, working as a scientist in South Africa (Johannesburg), Uganda (Entebbe) and Kenya (Nairobi). In 1999 I visited Africa for the first time, and fell for the Okavango Delta in Botswana (a huge inlands wetland and one of the most wild and pristine areas in Africa). This led me to quit my career as a lecturer/scientist in Sweden and take up a post-doc position at University of the Witwatersrand (Johannesburg). The research was great, and the field trips to Okavango even better. I also worked with the tourist industry, training the guides and creating information platforms. I then got a position with ICRAF (World Agroforestry Centre) and moved to Uganda in 2002. I set up a new office in Entebbe, focusing on research and development related to Lake Victoria and the Nile Basin.
 
-I also met my former spouse in Entebbe, and we moved back to Sweden when our daughter was borne in 2005. For 4 years I worked half time as a consulting scientist for ICRAF, and half time as a senior lecturer at the Royal Institute of Technology (KTH) in Stockholm. But Africa pulled us back, in 2009 the family moved to Nairobi, Kenya, and I started working for ICRAF full time again. The first year I worked mainly on development projects relating to climate and land degradation, and then set up and headed the Geoinformatics unit at ICRAF.
+For famiiy reasons I moved back to Sweden in 2005 but continued working for ICRAF as a consulting scientist for ICRAF while also taing up a half time position as senior lecturer at the Royal Institute of Technology (KTH) in Stockholm. But Africa pulled us back, in 2009 the family moved to Nairobi, Kenya, and I started working for ICRAF full time again. The first year I worked mainly on development projects relating to climate and land degradation, and then set up and headed the Geoinformatics unit at ICRAF.
 
-In early 2012 we moved back to Sweden, mainly for reasons of education for my family members. I am still mostly working as a consulting scientist for ICRAF and other international research organizations, but also pursuing my own research, including hardware and software development.
+In early 2012 we moved back to Sweden, mainly for reasons of education for my family members. I am still mostly working as a consulting scientist for ICRAF and other international research organizations, but also pursuing my own research, including hardware and software development. Since July 2018 I also work part time for Stockholm University developing multi-source mapping methods for Arctic wetlands and peatlands.
 
 Throughout my career my research has centered around applied geoinformatics, thematically ranging from hydrological modeling, mapping and monitoring of soil, water and vegetation, and ecosystem patterns and process.
 
@@ -51,7 +51,8 @@ I speak Swedish, English and German fluently, and can manage in French and Spani
 
 
 <h1 class='foot-description'>Employment</h1>
-- Scientist, self employed (Karttur AB) January 2012 – Present (6 years), Stockholm, Sweden. Development of remote sensing and geoinformatics algorithms for mapping and monitoring natural resources. Global mapping of wetlands, soils and vegetation. Development of open source web systems for geoinformatics data presentation and processing.
+- Researcher, Geoinformatics, Stockholm University, July 2018 - Present. Multi-source mapping of global Arctic wetlands.
+- Scientist, self employed (Karttur AB) January 2012 – Present (7 years), Stockholm, Sweden. Development of remote sensing and geoinformatics algorithms for mapping and monitoring natural resources. Global mapping of wetlands, soils and vegetation. Development of open source web systems for geoinformatics data presentation and processing.
 - Senior Scientist, Geoinformatics, World Agroforestry Centre (ICRAF), May 2009 – December 2011 (2 years 8 months), Nairobi, Kenya. Land health (soil, water, vegetation) mapping and monitoring (local to global scale). Development of automated processing chains (work flows) for spatial data processing. Development of novel approaches for mapping land health from remote sensing and other spatial data. Formed and launched the ICRAF geoinformatics unit.
 - Senior Lecturer, Geoinformatics , KTH, August 2005 – April 2009 (3 years 9 months), Stockholm, Sweden. Half time position (other half spent as research consultant). Spatial data visualization and geoinformatics, web server development. Lecturing and supervision at graduate and post-graduate levels. Research on spatial mapping and monitoring of environmental resources and urban areas.
 - Research consultant, personal company, Geofyskonsult, April 2005 – April 2009 (4 years 1 month). Stockholm, Sweden. Research consultant for the World Agroforestry Centre in Nairobi, Kenya. Land health (soil, water, vegetation) mapping and monitoring (local to global scale). Field work in Africa and development of a soil information system.

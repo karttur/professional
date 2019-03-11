@@ -2,6 +2,7 @@
 title: "Water resources management in Germany – with examples from Niedersachsen."
 authors: "Gumbricht, T."
 layout: doipage
+pdf: journal_vatten_1991_47_212.pdf
 categories: journal
 source: Vatten
 date: 1991-09-01
@@ -14,9 +15,5 @@ pages: 212-216
 number: 47
 issue:
 editor:
-access: 'closed'
+access: 'pdfaccess'
 ---
-
-Gumbricht, T., 1991. Vattenförvaltning i Tyskland - med exempel från Niedersachsen. Vatten, 47: 212-216. (Water resources management in Germany – with examples from Niedersachsen – with English summary).
-
-<h1 class='foot-description'>Abstract</h1>
