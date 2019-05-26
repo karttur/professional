@@ -87,8 +87,7 @@
 
 </head>
 
-<body id="post">
-
+<body id="page">
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
 	    <ul>
@@ -110,6 +109,9 @@
 		  
 		    
 		    <li><a href="http://localhost:4000/supervision/" >Supervision</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/certificates/" >Certificates</a></li>
 		  
 		    
 		    <li><a href="http://localhost:4000/talks/" >Talks/posters</a></li>
@@ -143,35 +145,41 @@
 
 <div class="js-menu-screen menu-screen"></div>
 
-
 <div id="main" role="main">
-  <article class="hentry">
+  <article class="entry">
     <div class="entry-wrapper">
       <header class="entry-header">
-        <ul class="entry-tags">
-          
-        </ul>
-
+        <h5>
+           The water organized landscape <br> 
+          <i>Geoinformatics</i> (pp. 262–267)
+        </h5>
       </header>
-
-      <footer class="entry-meta">
-        
-        
-          <img src="https://karttur.github.io/common/images/bio-photo.jpg" class="bio-photo" alt="Thomas Gumbricht bio photo"/>
-        
-        <span class="author vcard">By <span class="fn">Thomas Gumbricht</span></span>
-
-        
-        
-      </footer>
       <div class="entry-content">
+        <script>
+  function setIframeSrc() {
+    document.getElementById("pdfFrame").src = "http://docs.google.com/gview?url=https://karttur.github.io/common/pdf/&embedded=true";
+  }
+</script>
+
+<a></a>
+<button onclick="setIframeSrc()"><span
+ style="text-decoration:underline;">Load pdf in frame</span></button> or
+<a style="text-decoration:underline;" href="https://karttur.github.io/common/pdf/">
+  go to the pdf
+</a> (or right click the latter and 'Save Link As ...').
+
+<figure>
+  <iframe id="pdfFrame"
+    style="width:720px; height:576px;" frameborder="1">
+  </iframe>
+</figure>
+
         <p>Mccarthy, J., &amp; Gumbricht, T. (1996). Application of coupled GIS-models for integrated landscape management. In W. Guan, T. Lo, S.-L. Shaw, &amp; Q. Xhou (Eds.), Geoinformatics ’96 (pp. 262–267). West Palm Beach.</p>
 
 <h1 class="foot-description">Abstract</h1>
 
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
-
   </article>
 </div><!-- /#main -->
 
@@ -179,7 +187,7 @@
   <footer role="contentinfo" class="entry-wrapper">
     
 
-<span>&copy; 2018 Thomas Gumbricht. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/so-simple-jekyll-theme/" rel="nofollow">So Simple Theme</a>.</span>
+<span>&copy; 2019 Thomas Gumbricht. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/so-simple-jekyll-theme/" rel="nofollow">So Simple Theme</a>.</span>
 
 <div class="social-icons">
 	

@@ -2,6 +2,22 @@
 
   
     {
+      "title"			: "Remote Sensing and Geospatial Innovations for Rice Based Agri-Food Systems",
+      "link"			: "http://localhost:4000/talk/talk-IRRI-job-interview/",
+      "excerpt"		: "talk-IRRI-job-interview"
+    }
+  
+
+  
+    ,{
+      "title"			: "Remote Sensing and Geospatial Innovations for Rice Based Agri-Food Systems",
+      "link"			: "http://localhost:4000/talk/movie-IRRI-job-interview/",
+      "excerpt"		: " Job interview talk at IRRI, Los Baños, the Philippines, May 2019 "
+    }
+  
+
+  
+    ,{
       "title"			: "Detecting Trends in Wetland Extent from MODIS Derived Soil Moisture Estimates.",
       "link"			: "http://localhost:4000/journal/journal-rs-soil-moisture/",
       "excerpt"		: ""
@@ -44,7 +60,7 @@
     ,{
       "title"			: "Soil Moisture Dynamics Estimated from MODIS Time Series Images.",
       "link"			: "http://localhost:4000/refereechapter/book-twi-timeseries/",
-      "excerpt"		: "Gumbricht, T. (2015). Soil Moisture Dynamics Estimated from MODIS Time Series Images. In Y. Ban (Ed.), Multitemporal Remote Sensing (pp. 233–253). Springer. DOI :10.1007/978-3-319- 47037-5_12."
+      "excerpt"		: ""
     }
   
 
@@ -60,7 +76,15 @@
     ,{
       "title"			: "Hybrid Mapping of pantropical wetlands from optical satellite images, hydrology and geomorphology.",
       "link"			: "http://localhost:4000/refereechapter/book-pantropical-wetlands/",
-      "excerpt"		: "Gumbricht, T. (2015). Hybrid Mapping of pantropical wetlands from optical satellite images, hydrology and geomorphology. In R. W. Tiner, M. W. Lang, &amp; V. Klemas (Eds.), Advances in Wetland Classification and Mapping (pp. 435–454). Boca Raton: CRC press; Taylor and Francis."
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Timber raft on the river Klarälven",
+      "link"			: "http://localhost:4000/certificate/certificate-timber-raft-klaraleven/",
+      "excerpt"		: ""
     }
   
 
@@ -100,6 +124,14 @@
     ,{
       "title"			: "Mapping global tropical wetlands",
       "link"			: "http://localhost:4000/talk/FAO-wetland-mapping/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "International Model for Policy Analysis of Agricultural Commodities and Trade (IMPACT)",
+      "link"			: "http://localhost:4000/project/project-impact/",
       "excerpt"		: ""
     }
   
@@ -163,7 +195,7 @@
   
     ,{
       "title"			: "Lesson 10 – Importing , exporting and projecting layers.",
-      "link"			: "http://localhost:4000/training/training-laketanganyika-10/",
+      "link"			: "http://localhost:4000/assignment/training-laketanganyika-10/",
       "excerpt"		: ""
     }
   
@@ -171,7 +203,7 @@
   
     ,{
       "title"			: "Lesson 9 – Decision support for identifying landscape erosion risk.",
-      "link"			: "http://localhost:4000/training/training-laketanganyika-9/",
+      "link"			: "http://localhost:4000/assignment/training-laketanganyika-9/",
       "excerpt"		: ""
     }
   
@@ -179,7 +211,7 @@
   
     ,{
       "title"			: "Lesson 8 – Present and future climate scenario, and modeling species suitability.",
-      "link"			: "http://localhost:4000/training/training-laketanganyika-8/",
+      "link"			: "http://localhost:4000/assignment/training-laketanganyika-8/",
       "excerpt"		: ""
     }
   
@@ -187,7 +219,7 @@
   
     ,{
       "title"			: "Lesson 7 – Generating slope data.",
-      "link"			: "http://localhost:4000/training/training-laketanganyika-7/",
+      "link"			: "http://localhost:4000/assignment/training-laketanganyika-7/",
       "excerpt"		: ""
     }
   
@@ -195,7 +227,7 @@
   
     ,{
       "title"			: "Lesson 6 – Rain Normalized NDVI and land degradation hotspots.",
-      "link"			: "http://localhost:4000/training/training-laketanganyika-6/",
+      "link"			: "http://localhost:4000/assignment/training-laketanganyika-6/",
       "excerpt"		: ""
     }
   
@@ -203,7 +235,7 @@
   
     ,{
       "title"			: "Lesson 5 – Vegetation and time series data.",
-      "link"			: "http://localhost:4000/training/training-laketanganyika-5/",
+      "link"			: "http://localhost:4000/assignment/training-laketanganyika-5/",
       "excerpt"		: ""
     }
   
@@ -211,7 +243,7 @@
   
     ,{
       "title"			: "Lesson 4 – Grid/raster data.",
-      "link"			: "http://localhost:4000/training/training-laketanganyika-4/",
+      "link"			: "http://localhost:4000/assignment/training-laketanganyika-4/",
       "excerpt"		: ""
     }
   
@@ -219,7 +251,7 @@
   
     ,{
       "title"			: "Lesson 3 – Selecting features, labeling and designing maps.",
-      "link"			: "http://localhost:4000/training/training-laketanganyika-3/",
+      "link"			: "http://localhost:4000/assignment/training-laketanganyika-3/",
       "excerpt"		: ""
     }
   
@@ -227,7 +259,7 @@
   
     ,{
       "title"			: "Lesson 2 – Symbolization.",
-      "link"			: "http://localhost:4000/training/training-laketanganyika-2/",
+      "link"			: "http://localhost:4000/assignment/training-laketanganyika-2/",
       "excerpt"		: ""
     }
   
@@ -235,7 +267,7 @@
   
     ,{
       "title"			: "Lesson 1 – DIVA-GIS basics.",
-      "link"			: "http://localhost:4000/training/training-laketanganyika-1/",
+      "link"			: "http://localhost:4000/assignment/training-laketanganyika-1/",
       "excerpt"		: ""
     }
   
@@ -243,7 +275,7 @@
   
     ,{
       "title"			: "Lesson 0 – Install DIVA GIS.",
-      "link"			: "http://localhost:4000/training/training-laketanganyika-0/",
+      "link"			: "http://localhost:4000/assignment/training-laketanganyika-0/",
       "excerpt"		: ""
     }
   
@@ -283,7 +315,7 @@
   
     ,{
       "title"			: "Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa. Final Report.",
-      "link"			: "http://localhost:4000/report/report-UNEP/",
+      "link"			: "http://localhost:4000/report/report-ICRAF-lhcc/",
       "excerpt"		: "Gumbricht, T. (2010). Final Report Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa with Emphasis on Pilot One UN Countries: Mozambique, Tanzania and Rwanda. Nairobi, World Agroforestry Center (ICRAF). 67 p."
     }
   
@@ -306,16 +338,32 @@
 
   
     ,{
+      "title"			: "ICRAF Geoinformatics.",
+      "link"			: "http://localhost:4000/project/project-icraf-geoinfo/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa. Methods",
-      "link"			: "http://localhost:4000/report/report-UNEP/",
+      "link"			: "http://localhost:4000/report/report-ICRAF-lhcc/",
       "excerpt"		: "Gumbricht, T. (2009). Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa with Emphasis on Pilot One UN Countries: Mozambique, Tanzania and Rwanda. Nairobi. World Agroforestry Center (ICRAF). 44 p."
     }
   
 
   
     ,{
-      "title"			: "West Africa Sahel: Changing Landscapes (movie)",
+      "title"			: "West Africa Sahel: Changing Landscapes (movie slide show without sound)",
       "link"			: "http://localhost:4000/talk/talk-ICRAF-sahel-atlas_tg/",
+      "excerpt"		: " West Africa Sahel: Changing Landscapes "
+    }
+  
+
+  
+    ,{
+      "title"			: "Travellers club jubileums Stipendium",
+      "link"			: "http://localhost:4000/certificate/certificate-travellers-club/",
       "excerpt"		: ""
     }
   
@@ -338,7 +386,7 @@
 
   
     ,{
-      "title"			: "Analys as rasterdata (in Swedish)",
+      "title"			: "Analys av rasterdata (in Swedish)",
       "link"			: "http://localhost:4000/lecture-1n1654/1n1654-06-sam-raster-data/",
       "excerpt"		: ""
     }
@@ -386,6 +434,22 @@
 
   
     ,{
+      "title"			: "Land degradation surveillance: quantifying and monitoring land degradation",
+      "link"			: "http://localhost:4000/report/report-land-health-world-bank/",
+      "excerpt"		: "In: The World Bank. Sustainable land management sourcebook. Washington DC: The World Bank. pp. 141-147 (Innovative Activity Profile 5.5)."
+    }
+  
+
+  
+    ,{
+      "title"			: "Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa",
+      "link"			: "http://localhost:4000/project/project-ICRAF-pilot-one/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "West Africa Sahel: Changing Landscapes",
       "link"			: "http://localhost:4000/talk/talk-ICRAF-sahel_tg/",
       "excerpt"		: ""
@@ -419,7 +483,7 @@
   
     ,{
       "title"			: "Lesson 7 – Importing, exporting and projecting layers.",
-      "link"			: "http://localhost:4000/training/training-sahel-07-divagis/",
+      "link"			: "http://localhost:4000/assignment/training-sahel-07-divagis/",
       "excerpt"		: ""
     }
   
@@ -427,7 +491,7 @@
   
     ,{
       "title"			: "Lesson6 – Rain Normalized NDVI",
-      "link"			: "http://localhost:4000/training/training-sahel-06-divagis/",
+      "link"			: "http://localhost:4000/assignment/training-sahel-06-divagis/",
       "excerpt"		: ""
     }
   
@@ -435,7 +499,7 @@
   
     ,{
       "title"			: "Lesson 5 – Vegetation and time series data.",
-      "link"			: "http://localhost:4000/training/training-sahel-05-divagis/",
+      "link"			: "http://localhost:4000/assignment/training-sahel-05-divagis/",
       "excerpt"		: ""
     }
   
@@ -443,7 +507,7 @@
   
     ,{
       "title"			: "Lesson 4 – Grid/raster data",
-      "link"			: "http://localhost:4000/training/training-sahel-04-divagis/",
+      "link"			: "http://localhost:4000/assignment/training-sahel-04-divagis/",
       "excerpt"		: ""
     }
   
@@ -451,7 +515,7 @@
   
     ,{
       "title"			: "Lesson 3 – Selecting features, labeling and designing maps.",
-      "link"			: "http://localhost:4000/training/training-sahel-03-divagis/",
+      "link"			: "http://localhost:4000/assignment/training-sahel-03-divagis/",
       "excerpt"		: ""
     }
   
@@ -459,7 +523,7 @@
   
     ,{
       "title"			: "Lesson 2 – Symbolization.",
-      "link"			: "http://localhost:4000/training/training-sahel-02-divagis/",
+      "link"			: "http://localhost:4000/assignment/training-sahel-02-divagis/",
       "excerpt"		: ""
     }
   
@@ -514,16 +578,8 @@
 
   
     ,{
-      "title"			: "Sammanfattning (in Swedish)",
-      "link"			: "http://localhost:4000/lecture-1n1651/1n1651-09-GIS-summary/",
-      "excerpt"		: ""
-    }
-  
-
-  
-    ,{
       "title"			: "LESSON 7 – EXPORTING, IMPORTING AND PROJECTING DATA LAYERS.",
-      "link"			: "http://localhost:4000/training/training-7-ICRAF-kenya-FFS/",
+      "link"			: "http://localhost:4000/assignment/training-7-ICRAF-kenya-FFS/",
       "excerpt"		: ""
     }
   
@@ -531,7 +587,7 @@
   
     ,{
       "title"			: "LESSON 6 – MODERATE RESOLUTION SATELLITE IMAGES AND RAIN USE EFFICIENCY.",
-      "link"			: "http://localhost:4000/training/training-6-ICRAF-kenya-FFS/",
+      "link"			: "http://localhost:4000/assignment/training-6-ICRAF-kenya-FFS/",
       "excerpt"		: ""
     }
   
@@ -539,7 +595,7 @@
   
     ,{
       "title"			: "LESSON 5 – VEGETATION AND TIME SERIES DATA.",
-      "link"			: "http://localhost:4000/training/training-5-ICRAF-kenya-FFS/",
+      "link"			: "http://localhost:4000/assignment/training-5-ICRAF-kenya-FFS/",
       "excerpt"		: ""
     }
   
@@ -547,7 +603,7 @@
   
     ,{
       "title"			: "LESSON 4 – GRID/RASTER DATA.",
-      "link"			: "http://localhost:4000/training/training-4-ICRAF-kenya-FFS/",
+      "link"			: "http://localhost:4000/assignment/training-4-ICRAF-kenya-FFS/",
       "excerpt"		: ""
     }
   
@@ -555,7 +611,7 @@
   
     ,{
       "title"			: "LESSON 3 – SELECTING FEATURES, LABELING AND DESIGNING MAPS.",
-      "link"			: "http://localhost:4000/training/training-3-ICRAF-kenya-FFS/",
+      "link"			: "http://localhost:4000/assignment/training-3-ICRAF-kenya-FFS/",
       "excerpt"		: ""
     }
   
@@ -563,7 +619,7 @@
   
     ,{
       "title"			: "LESSON 2 – SYMBOLIZATION.",
-      "link"			: "http://localhost:4000/training/training-2-ICRAF-kenya-FFS/",
+      "link"			: "http://localhost:4000/assignment/training-2-ICRAF-kenya-FFS/",
       "excerpt"		: ""
     }
   
@@ -571,7 +627,7 @@
   
     ,{
       "title"			: "LESSON 1 – DIVA-GIS BASICS.",
-      "link"			: "http://localhost:4000/training/training-1-ICRAF-kenya-FFS/",
+      "link"			: "http://localhost:4000/assignment/training-1-ICRAF-kenya-FFS/",
       "excerpt"		: ""
     }
   
@@ -579,14 +635,14 @@
   
     ,{
       "title"			: "LESSON 0 – INSTALL DIVA-GIS.",
-      "link"			: "http://localhost:4000/training/training-0-ICRAF-kenya-FFS/",
+      "link"			: "http://localhost:4000/assignment/training-0-ICRAF-kenya-FFS/",
       "excerpt"		: ""
     }
   
 
   
     ,{
-      "title"			: "Understanding human-induced degradation of dryland agricultural and natural ecosystems.",
+      "title"			: "Land degradation assessment – Baseline survey on spatial analysis of land cover / degradation trends and Toolkit Development.",
       "link"			: "http://localhost:4000/report/report-ICRAF-kenya-FFS/",
       "excerpt"		: ""
     }
@@ -613,6 +669,14 @@
       "title"			: "FFS traning DVD - Mbeere",
       "link"			: "http://localhost:4000/dvd/DVD-mbeere-ICRAF-kenya-FFS/",
       "excerpt"		: "    "
+    }
+  
+
+  
+    ,{
+      "title"			: "Sammanfattning (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1651/1n1651-09-GIS-summary/",
+      "excerpt"		: ""
     }
   
 
@@ -699,7 +763,7 @@
   
     ,{
       "title"			: "Lesson 1 – DIVA-GIS basics",
-      "link"			: "http://localhost:4000/training/training-sahel-01-divagis/",
+      "link"			: "http://localhost:4000/assignment/training-sahel-01-divagis/",
       "excerpt"		: ""
     }
   
@@ -707,7 +771,7 @@
   
     ,{
       "title"			: "Lesson 0 – Install DIVA-GIS.",
-      "link"			: "http://localhost:4000/training/training-sahel-00-divagis/",
+      "link"			: "http://localhost:4000/assignment/training-sahel-00-divagis/",
       "excerpt"		: ""
     }
   
@@ -739,7 +803,7 @@
   
     ,{
       "title"			: "Land Cover Changes in the Rwenzori Mountains 1973-2005.",
-      "link"			: "http://localhost:4000/training/training-FAO-rewenzori-glaciers_tg/",
+      "link"			: "http://localhost:4000/assignment/training-FAO-rewenzori-glaciers_tg/",
       "excerpt"		: ""
     }
   
@@ -763,7 +827,7 @@
   
     ,{
       "title"			: "Short report on the Rwenzori centennial climb.",
-      "link"			: "http://localhost:4000/report/report-climb-rewenzori-tg/",
+      "link"			: "http://localhost:4000/other/report-climb-rewenzori-tg/",
       "excerpt"		: ""
     }
   
@@ -779,7 +843,7 @@
   
     ,{
       "title"			: "Rwenzori Mountains Uganda - commemorate centennial climb",
-      "link"			: "http://localhost:4000/project/project-rewenzori_tg/",
+      "link"			: "http://localhost:4000/project/project-rwenzori_tg/",
       "excerpt"		: ""
     }
   
@@ -812,7 +876,7 @@
     ,{
       "title"			: "A regional coupled surface water/groundwater model of the Okavango Delta, Botswana",
       "link"			: "http://localhost:4000/journal/journal-wrr-oka-delta-model/",
-      "excerpt"		: "Bauer, P., Gumbricht, T., &amp; Kinzelbach, W. (2006). A regional coupled surface water/groundwater model of the Okavango Delta, Botswana Water Resources Research, 42(4), 1–15."
+      "excerpt"		: ""
     }
   
 
@@ -922,8 +986,48 @@
 
   
     ,{
+      "title"			: "Introduction to GIS and Satellite Data Analysis.",
+      "link"			: "http://localhost:4000/assignment/training-okavango-3-rs/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Introduction to Data Capture with GPS.",
+      "link"			: "http://localhost:4000/assignment/training-okavango-2-gps/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Maps and Images in different scales and resolution.",
+      "link"			: "http://localhost:4000/assignment/training-okavango-1-scales/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Introduction to GIS and Digital Cartography using DIVA GIS.",
+      "link"			: "http://localhost:4000/assignment/training-okavango-0-intro/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "WASUBI: a GIS tool for subbasin identification in topographically complex waterscapes.",
       "link"			: "http://localhost:4000/journal/journal-envmodsoft-wasubi/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Summer course in color graphics",
+      "link"			: "http://localhost:4000/certificate/certificate-colorgraphics-Oelands-FolkHoegskola/",
       "excerpt"		: ""
     }
   
@@ -939,8 +1043,8 @@
   
     ,{
       "title"			: "Spatial data and geographic information systems.",
-      "link"			: "http://localhost:4000/refereechapter/book-chess/",
-      "excerpt"		: "Gumbricht, T., (2004). Spatial data and geographic information systems. In B.K. Patel., K. Muir-Leresche, R. Coe and S.D. Hainsworth (Eds), The Green Book: A guide to effective graduate research in Africa agriculture, environment, and rural development. The African Crop Science Society, Kampala,  pp 129-142."
+      "link"			: "http://localhost:4000/refereechapter/book-the-green-book/",
+      "excerpt"		: ""
     }
   
 
@@ -980,6 +1084,14 @@
     ,{
       "title"			: "Channels, wetlands and islands in the Okavango Delta, Botswana, and their relation to hydrological and sedimentological processes.",
       "link"			: "http://localhost:4000/journal/journal-espl-oka-channels-wetlands-islands/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Employment, ICRAF",
+      "link"			: "http://localhost:4000/certificate/certificate-employment-ICRAF/",
       "excerpt"		: ""
     }
   
@@ -1035,7 +1147,7 @@
   
     ,{
       "title"			: "GIS Data Mining on Internet",
-      "link"			: "http://localhost:4000/relma/RELMA-gis-dss_tg/",
+      "link"			: "http://localhost:4000/assignment/RELMA-gis-dss_tg/",
       "excerpt"		: ""
     }
   
@@ -1043,7 +1155,7 @@
   
     ,{
       "title"			: "GIS Data Mining on Internet",
-      "link"			: "http://localhost:4000/lecture/RELMA-gis-www-data_tg/",
+      "link"			: "http://localhost:4000/assignment/RELMA-gis-www-data_tg/",
       "excerpt"		: ""
     }
   
@@ -1051,7 +1163,7 @@
   
     ,{
       "title"			: "Introduction to Data Capture with GPS",
-      "link"			: "http://localhost:4000/lecture/RELMA-gis-gps_tg/",
+      "link"			: "http://localhost:4000/assignment/RELMA-gis-gps_tg/",
       "excerpt"		: ""
     }
   
@@ -1059,7 +1171,7 @@
   
     ,{
       "title"			: "Introduction to GIS and Satellite Data Analysis – Lake Nakuru, Kenya",
-      "link"			: "http://localhost:4000/lecture/RELMA-rs-nakuru_tg/",
+      "link"			: "http://localhost:4000/assignment/RELMA-rs-nakuru_tg/",
       "excerpt"		: ""
     }
   
@@ -1067,7 +1179,7 @@
   
     ,{
       "title"			: "Introduction to GIS and Digital Cartography using ArcExplorer",
-      "link"			: "http://localhost:4000/lecture/RELMA-gis-arcexplorer_tg/",
+      "link"			: "http://localhost:4000/assignment/RELMA-gis-arcexplorer_tg/",
       "excerpt"		: ""
     }
   
@@ -1076,6 +1188,14 @@
     ,{
       "title"			: "RELMA Regional GIS Training",
       "link"			: "http://localhost:4000/lecture/RELMA-gis-schedule_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Regional GIS Training.",
+      "link"			: "http://localhost:4000/communitytraining/training-RELMA/",
       "excerpt"		: ""
     }
   
@@ -1100,7 +1220,7 @@
     ,{
       "title"			: "Hydrological modelling and resource management in the Okavango Delta.",
       "link"			: "http://localhost:4000/refereechapter/book-oka-management/",
-      "excerpt"		: "Bauer, P., Gumbricht, T., &amp; Kinzelbach, W. (2003). Hydrological modelling and resource management in the Okavango Delta. In E. Servat, W. Najem, C. Leduc, &amp; A. Shakeel (Eds.), Hydrology in Mediterranean and semiarid regions (Vol. 60, pp. 130–137). Montpeiller: IAHS pub no 278."
+      "excerpt"		: ""
     }
   
 
@@ -1138,6 +1258,22 @@
 
   
     ,{
+      "title"			: "Tracking salt islands among the Delta´s living lace.",
+      "link"			: "http://localhost:4000/popular/popular-getaway-oka-islands/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Spying on the sea of land.",
+      "link"			: "http://localhost:4000/popular/popular-getaway-oka-water/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Lake Kyoga boat survey photos",
       "link"			: "http://localhost:4000/image/image-kyoga-boat/",
       "excerpt"		: "Photos taken during reconnaissance boating on Lake Kyoga in Ocotber 2002. Photos taken by Camilla Andersson and Thomas Gumbricht. Slide cursor over images to view clear photo, click any image to see all photos in large size."
@@ -1162,9 +1298,17 @@
 
   
     ,{
-      "title"			: "Reearcher , Entebbe, Uganda",
+      "title"			: "Researcher (Hydrology), Entebbe, Uganda (ICRAF)",
       "link"			: "http://localhost:4000/project/project-ICRAF-entebbe/",
-      "excerpt"		: "I was employed by the World Agroforestry Centre (ICRAF) 1 September 2002 and sacked 31 January 2004 (1 February 2004 I was contracted as a consultant with ICRAF)."
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Completed courses, KI (medicine)",
+      "link"			: "http://localhost:4000/certificate/certificate-KI-courses/",
+      "excerpt"		: ""
     }
   
 
@@ -1196,7 +1340,7 @@
     ,{
       "title"			: "Is density flow balancing the salt budget of the Okavango delta? Evidence from field and modelling studies.",
       "link"			: "http://localhost:4000/conference/conf-oka-saltwater/",
-      "excerpt"		: "Bauer, P., Zimmermann, S., Held, R., Gumbricht, T., &amp; Kinzelbach, W. (2002). Is density flow balancing the salt budget of the Okavango delta? Evidence from field and modelling studies. In 17th Salt Water Intrusion Meeting (pp. 309–321). Delft: Salt Water Intrusion Meeting (SWIM)."
+      "excerpt"		: ""
     }
   
 
@@ -1226,16 +1370,16 @@
 
   
     ,{
-      "title"			: "Remote sensing methods for measuring vegetation density for hydrological modelling approaches in the Okavango delta, Botswana.",
-      "link"			: "http://localhost:4000/mscthesis/msc-sohlman/",
+      "title"			: "The Okavango Delta – semiarid alluvial-fan sedimentation related to incipient rifting.",
+      "link"			: "http://localhost:4000/refereechapter/book-oka-rifting/",
       "excerpt"		: ""
     }
   
 
   
     ,{
-      "title"			: "The Okavango Delta – semiarid alluvial-fan sedimentation related to incipient rifting.",
-      "link"			: "http://localhost:4000/refereechapter/book-oka-rifting/",
+      "title"			: "Remote sensing methods for measuring vegetation density for hydrological modelling approaches in the Okavango delta, Botswana.",
+      "link"			: "http://localhost:4000/mscthesis/msc-sohlman/",
       "excerpt"		: ""
     }
   
@@ -1252,6 +1396,14 @@
     ,{
       "title"			: "The topography of the Okavango Delta, Botswana, and its tectonic and sedimentological implications.",
       "link"			: "http://localhost:4000/journal/journal-sajg-oka-topography/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Employment, Linköping University",
+      "link"			: "http://localhost:4000/certificate/certificate-employment-LiU/",
       "excerpt"		: ""
     }
   
@@ -1330,6 +1482,14 @@
 
   
     ,{
+      "title"			: "Employment, Uppsala University",
+      "link"			: "http://localhost:4000/certificate/certificate-employment-UU/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Dynamic modelling and landsacpe patterns - a GIS synthesis.",
       "link"			: "http://localhost:4000/refereechapter/book-syntesis/",
       "excerpt"		: ""
@@ -1354,8 +1514,136 @@
 
   
     ,{
-      "title"			: "IDRISI GIS PROJECT - LOCATING SUITABLE WELL AREAS IN THE MANAGUA AQUIFER",
-      "link"			: "http://localhost:4000/trainingproj/training-proj-uu-managua/",
+      "title"			: "DETECTING FAULTS AND FRACTURE ZONES WITH VLF",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-vlf/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "ARCVIEW GIS EXERCISE – RESOURCE GEOLOGY",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-soil-bedrock/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "PHYSICAL AND HUMAN GEOGRAPHY OF SOUTHERN AFRICA",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-safrica-geography/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "URANIUM GAMMA RADIATION AND RADON GAS RISK",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-radon/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "INTRODUCTION TO AVENUE FINDING SUITABLE AREAS FOR SEISMIC STATIONS",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-avenue-seismic-stn/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "DATA MINING ON INTERNET",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-dcw-data-mining/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "INTRODUCTION TO SCREEN DIGITALISATION OF TOPOGRAPHY FROM SATELLITE IMAGERY AND AERIAL PHOTOGRAPHY",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-screen-digitizing/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "INTRODUCTION TO DIGITISING",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-digitizing/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "INTRODUCTION TO SCANNING AND DIGITAL IMAGERY",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-image-scanning/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "SKATING ON THIN ICE",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-skating-signs/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "TIRES AND TRAVEL IN ÖREBRO",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-tires-travel/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "LOCALISATION OF WELLS BASED ON GEOGRAPHIC AND ATTRIBUTE CRITERIA",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-well-location/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "INTRODUCTION TO VECTOR DATA AND TOPOLOGY",
+      "link"			: "http://localhost:4000/assignment/assignement-uu-topologi-db/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "INTRODUCTION TO ARC VIEW AND SWEDISH MAPS",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-intro-arcview-se/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "INTRODUCTION TO DIGITAL CARTOGRAPHY",
+      "link"			: "http://localhost:4000/assignment/assignment-uu-intro-digital-carto/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Geografiska Informationssytem (MN1)",
+      "link"			: "http://localhost:4000/courseevaluation/courseeval-MN1-UU/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Post-doc award, KVA",
+      "link"			: "http://localhost:4000/certificate/certificate-post-doc-award/",
       "excerpt"		: ""
     }
   
@@ -1363,7 +1651,23 @@
   
     ,{
       "title"			: "IDRISI GIS PROJECT - LOCATING SUITABLE WELL AREAS IN THE MANAGUA AQUIFER",
-      "link"			: "http://localhost:4000/trainingproj/training-proj-uu-eutrophication/",
+      "link"			: "http://localhost:4000/pblproject/training-proj-uu-managua/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "IDENTIFICATION AND MANAGEMENT OF INTEGRATED LANDSCAPE RESOURCES - CYPRUS, NICARAGUA AND SWEDEN",
+      "link"			: "http://localhost:4000/pblproject/training-proj-uu-integrated/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "TARGETING CRITICAL AREAS FOR NON POINT SOURCES EUTROPHICATION",
+      "link"			: "http://localhost:4000/pblproject/training-proj-uu-eutrophication/",
       "excerpt"		: ""
     }
   
@@ -1371,7 +1675,7 @@
   
     ,{
       "title"			: "MULTI CRITERIA EVALUATION OF SITES FOR ECOLOGICAL VILLAGES",
-      "link"			: "http://localhost:4000/trainingproj/training-proj-uu-ecovilla-mce/",
+      "link"			: "http://localhost:4000/pblproject/training-proj-uu-ecovilla-mce/",
       "excerpt"		: ""
     }
   
@@ -1379,7 +1683,15 @@
   
     ,{
       "title"			: "ACTUAL AND CRITICAL LOAD OF ACIDIFYING SUBSTANCES IN STOCKHOLM -LANDSCAPE MANAGEMENT UNDER UNCERTAINTY",
-      "link"			: "http://localhost:4000/trainingproj/training-proj-uu-acidification/",
+      "link"			: "http://localhost:4000/pblproject/training-proj-uu-acidification/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Panama",
+      "link"			: "http://localhost:4000/expedition/expedition-panama/",
       "excerpt"		: ""
     }
   
@@ -1397,6 +1709,22 @@
       "title"			: "Parameterisation of a GIS-coupled hydrological model – A study of Cyprus catchments.",
       "link"			: "http://localhost:4000/licthesis/lic-hessling/",
       "excerpt"		: "Hessling, M., 1998. Parameterisation of a GIS-coupled hydrological model – A study of Cyprus catchments. Royal Institute of Technology, Department of Geodesy and Photogrammetry. TRITA-GEOFOTO 1998:22, Licentiate Thesis."
+    }
+  
+
+  
+    ,{
+      "title"			: "Colombia",
+      "link"			: "http://localhost:4000/expedition/expedition-colombia/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Employment, KTH",
+      "link"			: "http://localhost:4000/certificate/certificate-employment-KTH/",
+      "excerpt"		: ""
     }
   
 
@@ -1434,6 +1762,22 @@
 
   
     ,{
+      "title"			: "Natural Resources Management, Project instructions",
+      "link"			: "http://localhost:4000/coursecompendium/coursecompendium-NRM-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "University College Dublin, Ireland",
+      "link"			: "http://localhost:4000/expedition/expedition-UCD/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Landscape process and pattern analysis using GIS.",
       "link"			: "http://localhost:4000/mscthesis/msc-teklemariam/",
       "excerpt"		: ""
@@ -1460,7 +1804,7 @@
     ,{
       "title"			: "Nested scales of life supporting processes and human justice.",
       "link"			: "http://localhost:4000/conference/conf-nested-scales/",
-      "excerpt"		: "Gumbricht, T. (1997). Nested scales of life supporting processes and human justice. In Stockholm Water Symposium: With Rivers to the Sea (pp. 181–183). Stockholm: Stockholm International Water Institute."
+      "excerpt"		: ""
     }
   
 
@@ -1490,6 +1834,14 @@
 
   
     ,{
+      "title"			: "Summer course in landscape painting",
+      "link"			: "http://localhost:4000/certificate/certificate-landsacpe-painting-Oelands-FolkHoegskola/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Catchment-scale modelling of erosion and reservoir sedimentation.",
       "link"			: "http://localhost:4000/conference/conf-scangis-erosion/",
       "excerpt"		: "Stenström, P. and T. Gumbricht, 1997. GIS for catchment-scale modelling of erosion and reservoir sedimentation. In. H. Hauska (Ed), Proceedings ScanGIS´97 The 6th Scandinavian research conference on Geographical Information Systems 1st to 3rd June 1997 Stockholm, pp 216-228."
@@ -1498,8 +1850,24 @@
 
   
     ,{
+      "title"			: "Växelverkan mellan vegetation och vattnets kretslopp.",
+      "link"			: "http://localhost:4000/journal/journal_vatten_phd/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Submersed macrophytes for recovery of eutrophied waters - nutrient spiraling and removal efficiency.",
       "link"			: "http://localhost:4000/refereechapter/book-macrophytes/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Nicaragua",
+      "link"			: "http://localhost:4000/expedition/intlstudies-nica/",
       "excerpt"		: ""
     }
   
@@ -1514,9 +1882,33 @@
 
   
     ,{
+      "title"			: "Chinese water managment",
+      "link"			: "http://localhost:4000/expedition/expedition-china/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Natural Resources Management (EESI)",
+      "link"			: "http://localhost:4000/courseevaluation/courseeval-NRM-EESI-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Modelling water and vegetation reciprocity -a landscape synthesis in GIS (PhD thesis).",
       "link"			: "http://localhost:4000/report/report-thesis/",
       "excerpt"		: "Gumbricht, T. (1996). Modelling water and vegetation reciprocity -a landscape synthesis in GIS (PhD thesis). TRITA-AMI PHD 1011. KTH"
+    }
+  
+
+  
+    ,{
+      "title"			: "Doctor of Philosophy (PhD), KTH",
+      "link"			: "http://localhost:4000/certificate/certificate-phd/",
+      "excerpt"		: ""
     }
   
 
@@ -1572,7 +1964,7 @@
     ,{
       "title"			: "Digital interpretation and management of land cover — a case study of Cyprus.",
       "link"			: "http://localhost:4000/journal/journal-ee-cyprus/",
-      "excerpt"		: "Gumbricht, T., McCarthy, J., &amp; Mahlander, C. (1996). Digital interpretation and management of land cover — a case study of Cyprus. Ecological Engineering, 6(4), 273–279."
+      "excerpt"		: ""
     }
   
 
@@ -1658,6 +2050,14 @@
 
   
     ,{
+      "title"			: "Environmental Engineering and Sustainable Infrastructure",
+      "link"			: "http://localhost:4000/courseevaluation/courseeval-EESI-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Watershed structure and symmetry with runoff and water quality.",
       "link"			: "http://localhost:4000/conference/conf-watershed-symmetry-cracow/",
       "excerpt"		: ""
@@ -1668,6 +2068,30 @@
     ,{
       "title"			: "Identification of Potential Reforestation Sites Using Geographic Information System and Remote Sensing.",
       "link"			: "http://localhost:4000/refereechapter/book-ecotechnics/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Stockholm Marathon",
+      "link"			: "http://localhost:4000/certificate/certificate-Stockholm-Marathon/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Natural Resources Management (EESI)",
+      "link"			: "http://localhost:4000/courseevaluation/courseeval-NRM-EESI-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Technical University Berlin (TUB), Germany",
+      "link"			: "http://localhost:4000/expedition/expedition-TUberlin/",
       "excerpt"		: ""
     }
   
@@ -1730,6 +2154,14 @@
 
   
     ,{
+      "title"			: "National Institute for Water and Atmospheric Research (NIWA), New Zealand",
+      "link"			: "http://localhost:4000/expedition/expedition-NZ/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "The role of ocean biota in the CO2 drama.",
       "link"			: "http://localhost:4000/report/report-ocean-co2/",
       "excerpt"		: ""
@@ -1746,6 +2178,38 @@
 
   
     ,{
+      "title"			: "Tatui, Brazil",
+      "link"			: "http://localhost:4000/expedition/expedition-tatui/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Naturresurshushållning",
+      "link"			: "http://localhost:4000/courseevaluation/courseeval-NRH-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Natural Resources Information and Management Systems, Laborations and exercises",
+      "link"			: "http://localhost:4000/coursecompendium/coursecompendium-NRH-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Licentiate of Engineering (Swedish degree between MSc and PhD), KTH",
+      "link"			: "http://localhost:4000/certificate/certificate-teknlic/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Nutrient reduction using macrophyte systems in temperate climate.",
       "link"			: "http://localhost:4000/report/report-lic-thesis/",
       "excerpt"		: ""
@@ -1756,7 +2220,7 @@
     ,{
       "title"			: "Water resources management in Germany – with examples from Niedersachsen.",
       "link"			: "http://localhost:4000/journal/journal-vatten-tyskland/",
-      "excerpt"		: "Gumbricht, T., 1991. Vattenförvaltning i Tyskland - med exempel från Niedersachsen. Vatten, 47: 212-216. (Water resources management in Germany – with examples from Niedersachsen – with English summary)."
+      "excerpt"		: ""
     }
   
 
@@ -1764,6 +2228,30 @@
     ,{
       "title"			: "Reduction of nutrients by water plants. Final report, the Snogeroed project",
       "link"			: "http://localhost:4000/journal/journal-vatten-snogeroed/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Environmental problems and maangement of natural resources in the Netherlands. A study tour in April 1990.",
+      "link"			: "http://localhost:4000/courseexcursion/courseexcursion-NRH-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Projekt i kursen Naturresurshushållning våren 1991, Botkyrka kommun",
+      "link"			: "http://localhost:4000/studentproject/studentproj-NRH-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Naturresurshushållning",
+      "link"			: "http://localhost:4000/courseevaluation/courseeval-NRH-KTH/",
       "excerpt"		: ""
     }
   
@@ -1778,13 +2266,213 @@
 
   
     ,{
+      "title"			: "Doctoral studies at University College Galway, Ireland",
+      "link"			: "http://localhost:4000/expedition/expedition-UCG/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "University College Galway, Department of Engineering Hydrology, Ireland",
+      "link"			: "http://localhost:4000/expedition/intlstudies-UCG/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "European water management strategies",
+      "link"			: "http://localhost:4000/expedition/expedition-europe/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Various courses in Business Administration",
+      "link"			: "http://localhost:4000/certificate/certificate-ekononlinjen-SU/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Concern for the Netherlands - local to global environmental threats and management strategies. A study tour in May 1990.",
+      "link"			: "http://localhost:4000/courseexcursion/courseexcursion-NRH-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Projekt i kursen Naturresurshushållning våren 1990, Botkyrka kommun",
+      "link"			: "http://localhost:4000/studentproject/studentproj-NRH-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Naturresurshushållning",
+      "link"			: "http://localhost:4000/courseevaluation/courseeval-NRH-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "The fall of the Berlin wall and the velvet revolution",
+      "link"			: "http://localhost:4000/expedition/expedition-CZ/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "International Institute for Applied Systems Analysis (IIASA), Austria",
+      "link"			: "http://localhost:4000/expedition/intlstudies-IIASA/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Participation in IIASA YSSP",
+      "link"			: "http://localhost:4000/expedition/expedition-IIASA/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Participation in IIASA YSSP",
+      "link"			: "http://localhost:4000/certificate/certificate-IIASA/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Course in Introduction to Swedish Law",
+      "link"			: "http://localhost:4000/certificate/certificate-juridik-SU/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Planning and management of natural reosurses, study tour to the Netherlands 4-14 April 1989",
+      "link"			: "http://localhost:4000/courseexcursion/courseexcursion-NRH-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Projekt i kursen Naturresurshushållning våren 1989, Haninge kommun",
+      "link"			: "http://localhost:4000/studentproject/studentproj-NRH-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Naturresurshushållning",
+      "link"			: "http://localhost:4000/courseevaluation/courseeval-NRH-KTH/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Study trip to India",
+      "link"			: "http://localhost:4000/expedition/expedition-india/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Employment, K-konsult",
+      "link"			: "http://localhost:4000/certificate/certificate-employment-kkonsult/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Constructed wetlands for waste water treatment.",
       "link"			: "http://localhost:4000/project/project-snogerod/",
       "excerpt"		: ""
     }
   
 
+  
+    ,{
+      "title"			: "Course in Business Administration, Högskolan i Kalmar",
+      "link"			: "http://localhost:4000/certificate/certificate-ekonomi-HiK/",
+      "excerpt"		: ""
+    }
+  
 
+  
+    ,{
+      "title"			: "German language course, Goethe Institute",
+      "link"			: "http://localhost:4000/certificate/certificate-Goethe-Institut/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Bachelor of Science (BSc), Högskolan i Kalmar",
+      "link"			: "http://localhost:4000/certificate/certificate-BSc-HiK/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Certificate boatmaster (skepparexamen)",
+      "link"			: "http://localhost:4000/certificate/certificate-boatmaster/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Military training certificate, Ing2, Eksjö",
+      "link"			: "http://localhost:4000/certificate/certificate-Ing2/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Employment, Kalmar Shipyard",
+      "link"			: "http://localhost:4000/certificate/certificate-employment-Kalmar-Varv/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Certificate boating (Förarintyg för segel- och motorbåtar)",
+      "link"			: "http://localhost:4000/certificate/certificate-boating/",
+      "excerpt"		: ""
+    }
+  
+
+
+
+  
+
+  
+
+  
+
+  
 
   
 
@@ -1848,6 +2536,24 @@
       "link"			: "http://localhost:4000/about/",
       "excerpt"		: "Karttur is a private research company in Stockholm, Sweden"
     }
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
   
 
   

@@ -16,5 +16,5 @@ pages:
 number:
 issue:
 editor:
-summary: "Trip with Jan-Erik Gustafsson.
+summary: 'Trip organized by my PhD supervisor Jan-Erik Gustafsson.'
 ---

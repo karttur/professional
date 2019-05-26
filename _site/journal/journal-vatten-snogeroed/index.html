@@ -85,7 +85,6 @@
 </head>
 
 <body id="page">
-
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
 	    <ul>
@@ -107,6 +106,9 @@
 		  
 		    
 		    <li><a href="http://localhost:4000/supervision/" >Supervision</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/certificates/" >Certificates</a></li>
 		  
 		    
 		    <li><a href="http://localhost:4000/talks/" >Talks/posters</a></li>
@@ -140,37 +142,34 @@
 
 <div class="js-menu-screen menu-screen"></div>
 
-
 <div id="main" role="main">
   <article class="entry">
-
     <div class="entry-wrapper">
-
-      <div class="entry-content">
+      <header class="entry-header">
         <h5>
-           Project: <a href="../../snogerod/"> Constructed wetlands for waste water treatment</a> <br> 
+           Constructed wetlands for waste water treatment <br> 
+          Vatten
         </h5>
-        <h6>
-          <a href="">
-            
-              Hörberg, I., L. Kylefors och T. Gumbricht,
-            
-          <span style="font-weight: bold;"><time datetime="1991-09-01T00:00:00+02:00">1991</time></span>.
-          Reduction of nutrients by water plants. Final report, the Snogeroed project
-          <i>Vatten</i>,
-          47
-          
-          ,
-          310-314.
+      </header>
+      <div class="entry-content">
+        <script>
+  function setIframeSrc() {
+    document.getElementById("pdfFrame").src = "http://docs.google.com/gview?url=https://karttur.github.io/common/pdf/journal_vatten_47_310_1991.pdf&embedded=true";
+  }
+</script>
 
-          
-            
-              <img src = "https://karttur.github.io/common/images/closedaccess.png" style="width:30px;height:20px;border:0;" alt='closed'>
-            
-          
-          </a>
-        </h6>
+<a></a>
+<button onclick="setIframeSrc()"><span
+ style="text-decoration:underline;">Load pdf in frame</span></button> or
+<a style="text-decoration:underline;" href="https://karttur.github.io/common/pdf/journal_vatten_47_310_1991.pdf">
+  go to the pdf
+</a> (or right click the latter and 'Save Link As ...').
 
+<figure>
+  <iframe id="pdfFrame"
+    style="width:720px; height:576px;" frameborder="1">
+  </iframe>
+</figure>
 
         
 
@@ -183,7 +182,7 @@
   <footer role="contentinfo" class="entry-wrapper">
     
 
-<span>&copy; 2018 Thomas Gumbricht. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/so-simple-jekyll-theme/" rel="nofollow">So Simple Theme</a>.</span>
+<span>&copy; 2019 Thomas Gumbricht. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/so-simple-jekyll-theme/" rel="nofollow">So Simple Theme</a>.</span>
 
 <div class="social-icons">
 	

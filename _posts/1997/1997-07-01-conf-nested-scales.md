@@ -15,5 +15,5 @@ pages: 181–183
 number:
 issue:
 editor:
-place: Stockholm: Stockholm International Water Institute
+place: Stockholm International Water Institute
 ---

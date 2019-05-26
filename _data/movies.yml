@@ -78,3 +78,12 @@ lakekyoga_TG_kyoga_200310_trg:
     source: null
     width: 720
     height: 576
+
+IRRI_20190509_V06b:
+    file: IRRI_20190509_V06b.mp4
+    author: Thomas Gumbricht
+    caption: Job interview talk at IRRI, Los Baños, the Philippines, May 2019
+    credit: null
+    source: null
+    width: 800
+    height: 450

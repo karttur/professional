@@ -85,7 +85,6 @@
 </head>
 
 <body id="page">
-
 <div class="navigation-wrapper">
 	<nav role="navigation" id="site-nav" class="animated drop">
 	    <ul>
@@ -107,6 +106,9 @@
 		  
 		    
 		    <li><a href="http://localhost:4000/supervision/" >Supervision</a></li>
+		  
+		    
+		    <li><a href="http://localhost:4000/certificates/" >Certificates</a></li>
 		  
 		    
 		    <li><a href="http://localhost:4000/talks/" >Talks/posters</a></li>
@@ -140,41 +142,35 @@
 
 <div class="js-menu-screen menu-screen"></div>
 
-
 <div id="main" role="main">
   <article class="entry">
-
     <div class="entry-wrapper">
-
-      <div class="entry-content">
+      <header class="entry-header">
         <h5>
           
+          Nordic Hydrology
         </h5>
-        <h6>
-          <a href="">
-            
-              Gumbricht, T., & Thunvik, R.,
-          
-          <span style="font-weight: bold;"><time datetime="1997-07-01T00:00:00+02:00">1997</time></span>.
-          3D Hydrogeological Modelling with an Expert GIS Interface.
-          <i>Nordic Hydrology</i>,
-          28
-           (4-5)
-          ,
-          329-338.
+      </header>
+      <div class="entry-content">
+        <script>
+  function setIframeSrc() {
+    document.getElementById("pdfFrame").src = "http://docs.google.com/gview?url=https://karttur.github.io/common/pdf/journal_nordic-hydrology_28_329_1997.pdf&embedded=true";
+  }
+</script>
 
-          
-            
-              <img src = "https://karttur.github.io/common/images/closedaccess.png" style="width:30px;height:20px;border:0;" alt='closed'>
-            
-          
-          </a>
-        </h6>
+<a></a>
+<button onclick="setIframeSrc()"><span
+ style="text-decoration:underline;">Load pdf in frame</span></button> or
+<a style="text-decoration:underline;" href="https://karttur.github.io/common/pdf/journal_nordic-hydrology_28_329_1997.pdf">
+  go to the pdf
+</a> (or right click the latter and 'Save Link As ...').
 
+<figure>
+  <iframe id="pdfFrame"
+    style="width:720px; height:576px;" frameborder="1">
+  </iframe>
+</figure>
 
-        
-          <span style="font-weight: bold;">Abstract</span><br>
-          Geographical Information Systems provide a powerful tool for creating three-dimensional (3D) datasets for sophisticated hydrogeological models. The article describes a GIS with an expert system interface developed for generating 3D hydrogeological frameworks. The system integrates 2D images of elevation and geology and vertical profile data. Application of the expert GIS to a complex aquifer in South Eastern Sweden is described.
         
 
       </div><!-- /.entry-content -->
@@ -186,7 +182,7 @@
   <footer role="contentinfo" class="entry-wrapper">
     
 
-<span>&copy; 2018 Thomas Gumbricht. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/so-simple-jekyll-theme/" rel="nofollow">So Simple Theme</a>.</span>
+<span>&copy; 2019 Thomas Gumbricht. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/so-simple-jekyll-theme/" rel="nofollow">So Simple Theme</a>.</span>
 
 <div class="social-icons">
 	
