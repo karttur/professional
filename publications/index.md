@@ -35,7 +35,7 @@ Click on source (or icon) to get online pdf versions (articles with no icon are 
 </ul>
 
 <h1 class='foot-description'></h1>
-<h1 class='foot-description'>JScientific reports</h1>
+<h1 class='foot-description'>Scientific reports</h1>
 
 <ul class="post-list">
 {% for post in site.categories.report %}
