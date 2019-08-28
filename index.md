@@ -8,7 +8,7 @@ share: true
 
 <h1 class='foot-description'>Professional pages</h1>
 
-I am a scientist focusing on natural resources modeling, mapping, monitoring and management using spatial data. To do that I have created my own Big Spatial Data processing framework, available via my [GeoImagine GitHub pages](https://karttur.github.io/geoimagine/)
+I am a scientist focusing on natural resources modeling, mapping, monitoring and management using spatial data. To do that I have created my own Big Spatial Data processing framework, available via my [GeoImagine GitHub pages](https://karttur.github.io/geoimagine/). I work part-time at the [Department of Physical Geography, Stockholm University](https://www.natgeo.su.se/english/) and half time as a private researcher (Karttur AB).
 
 I have deep knowledge in hydrology, wetlands, agroforestry, forestry, systems ecology, spatial data processing, remote sensing, geoinformatics and web map building. I have worked 15 years at different universities (Sweden and South Africa), and 15 years for UN-related research organizations in Africa and Asia.
 
