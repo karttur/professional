@@ -31,6 +31,11 @@
     </a>
 {% endif %}
 </span>
-<a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+{% if post.pageurl contains 'http' %}
+  <a href="{{ post.pageurl }}">
+{% else %}
+  <a href="{{ site.url }}{{ post.url }}">
+{% endif %}
+{{ post.title }}</a>
 </article>
 </li>
