@@ -47,7 +47,7 @@ In June 2006 I took part in the 100 year anniversary of the first climb to the s
 <ul class="post-list">
 {% for post in site.categories.images %}
   {% if post.projectid == "rwenzori" %}
-    {% include publication.html post=post %}
+    {% include medialink.html post=post %}
   {% endif %}
 {% endfor %}
 </ul>
