@@ -18,6 +18,14 @@
 
   
     ,{
+      "title"			: "A geometric unmixing model for mapping biomass from multi–spectral images.",
+      "link"			: "http://localhost:4000/submitted/journal-rse-GBI/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Detecting Trends in Wetland Extent from MODIS Derived Soil Moisture Estimates.",
       "link"			: "http://localhost:4000/journal/journal-rs-soil-moisture/",
       "excerpt"		: ""
@@ -90,14 +98,6 @@
 
   
     ,{
-      "title"			: "Orthogonal matrix transformed density mapping of vegetation features.",
-      "link"			: "http://localhost:4000/poster/poster-earsel-veg-class/",
-      "excerpt"		: "Orthogonal matrix transformed density mapping of vegetation features.  "
-    }
-  
-
-  
-    ,{
       "title"			: "Mapping Water Bodies and Wetlands from Multi-Spectral Optical Satellite Images.",
       "link"			: "http://localhost:4000/poster/mwbs-wetlandmap/",
       "excerpt"		: "Slide the mouse over the image, right click and select &quot;Save Link As&quot; or click on the map to get a pop-up image that you can drag to your desktop. The full size image is a jpg file in A0 format (6.2 MB)."
@@ -124,6 +124,14 @@
     ,{
       "title"			: "Mapping global tropical wetlands",
       "link"			: "http://localhost:4000/talk/FAO-wetland-mapping/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "International Model for Policy Analysis of Agricultural Commodities and Trade (IMPACT)",
+      "link"			: "http://localhost:4000/project/project-pim/",
       "excerpt"		: ""
     }
   
@@ -180,6 +188,14 @@
     ,{
       "title"			: "Sustainable Wetlands Adaptation and Mitigation Program (SWAMP)",
       "link"			: "http://localhost:4000/project/project-swamp/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Sentinel Landscapes",
+      "link"			: "http://localhost:4000/project/project-Sentinel-landsacpes/",
       "excerpt"		: ""
     }
   
@@ -315,6 +331,14 @@
   
     ,{
       "title"			: "Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa. Final Report.",
+      "link"			: "http://localhost:4000/report/report-UNEP/",
+      "excerpt"		: "Gumbricht, T. (2010). Final Report Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa with Emphasis on Pilot One UN Countries: Mozambique, Tanzania and Rwanda. Nairobi, World Agroforestry Center (ICRAF). 67 p."
+    }
+  
+
+  
+    ,{
+      "title"			: "Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa. Final Report.",
       "link"			: "http://localhost:4000/report/report-ICRAF-lhcc/",
       "excerpt"		: "Gumbricht, T. (2010). Final Report Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa with Emphasis on Pilot One UN Countries: Mozambique, Tanzania and Rwanda. Nairobi, World Agroforestry Center (ICRAF). 67 p."
     }
@@ -341,6 +365,14 @@
       "title"			: "ICRAF Geoinformatics.",
       "link"			: "http://localhost:4000/project/project-icraf-geoinfo/",
       "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa. Methods",
+      "link"			: "http://localhost:4000/report/report-UNEP/",
+      "excerpt"		: "Gumbricht, T. (2009). Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa with Emphasis on Pilot One UN Countries: Mozambique, Tanzania and Rwanda. Nairobi. World Agroforestry Center (ICRAF). 44 p."
     }
   
 
@@ -572,6 +604,22 @@
     ,{
       "title"			: "Introduction to geovisualisation",
       "link"			: "http://localhost:4000/lecture-ag2412/ag2412-01-visualization-introduction/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Land Health Surveillance for Targeting Climate Change and Ecosystem Management Interventions in Africa",
+      "link"			: "http://localhost:4000/project/project-UNEP-ClimCh/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Sammanfattning (in Swedish)",
+      "link"			: "http://localhost:4000/lecture-1n1651/1n1651-09-GIS-summary/",
       "excerpt"		: ""
     }
   
@@ -812,7 +860,7 @@
     ,{
       "title"			: "Mount Rwenzori centennial climb",
       "link"			: "http://localhost:4000/image/image-mt-rwenzori/",
-      "excerpt"		: "In June 2006 I participated in the Centenary Celebrations of the Rwenzori climbing by the scientific expedition led by Luigi Amedeo of Savoy, Duke of Abruzzi in 1906. You can find my studies on the glacier retreat in a post on my professional pages."
+      "excerpt"		: ""
     }
   
 
@@ -844,6 +892,14 @@
     ,{
       "title"			: "Rwenzori Mountains Uganda - commemorate centennial climb",
       "link"			: "http://localhost:4000/project/project-rwenzori_tg/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Rwenzori Mountains Uganda - commemorate centennial climb",
+      "link"			: "http://localhost:4000/project/project-rewenzori_tg/",
       "excerpt"		: ""
     }
   
@@ -1045,6 +1101,14 @@
       "title"			: "Spatial data and geographic information systems.",
       "link"			: "http://localhost:4000/refereechapter/book-the-green-book/",
       "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Spatial data and geographic information systems.",
+      "link"			: "http://localhost:4000/refereechapter/book-chess/",
+      "excerpt"		: "Gumbricht, T., (2004). Spatial data and geographic information systems. In B.K. Patel., K. Muir-Leresche, R. Coe and S.D. Hainsworth (Eds), The Green Book: A guide to effective graduate research in Africa agriculture, environment, and rural development. The African Crop Science Society, Kampala,  pp 129-142."
     }
   
 
@@ -1276,7 +1340,7 @@
     ,{
       "title"			: "Lake Kyoga boat survey photos",
       "link"			: "http://localhost:4000/image/image-kyoga-boat/",
-      "excerpt"		: "Photos taken during reconnaissance boating on Lake Kyoga in Ocotber 2002. Photos taken by Camilla Andersson and Thomas Gumbricht. Slide cursor over images to view clear photo, click any image to see all photos in large size."
+      "excerpt"		: ""
     }
   
 
@@ -1284,7 +1348,7 @@
     ,{
       "title"			: "Lake Kyoga aerial photos",
       "link"			: "http://localhost:4000/image/image-kyoga-aerial/",
-      "excerpt"		: "Photos taken during reconnaissance flight over Lake Kyoga in Ocotber 2002. Photos taken by Camilla Andersson and Thomas Gumbricht. Slide cursor over images to view clear photo, click any image to see all photos in large size."
+      "excerpt"		: ""
     }
   
 
@@ -1714,6 +1778,14 @@
 
   
     ,{
+      "title"			: "Use of free water surface constructed wetland for dairy waste water treatment in temperate climate\"",
+      "link"			: "http://localhost:4000/mscthesis/msc-auren/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Colombia",
       "link"			: "http://localhost:4000/expedition/expedition-colombia/",
       "excerpt"		: ""
@@ -2114,6 +2186,14 @@
 
   
     ,{
+      "title"			: "Tillämpning av hydrologiska modeller i vattenplanering.",
+      "link"			: "http://localhost:4000/report/report-vaforsk/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
       "title"			: "Grafiskt beslutstödssystem - ett verktyg för effektivare hushållning av grus- och bergresurser.",
       "link"			: "http://localhost:4000/mscthesis/msc-jacobson/",
       "excerpt"		: ""
@@ -2229,6 +2309,14 @@
       "title"			: "Reduction of nutrients by water plants. Final report, the Snogeroed project",
       "link"			: "http://localhost:4000/journal/journal-vatten-snogeroed/",
       "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Projekt i kursen Naturresurshushållning våren 1991",
+      "link"			: "http://localhost:4000/course/course-natural-resources-management/",
+      "excerpt"		: "Gunnarsson, M and Hedin, C. Klassificering av tre avfallsdeponier i Botkyrka och Södertälje kommuner enligt Le-Grand-systemet. Supervisor: P.-O. Johansson."
     }
   
 
@@ -2497,45 +2585,49 @@
   
 
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
     ,{
       "title"			: "About Karttur",
       "link"			: "http://localhost:4000/about/",
       "excerpt"		: "Karttur is a private research company in Stockholm, Sweden"
     }
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
   
 
   
